@@ -2,7 +2,7 @@ albums:
   - album:
     artist: 'Kim Gordon'
     title: 'No Home Record'
-    image: ../assets/images/pic03.jpg
+    image: ../assets/images/AMOEBA/KimG.jpg
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Sheba and I are *essentially* divorced...
