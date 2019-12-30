@@ -42,7 +42,7 @@ const HomeIndex = ({data}) => {
                                         </header>
                                         <SectionBody content={album.content} />
                                         <ul className="actions">
-                                            <li><a href={album.link} className="button">Apple Music</a></li>
+                                            <li><a href={album.apple_link} className="button">Apple Music</a></li>
                                         </ul>
                                     </div>
                                 </div>

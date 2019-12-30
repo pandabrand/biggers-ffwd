@@ -3,6 +3,7 @@ albums:
     artist: 'Kim Gordon'
     title: 'No Home Record'
     image: ../assets/images/AMOEBA/KimG.jpg
+    apple_link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Sheba and I are *essentially* divorced...
@@ -11,6 +12,7 @@ albums:
     artist: 'something'
     title: 'here'
     image: ../assets/images/pic10.jpg
+    apple_link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Sheba and I are _essentially_ divorced!
@@ -28,6 +30,7 @@ albums:
     artist: 'something'
     title: 'here'
     image: ../assets/images/pic09.jpg
+    apple_link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Sheba and I are essentially divorced.
@@ -36,6 +39,7 @@ albums:
     artist: 'something'
     title: 'here'
     image: ../assets/images/pic09.jpg
+    apple_link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Sheba and I are essentially divorced.
