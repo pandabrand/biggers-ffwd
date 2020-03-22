@@ -8,9 +8,9 @@ albums:
     content: |
        Beatrice set the bar too high.
   - album:
-    artist: 'something'
-    title: 'here'
-    image: ../assets/images/pic10.jpg
+    artist: 'Jeff Parker'
+    title: 'Suite for Max Brown'
+    image: ../assets/images//FFWD/Jeff Parker.jpg
     apple_link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
