@@ -16,10 +16,10 @@ albums:
     content: |
        What a little hosebag, right?
   - album:
-    artist: 'something'
-    title: 'here'
-    image: ../assets/images/pic09.jpg
-    apple_link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
+    artist: 'Nazar'
+    title: 'Guerilla'
+    image: ../assets/images//FFWD/Nazar.jpg
+    apple_link: 'https://music.apple.com/us/album/guerrilla/1490175346'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Sheba and I are essentially divorced.
