@@ -118,3 +118,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
     content: |
+
+  - album:
+    artist: 'Smagghe & Cross'
+    title: '1819'
+    image: ../assets/images//FFWD/Smagghe.png
+    apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
+    link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
+    content: |
