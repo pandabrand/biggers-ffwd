@@ -49,7 +49,7 @@ albums:
        
   - album:
     artist: 'Gil Scott‐Heron & Makaya McCraven'
-    title: 'We're New Again: A Reimagining by Makaya McCraven'
+    title: 'We are New Again: A Reimagining by Makaya McCraven'
     image: ../assets/images/FFWD/GSH.jpg
     apple_link: 'https://music.apple.com/us/album/were-new-again-a-reimagining-by-makaya-mccraven/1488939124'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
@@ -58,7 +58,15 @@ albums:
  - album:
     artist: 'CS + Kreme'
     title: 'Snoopy'
-    image: ../assets/images/FFWD/Arca1.jpg
+    image: ../assets/images/FFWD/CSKreme.jpg
     apple_link: 'https://music.apple.com/us/album/snoopy/1495685642'
     link: 'https://www.dropbox.com/s/fivz4zea10190gn/Snoopy.zip?dl=1'
+    content: |
+    
+ - album:
+    artist: 'Ulla'
+    title: 'Tumbling Towards a Wall'
+    image: ../assets/images/FFWD/Ulla.jpg
+    apple_link: 'https://music.apple.com/us/album/tumbling-towards-a-wall/1497133330'
+    link: 'https://www.dropbox.com/s/8d0xfg1v6rcpevb/Ulla.zip?dl=1'
     content: |
