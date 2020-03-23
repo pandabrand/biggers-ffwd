@@ -46,6 +46,14 @@ albums:
     apple_link: 
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |
+
+    - album:
+    artist: 'Shabazz Palaces'
+    title: 'The Don of Diamond Dreams'
+    image: ../assets/images/FFWD/shabazz.jpg
+    apple_link: 
+    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    content: |
        
   - album:
     artist: 'Gil Scott‐Heron & Makaya McCraven'
