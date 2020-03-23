@@ -78,4 +78,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
+
+ - album:
+    artist: 'SQÜRL'
+    title: 'Some Music for Robby Müller'
+    image: ../assets/images//FFWD/SQÜRL.jpg
+    apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
+    link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
+    content: |
        
