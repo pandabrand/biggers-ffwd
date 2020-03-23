@@ -30,7 +30,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/metal-preyers/1501893164'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
-    
+
   - album:
     artist: 'Arca'
     title: ' KiCk i'
@@ -38,5 +38,12 @@ albums:
     apple_link: 
     link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
     content: |
-       
+    
+  - album:
+    artist: 'Thundercat'
+    title: ' It Is What It Is'
+    image: ../assets/images/FFWD/Thundercat.png
+    apple_link: 
+    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    content: |
        
