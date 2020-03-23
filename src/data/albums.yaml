@@ -33,7 +33,7 @@ albums:
 
   - album:
     artist: 'Arca'
-    title: ' KiCk i'
+    title: 'KiCk i'
     image: ../assets/images/FFWD/Arca1.jpg
     apple_link: 
     link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
@@ -41,7 +41,7 @@ albums:
     
   - album:
     artist: 'Thundercat'
-    title: ' It Is What It Is'
+    title: 'It Is What It Is'
     image: ../assets/images/FFWD/Thundercat.png
     apple_link: 
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
@@ -53,4 +53,12 @@ albums:
     image: ../assets/images/FFWD/GSH.jpg
     apple_link: 'https://music.apple.com/us/album/were-new-again-a-reimagining-by-makaya-mccraven/1488939124'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    content: |
+    
+ - album:
+    artist: 'CS + Kreme'
+    title: 'Snoopy'
+    image: ../assets/images/FFWD/Arca1.jpg
+    apple_link: 'https://music.apple.com/us/album/snoopy/1495685642'
+    link: 'https://www.dropbox.com/s/fivz4zea10190gn/Snoopy.zip?dl=1'
     content: |
