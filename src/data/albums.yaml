@@ -99,7 +99,22 @@ albums:
     artist: 'Leo Takami'
     title: 'Felis Catus and Silence'
     image: ../assets/images//FFWD/Leo Takami.jpg
-    apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
-    link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
+    apple_link: 'https://music.apple.com/us/album/felis-catus-and-silence/1489985356
+    link: 'https://www.dropbox.com/s/14p46rdgihaira0/LeoTakami.zip?dl=1'
     content: |
-       
+  
+- album:
+    artist: 'The Professionals'
+    title: 'The Professionals'
+    image: ../assets/images/FFWD/The Professionals.jpg
+    apple_link: 'https://music.apple.com/us/album/the-professionals/1493229323'
+    link: 'https://www.dropbox.com/s/e9glm84irdob5pl/TheProfessionals.zip?dl=1'
+    content: 
+
+  - album:
+    artist: 'Smagghe & Cross'
+    title: '1819'
+    image: ../assets/images//FFWD/Smagghe.png
+    apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
+    link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
+    content: |
