@@ -70,3 +70,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/tumbling-towards-a-wall/1497133330'
     link: 'https://www.dropbox.com/s/8d0xfg1v6rcpevb/Ulla.zip?dl=1'
     content: |
+
+  - album:
+    artist: 'Surgeon'
+    title: 'The Golden Sea'
+    image: ../assets/images//FFWD/Surgeon.jpg
+    apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
+    link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
+    content: |
+       
