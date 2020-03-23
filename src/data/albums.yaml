@@ -47,7 +47,7 @@ albums:
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |
        
-    - album:
+  - album:
     artist: 'Gil Scott‐Heron & Makaya McCraven'
     title: 'We're New Again: A Reimagining by Makaya McCraven'
     image: ../assets/images/FFWD/GSH.jpg
