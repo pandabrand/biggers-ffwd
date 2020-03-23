@@ -86,4 +86,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
+
+ - album:
+    artist: 'Leo Takami'
+    title: 'Felis Catus and Silence'
+    image: ../assets/images//FFWD/Leo Takami.jpg
+    apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
+    link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
+    content: |
        
