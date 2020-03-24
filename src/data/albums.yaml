@@ -192,14 +192,6 @@ albums:
     apple_link: 'https://music.apple.com/us/album/gestr%C3%BCpp/1504080007'
     link: 'https://www.dropbox.com/s/htvsaubw83b55f2/MinaeMinae.zip?dl=1'
     content: |
-    
-  - album:
-    artist: 'Cindy Lee'
-    title: 'What's Tonight To Eternity'
-    image: ../assets/images//FFWD/cindy.jpg
-    apple_link: 'https://music.apple.com/us/album/whats-tonight-to-eternity/1490927786'
-    link: 'https://www.dropbox.com/s/nddbpzhwqzju527/CindyLee.zip?dl=1'
-    content: |
 
   - album:
     artist: 'Caribou'
