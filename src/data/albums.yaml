@@ -196,7 +196,7 @@ albums:
   - album:
     artist: 'Cindy Lee'
     title: 'What's Tonight To Eternity'
-    image: ../assets/images//FFWD/Cindy.jpg
+    image: ../assets/images//FFWD/cindy.jpg
     apple_link: 'https://music.apple.com/us/album/whats-tonight-to-eternity/1490927786'
     link: 'https://www.dropbox.com/s/nddbpzhwqzju527/CindyLee.zip?dl=1'
     content: |
