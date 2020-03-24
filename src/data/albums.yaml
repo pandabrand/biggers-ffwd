@@ -7,6 +7,7 @@ albums:
     link: 'https://www.dropbox.com/s/sugp2fyifh0mx9z/BeatriceDillon.zip?dl=1'
     content: |
        Beatrice set an impossibly high bar with her debut, Workaround.
+
   - album:
     artist: 'Jeff Parker'
     title: 'Suite for Max Brown'
@@ -23,6 +24,7 @@ albums:
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Sheba and I are essentially divorced.
+
   - album:
     artist: 'Metal Preyers'
     title: 'Metal Preyers'
@@ -47,7 +49,7 @@ albums:
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |
 
-    - album:
+  - album:
     artist: 'Shabazz Palaces'
     title: 'The Don of Diamond Dreams'
     image: ../assets/images/FFWD/shabazz.jpg
@@ -63,7 +65,7 @@ albums:
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |
     
- - album:
+  - album:
     artist: 'CS + Kreme'
     title: 'Snoopy'
     image: ../assets/images/FFWD/CSKreme.jpg
@@ -71,7 +73,7 @@ albums:
     link: 'https://www.dropbox.com/s/fivz4zea10190gn/Snoopy.zip?dl=1'
     content: |
     
- - album:
+  - album:
     artist: 'Ulla'
     title: 'Tumbling Towards a Wall'
     image: ../assets/images/FFWD/Ulla.jpg
@@ -87,7 +89,7 @@ albums:
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
 
- - album:
+  - album:
     artist: 'SQÜRL'
     title: 'Some Music for Robby Müller'
     image: ../assets/images//FFWD/SQÜRL.jpg
@@ -95,15 +97,15 @@ albums:
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
 
- - album:
+  - album:
     artist: 'Leo Takami'
     title: 'Felis Catus and Silence'
     image: ../assets/images//FFWD/Leo Takami.jpg
-    apple_link: 'https://music.apple.com/us/album/felis-catus-and-silence/1489985356
+    apple_link: 'https://music.apple.com/us/album/felis-catus-and-silence/1489985356'
     link: 'https://www.dropbox.com/s/14p46rdgihaira0/LeoTakami.zip?dl=1'
     content: |
-  
-- album:
+
+  - album:
     artist: 'The Professionals'
     title: 'The Professionals'
     image: ../assets/images/FFWD/The Professionals.jpg
