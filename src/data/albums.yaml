@@ -114,6 +114,14 @@ albums:
     content: 
 
   - album:
+    artist: 'Wayne Phoenix'
+    title: 'Soaring Wayne Phoenix Story The Earth'
+    image: ../assets/images//FFWD/Wayne.png
+    apple_link: 'https://music.apple.com/us/album/soaring-wayne-phoenix-story-the-earth/1496591655'
+    link: 'https://www.dropbox.com/s/62nt3doqynhpfn0/WaynePhoenix.zip?dl=1'
+    content: |
+
+  - album:
     artist: 'Smagghe & Cross'
     title: '1819'
     image: ../assets/images//FFWD/Smagghe.png
@@ -122,9 +130,9 @@ albums:
     content: |
 
   - album:
-    artist: 'Smagghe & Cross'
-    title: '1819'
-    image: ../assets/images//FFWD/Smagghe.png
+    artist: 'Vladislav Delay'
+    title: 'Rakka'
+    image: ../assets/images//FFWD/rakka.jpg
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
     content: |
