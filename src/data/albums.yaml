@@ -1,7 +1,7 @@
 albums:
   - album:
     artist: 'Beatrice Dillon'
-    title: 'Workaround'
+    title: '_Workaround_'
     image: ../assets/images/FFWD/Beatrice Dillon.jpg
     apple_link: https://music.apple.com/us/album/workaround/1490180216'
     link: 'https://www.dropbox.com/s/sugp2fyifh0mx9z/BeatriceDillon.zip?dl=1'
@@ -10,7 +10,7 @@ albums:
 
   - album:
     artist: 'Jeff Parker'
-    title: 'Suite for Max Brown'
+    title: '_Suite for Max Brown_'
     image: ../assets/images//FFWD/Jeff Parker.jpg
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
@@ -18,7 +18,7 @@ albums:
        
   - album:
     artist: 'Nazar'
-    title: 'Guerilla'
+    title: '_Guerilla_'
     image: ../assets/images//FFWD/Nazar.png
     apple_link: 'https://music.apple.com/us/album/guerrilla/1490175346'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
@@ -27,7 +27,7 @@ albums:
 
   - album:
     artist: 'Metal Preyers'
-    title: 'Metal Preyers'
+    title: '_Metal Preyers_'
     image: ../assets/images/FFWD/Metal Preyers.jpg
     apple_link: 'https://music.apple.com/us/album/metal-preyers/1501893164'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
@@ -35,7 +35,7 @@ albums:
 
   - album:
     artist: 'Arca'
-    title: 'KiCk i'
+    title: '_KiCk i_'
     image: ../assets/images/FFWD/ARCA2.jpg
     apple_link: 
     link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
@@ -43,7 +43,7 @@ albums:
     
   - album:
     artist: 'Thundercat'
-    title: 'It Is What It Is'
+    title: '_It Is What It Is_'
     image: ../assets/images/FFWD/Thundercat.png
     apple_link: 
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
@@ -51,7 +51,7 @@ albums:
 
   - album:
     artist: 'Shabazz Palaces'
-    title: 'The Don of Diamond Dreams'
+    title: '_The Don of Diamond Dreams_'
     image: ../assets/images/FFWD/shabazz.jpg
     apple_link: 
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
@@ -59,7 +59,7 @@ albums:
        
   - album:
     artist: 'Gil Scott‐Heron & Makaya McCraven'
-    title: 'We are New Again: A Reimagining by Makaya McCraven'
+    title: '_We are New Again: A Reimagining by Makaya McCraven_'
     image: ../assets/images/FFWD/GSH.jpg
     apple_link: 'https://music.apple.com/us/album/were-new-again-a-reimagining-by-makaya-mccraven/1488939124'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
@@ -131,8 +131,8 @@ albums:
 
   - album:
     artist: 'Vladislav Delay'
-    title: 'Rakka'
+    title: _Rakka_
     image: ../assets/images//FFWD/rakka.jpg
-    apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
-    link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
+    apple_link: 'https://music.apple.com/us/album/rakka/1494766645'
+    link: 'https://www.dropbox.com/s/6rflu4ehvmz2bzs/VladislavDelay.zip?dl=1'
     content: |
