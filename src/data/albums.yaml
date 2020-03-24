@@ -188,7 +188,7 @@ albums:
   - album:
     artist: 'MinaeMinae'
     title: 'Gestrüppe'
-    image: ../assets/images//FFWD/Gestrüpp.png
+    image: ../assets/images//FFWD/Gestruppe.png
     apple_link: 'https://music.apple.com/us/album/gestr%C3%BCpp/1504080007'
     link: 'https://www.dropbox.com/s/htvsaubw83b55f2/MinaeMinae.zip?dl=1'
     content: |
