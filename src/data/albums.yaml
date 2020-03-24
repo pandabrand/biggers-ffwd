@@ -202,9 +202,9 @@ albums:
     content: |
   
   - album:
-    artist: 'MinaeMinae'
-    title: 'Gestrüppe'
-    image: ../assets/images//FFWD/Gestruppe.png
-    apple_link: 'https://music.apple.com/us/album/gestr%C3%BCpp/1504080007'
-    link: 'https://www.dropbox.com/s/htvsaubw83b55f2/MinaeMinae.zip?dl=1'
+    artist: 'Raime'
+    title: 'If This Is A Dream I Don't Ever Want To Wake Up'
+    image: ../assets/images//FFWD/raime.png
+    apple_link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=0'
+    link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     content: |
