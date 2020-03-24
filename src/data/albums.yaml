@@ -168,3 +168,20 @@ albums:
     apple_link: 'https://music.apple.com/us/album/build-a-diorama/1496147885'
     link: 'https://www.dropbox.com/s/sqxqceno58fkvy8/RobinSaville.zip?dl=1a'
     content: |
+        
+  - album:
+    artist: 'Priscilla Ermel'
+    title: 'Origens Da Luz'
+    image: ../assets/images//FFWD/Priscilla.jpg
+    apple_link: 'https://music.apple.com/us/album/origens-da-luz/1498461191'
+    link: 'https://www.dropbox.com/s/t0zitvougz6xs5e/PriscillaErmel.zip?dl=1'
+    content: |
+              
+  - album:
+    artist: 'Bullion'
+    title: 'We Had A Good Time'
+    image: ../assets/images//FFWD/Bullion.jpg
+    apple_link: 'https://music.apple.com/us/album/we-had-a-good-time-ep/1488352539'
+    link: 'https://www.dropbox.com/s/qq5essfy6jk2bf5/Bullion.zip?dl=1'
+    content: |
+    
