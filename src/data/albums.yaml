@@ -144,3 +144,19 @@ albums:
     apple_link: 'https://music.apple.com/us/album/the-slow-rush/1497230760'
     link: 'https://www.dropbox.com/s/s038b0aumpz679p/TameImpala.zip?dl=1'
     content: |
+
+  - album:
+    artist: 'Arca'
+    title: '@@@@@'
+    image: ../assets/images//FFWD/@@@@@e.jpg
+    apple_link: 'https://music.apple.com/us/album/single/1498072903'
+    link: 'https://www.dropbox.com/s/ltf21r2n6b97pmu/Arca.zip?dl=1'
+    content: |
+
+  - album:
+    artist: 'Omar S'
+    title: 'You Want'
+    image: ../assets/images//FFWD/OmarS.jpg
+    apple_link: 'https://music.apple.com/us/album/you-want/1500779023'
+    link: 'https://www.dropbox.com/s/lsjyued6ze5rfrk/OmarS.zip?dl=1'
+    content: |
