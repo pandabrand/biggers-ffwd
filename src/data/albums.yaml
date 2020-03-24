@@ -184,4 +184,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/we-had-a-good-time-ep/1488352539'
     link: 'https://www.dropbox.com/s/qq5essfy6jk2bf5/Bullion.zip?dl=1'
     content: |
+
+  - album:
+    artist: 'MinaeMinae'
+    title: 'Gestrüppe'
+    image: ../assets/images//FFWD/Gestrüpp.png
+    apple_link: 'https://music.apple.com/us/album/gestr%C3%BCpp/1504080007'
+    link: 'https://www.dropbox.com/s/htvsaubw83b55f2/MinaeMinae.zip?dl=1'
+    content: |
     
