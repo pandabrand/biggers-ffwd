@@ -193,3 +193,19 @@ albums:
     link: 'https://www.dropbox.com/s/htvsaubw83b55f2/MinaeMinae.zip?dl=1'
     content: |
     
+  - album:
+    artist: 'Cindy Lee'
+    title: 'What's Tonight To Eternity'
+    image: ../assets/images//FFWD/Cindy.jpg
+    apple_link: 'https://music.apple.com/us/album/whats-tonight-to-eternity/1490927786'
+    link: 'https://www.dropbox.com/s/nddbpzhwqzju527/CindyLee.zip?dl=1'
+    content: |
+
+  - album:
+    artist: 'Caribou'
+    title: 'Suddenly'
+    image: ../assets/images//FFWD/Caribou.png
+    apple_link: 'https://music.apple.com/us/album/suddenly/1487724466'
+    link: 'https://www.dropbox.com/s/guguykh392m80dh/Caribou.zip?dl=1'
+    content: |
+  
