@@ -125,8 +125,16 @@ albums:
     artist: 'Smagghe & Cross'
     title: '1819'
     image: ../assets/images//FFWD/Smagghe.png
-    apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
-    link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
+    apple_link: 'https://music.apple.com/us/album/1819/1498061815'
+    link: 'https://www.dropbox.com/s/t84e5emil56xvmz/Smagghe%26Cross.zip?dl=1'
+    content: |
+    
+  - album:
+    artist: 'Vladislav Delay'
+    title: _Rakka_
+    image: ../assets/images//FFWD/rakka.jpg
+    apple_link: 'https://music.apple.com/us/album/rakka/1494766645'
+    link: 'https://www.dropbox.com/s/6rflu4ehvmz2bzs/VladislavDelay.zip?dl=1'
     content: |
 
   - album:
