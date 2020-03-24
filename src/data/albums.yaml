@@ -139,7 +139,7 @@ albums:
 
   - album:
     artist: 'Vladislav Delay'
-    title: 'Rakka"
+    title: 'Rakka'
     image: ../assets/images//FFWD/rakka.jpg
     apple_link: 'https://music.apple.com/us/album/rakka/1494766645'
     link: 'https://www.dropbox.com/s/6rflu4ehvmz2bzs/VladislavDelay.zip?dl=1'
