@@ -160,3 +160,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/you-want/1500779023'
     link: 'https://www.dropbox.com/s/lsjyued6ze5rfrk/OmarS.zip?dl=1'
     content: |
+    
+  - album:
+    artist: 'Robin Saville'
+    title: 'Build a Diorama'
+    image: ../assets/images//FFWD/Robin.png
+    apple_link: 'https://music.apple.com/us/album/build-a-diorama/1496147885'
+    link: 'https://www.dropbox.com/s/sqxqceno58fkvy8/RobinSaville.zip?dl=1a'
+    content: |
