@@ -148,7 +148,7 @@ albums:
   - album:
     artist: 'Arca'
     title: '@@@@@'
-    image: ../assets/images//FFWD/@@@@@e.jpg
+    image: ../assets/images//FFWD/@@@@@.jpg
     apple_link: 'https://music.apple.com/us/album/single/1498072903'
     link: 'https://www.dropbox.com/s/ltf21r2n6b97pmu/Arca.zip?dl=1'
     content: |
