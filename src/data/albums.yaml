@@ -204,7 +204,7 @@ albums:
   - album:
     artist: 'Raime'
     title: 'If This Is A Dream I Don't Ever Want To Wake Up'
-    image: ../assets/images//FFWD/Raime.jpg
+    image: ../assets/images//FFWD/R.jpg
     apple_link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     content: |
