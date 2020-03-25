@@ -284,3 +284,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/quelque-chose-tombe/1490007758'
     link: 'https://www.dropbox.com/s/0nyd9do0x45754j/Racine.zip?dl=1'
     content: |  
+        
+  - album:
+    artist: 'The iDEALIST'
+    title: 'Anti-Fascist Dubs, Spiritual Electronics & Unconscious House Music'
+    image: ../assets/images//FFWD/Ideaslist.jpg
+    apple_link: 'https://music.apple.com/us/album/anti-fascist-dubs-spiritual-electronics-unconscious/1488442384'
+    link: 'https://www.dropbox.com/s/sph6v8mw7r2ji6v/TheIdealist.zip?dl=1'
+    content: |  
