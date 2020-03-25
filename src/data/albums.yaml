@@ -260,3 +260,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/middle-ouest/1492111637'
     link: 'https://www.dropbox.com/s/rj3x3ca5xw1238k/Bergsonist.zip?dl=1'
     content: |   
+        
+  - album:
+    artist: 'Serwed'
+    title: 'Middle Ouest'
+    image: ../assets/images//FFWD/serwed.jpg
+    apple_link: 'https://music.apple.com/us/album/middle-ouest/1492111637'
+    link: 'https://www.dropbox.com/s/rj3x3ca5xw1238k/Bergsonist.zip?dl=1'
+    content: |   
+
