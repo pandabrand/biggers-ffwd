@@ -276,3 +276,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/concrete-and-glass/1487791870'
     link: 'https://www.dropbox.com/s/1uk142l1nuj5qu9/NicolasGodin.zip?dl=1'
     content: |   
+          
+  - album:
+    artist: 'Racine'
+    title: 'Quelque Chose Tombe'
+    image: ../assets/images//FFWD/Racine.png
+    apple_link: 'https://music.apple.com/us/album/quelque-chose-tombe/1490007758'
+    link: 'https://www.dropbox.com/s/0nyd9do0x45754j/Racine.zip?dl=1'
+    content: |  
