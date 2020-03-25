@@ -263,9 +263,16 @@ albums:
         
   - album:
     artist: 'Serwed'
-    title: 'Middle Ouest'
+    title: 'Serwed II'
     image: ../assets/images//FFWD/serwed.jpg
     apple_link: 'https://www.dropbox.com/s/hxryslsfn9fcmvd/Serwed.zip?dl=1'
     link: 'https://www.dropbox.com/s/hxryslsfn9fcmvd/Serwed.zip?dl=1'
     content: |   
-
+      
+  - album:
+    artist: 'Nicolas Godin'
+    title: 'Concrete and Glass'
+    image: ../assets/images//FFWD/Nicolas.jpg
+    apple_link: 'https://music.apple.com/us/album/concrete-and-glass/1487791870'
+    link: 'https://www.dropbox.com/s/1uk142l1nuj5qu9/NicolasGodin.zip?dl=1'
+    content: |   
