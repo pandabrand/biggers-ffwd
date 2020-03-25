@@ -208,3 +208,11 @@ albums:
     apple_link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     content: |
+
+  - album:
+    artist: 'King Krule'
+    title: 'Man Alive!'
+    image: ../assets/images//FFWD/Krule.jpg
+    apple_link: 'https://music.apple.com/us/album/man-alive/1491285371'
+    link: 'https://www.dropbox.com/s/1rhu7s5x1v8r2p9/KingKrule.zip?dl=1'
+    content: |
