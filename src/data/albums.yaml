@@ -193,6 +193,7 @@ albums:
     link: 'https://www.dropbox.com/s/htvsaubw83b55f2/MinaeMinae.zip?dl=1'
     content: |
 
+  - album:
     artist: 'Caribou'
     title: 'Suddenly'
     image: ../assets/images//FFWD/Caribou.png
