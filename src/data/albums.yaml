@@ -238,6 +238,14 @@ albums:
     content: |
 
   - album:
+    artist: 'Moses Sumney'
+    title: 'græ: Part 1'
+    image: ../assets/images//FFWD/Moses.jpg
+    apple_link: 'https://music.apple.com/us/album/gr%C3%A6/1485411511'
+    link: 'https://www.dropbox.com/s/0bx6i6lq88tnxi9/MosesSumney.zip?dl=1'
+    content: |         
+
+  - album:
     artist: 'Gigi Masin'
     title: 'Calypso'
     image: ../assets/images//FFWD/Gigi.jpg
@@ -245,10 +253,3 @@ albums:
     link: 'hhttps://www.dropbox.com/s/srix8y09ql5c4s6/Gigi.zip?dl=1'
     content: |   
     
-  - album:
-    artist: 'Moses Sumney'
-    title: 'græ: Part 1'
-    image: ../assets/images//FFWD/Moses.jpg
-    apple_link: 'https://music.apple.com/us/album/gr%C3%A6/1485411511'
-    link: 'https://www.dropbox.com/s/0bx6i6lq88tnxi9/MosesSumney.zip?dl=1'
-    content: |         
