@@ -250,6 +250,13 @@ albums:
     title: 'Calypso'
     image: ../assets/images//FFWD/Gigi.jpg
     apple_link: 'https://music.apple.com/us/album/calypso/1485427892'
-    link: 'hhttps://www.dropbox.com/s/srix8y09ql5c4s6/Gigi.zip?dl=1'
+    link: 'https://www.dropbox.com/s/srix8y09ql5c4s6/Gigi.zip?dl=1'
     content: |   
     
+  - album:
+    artist: 'Bergsonist'
+    title: 'Middle Ouest'
+    image: ../assets/images//FFWD/Bergsonist.png
+    apple_link: 'https://music.apple.com/us/album/middle-ouest/1492111637'
+    link: 'https://www.dropbox.com/s/rj3x3ca5xw1238k/Bergsonist.zip?dl=1'
+    content: |   
