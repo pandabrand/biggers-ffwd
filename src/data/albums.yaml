@@ -222,6 +222,22 @@ albums:
     content: |
 
   - album:
+    artist: 'D.K.'
+    title: 'The Goddess is Dancing'
+    image: ../assets/images//FFWD/GMT.jpg
+    apple_link: 'https://music.apple.com/us/album/the-goddess-is-dancing/1501893289'
+    link: 'https://www.dropbox.com/s/pa5boc9wl55c5yt/GMT.zip?dl=1'
+    content: |
+
+ - album:
+    artist: 'Rejoicer'
+    title: 'Spiritual Sleaze'
+    image: ../assets/images//FFWD/Rejoicer.png
+    apple_link: 'https://music.apple.com/us/album/spiritual-sleaze/1487736835'
+    link: 'https://www.dropbox.com/s/sabbm16fks1z5ds/Rejoicer.zip?dl=1'
+    content: |
+
+  - album:
     artist: 'Gigi Masin'
     title: 'Calypso'
     image: ../assets/images//FFWD/Gigi.jpg
