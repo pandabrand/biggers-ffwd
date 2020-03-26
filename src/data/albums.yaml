@@ -294,11 +294,11 @@ albums:
     content: |  
             
   - album:
-    artist: 'The iDEALIST'
-    title: 'Anti-Fascist Dubs, Spiritual Electronics & Unconscious House Music'
-    image: ../assets/images//FFWD/Ideaslist.jpg
-    apple_link: 'https://music.apple.com/us/album/anti-fascist-dubs-spiritual-electronics-unconscious/1488442384'
-    link: 'https://www.dropbox.com/s/sph6v8mw7r2ji6v/TheIdealist.zip?dl=1'
+    artist: 'Shasta Cults'
+    title: 'Shasta Cults'
+    image: ../assets/images//FFWD/Shasta.png
+    apple_link: 'https://music.apple.com/us/album/shasta-cults/1486235542'
+    link: 'https://www.dropbox.com/s/39949u2k9fynflg/ShastaCults.zip?dl=1'
     content: |  
                 
   - album:
