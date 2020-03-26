@@ -351,7 +351,7 @@ albums:
                                            
   - album:
     artist: 'Resili'
-    title: 'Cups'
+    title: '=Cups='
     image: ../assets/images//FFWD/Resili.png
     apple_link: 'https://music.apple.com/us/album/cups/1498094487'
     link: 'https://www.dropbox.com/s/ydqvko5km9yu3rh/Resili.zip?dl=1'
