@@ -308,3 +308,19 @@ albums:
     apple_link: 'https://music.apple.com/us/album/gallery-s/1497266687'
     link: 'https://music.apple.com/us/album/gallery-s/1497266687'
     content: |  
+                    
+  - album:
+    artist: 'Aril Brikha'
+    title: 'Dance of a Trillion Stars'
+    image: ../assets/images//FFWD/Aril.jpg
+    apple_link: 'https://music.apple.com/us/album/dance-of-a-trillion-stars/1484521899'
+    link: 'https://www.dropbox.com/s/6rsothsga1htpxr/ArilBrikha.zip?dl=1'
+    content: |  
+                        
+  - album:
+    artist: 'Move D & Benjamin Brunn'
+    title: 'Let's Call It A Day'
+    image: ../assets/images//FFWD/MoveD.png
+    apple_link: 'https://music.apple.com/us/album/lets-call-it-a-day/1496012936'
+    link: 'https://www.dropbox.com/s/ygxycb67vcxzkra/MoveD%26BB.zip?dl=1'
+    content: |  
