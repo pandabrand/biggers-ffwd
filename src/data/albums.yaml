@@ -364,4 +364,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/lowlands-ep/1497943564'
     link: 'https://www.dropbox.com/s/tgex8jpadxch6m1/U.zip?dl=1'
     content: | 
-
+                                              
+  - album:
+    artist: 'U'
+    title: 'Lowlands'
+    image: ../assets/images//FFWD/Lowlands.jpg
+    apple_link: 'https://music.apple.com/us/album/lowlands-ep/1497943564'
+    link: 'https://www.dropbox.com/s/tgex8jpadxch6m1/U.zip?dl=1'
+    content: | 
