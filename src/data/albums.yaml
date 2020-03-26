@@ -100,14 +100,14 @@ albums:
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
-
+                                           
   - album:
-    artist: 'Leo Takami'
-    title: 'Felis Catus and Silence'
-    image: ../assets/images//FFWD/Leo Takami.jpg
-    apple_link: 'https://music.apple.com/us/album/felis-catus-and-silence/1489985356'
-    link: 'https://www.dropbox.com/s/14p46rdgihaira0/LeoTakami.zip?dl=1'
-    content: |
+    artist: 'Daniel Avery & Alessandro Cortini'
+    title: 'Illusion of Time'
+    image: ../assets/images//FFWD/Daniel.png
+    apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
+    link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
+    content: | 
 
   - album:
     artist: 'The Professionals'
@@ -116,6 +116,14 @@ albums:
     apple_link: 'https://music.apple.com/us/album/the-professionals/1493229323'
     link: 'https://www.dropbox.com/s/e9glm84irdob5pl/TheProfessionals.zip?dl=1'
     content: 
+                             
+  - album:
+    artist: 'Leo Takami'
+    title: 'Felis Catus and Silence'
+    image: ../assets/images//FFWD/Leo Takami.jpg
+    apple_link: 'https://music.apple.com/us/album/felis-catus-and-silence/1489985356'
+    link: 'https://www.dropbox.com/s/14p46rdgihaira0/LeoTakami.zip?dl=1'
+    content: |
 
   - album:
     artist: 'Wayne Phoenix'
@@ -348,15 +356,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/cups/1498094487'
     link: 'https://www.dropbox.com/s/ydqvko5km9yu3rh/Resili.zip?dl=1'
     content: | 
-                                           
-  - album:
-    artist: 'Daniel Avery & Alessandro Cortini'
-    title: 'Illusion of Time'
-    image: ../assets/images//FFWD/Daniel.png
-    apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
-    link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
-    content: | 
-                                              
+                     
   - album:
     artist: 'Joey Anderson'
     title: 'Rainbow Doll'
@@ -368,6 +368,14 @@ albums:
   - album:
     artist: 'U'
     title: 'Lowlands'
+    image: ../assets/images//FFWD/Lowlands.jpg
+    apple_link: 'https://music.apple.com/us/album/lowlands-ep/1497943564'
+    link: 'https://www.dropbox.com/s/tgex8jpadxch6m1/U.zip?dl=1'
+    content: | 
+                                         
+  - album:
+    artist: 'Roman Flügel'
+    title: 'Garden Party'
     image: ../assets/images//FFWD/Lowlands.jpg
     apple_link: 'https://music.apple.com/us/album/lowlands-ep/1497943564'
     link: 'https://www.dropbox.com/s/tgex8jpadxch6m1/U.zip?dl=1'
