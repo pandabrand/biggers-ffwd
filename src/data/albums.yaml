@@ -175,15 +175,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/you-want/1500779023'
     link: 'https://www.dropbox.com/s/lsjyued6ze5rfrk/OmarS.zip?dl=1'
     content: |
-    
-  - album:
-    artist: 'Robin Saville'
-    title: 'Build a Diorama'
-    image: ../assets/images//FFWD/Robin.png
-    apple_link: 'https://music.apple.com/us/album/build-a-diorama/1496147885'
-    link: 'https://www.dropbox.com/s/sqxqceno58fkvy8/RobinSaville.zip?dl=1a'
-    content: |
-        
+
   - album:
     artist: 'Priscilla Ermel'
     title: 'Origens Da Luz'
@@ -192,14 +184,6 @@ albums:
     link: 'https://www.dropbox.com/s/t0zitvougz6xs5e/PriscillaErmel.zip?dl=1'
     content: |
               
-  - album:
-    artist: 'Bullion'
-    title: 'We Had A Good Time'
-    image: ../assets/images//FFWD/Bullion.jpg
-    apple_link: 'https://music.apple.com/us/album/we-had-a-good-time-ep/1488352539'
-    link: 'https://www.dropbox.com/s/qq5essfy6jk2bf5/Bullion.zip?dl=1'
-    content: |
-
   - album:
     artist: 'MinaeMinae'
     title: 'Gestrüppe'
@@ -217,6 +201,14 @@ albums:
     content: |
 
   - album:
+    artist: 'Bullion'
+    title: 'We Had A Good Time'
+    image: ../assets/images//FFWD/Bullion.jpg
+    apple_link: 'https://music.apple.com/us/album/we-had-a-good-time-ep/1488352539'
+    link: 'https://www.dropbox.com/s/qq5essfy6jk2bf5/Bullion.zip?dl=1'
+    content: 
+
+  - album:
     artist: 'King Krule'
     title: 'Man Alive!'
     image: ../assets/images//FFWD/Krule.jpg
@@ -231,7 +223,15 @@ albums:
     apple_link: 'https://www.dropbox.com/s/43cr81i1f9g0ua7/BrodinskixLowJack.zip?dl=1'
     link: 'https://www.dropbox.com/s/43cr81i1f9g0ua7/BrodinskixLowJack.zip?dl=1'
     content: |
-
+    
+  - album:
+    artist: 'Robin Saville'
+    title: 'Build a Diorama'
+    image: ../assets/images//FFWD/Robin.png
+    apple_link: 'https://music.apple.com/us/album/build-a-diorama/1496147885'
+    link: 'https://www.dropbox.com/s/sqxqceno58fkvy8/RobinSaville.zip?dl=1a'
+    content: |
+        
   - album:
     artist: 'D.K.'
     title: 'The Goddess is Dancing'
