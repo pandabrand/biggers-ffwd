@@ -7,7 +7,7 @@ const Banner = (props) => (
                 <h1>>></h1>
             </header>
             <div className="content">
-                <p></p>
+               
             </div>
         </div>
     </section>
