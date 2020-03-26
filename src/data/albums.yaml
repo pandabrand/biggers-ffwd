@@ -39,29 +39,29 @@ albums:
     content: |
 
   - album:
-    artist: 'Arca'
-    title: 'KiCk i'
-    image: ../assets/images/FFWD/ARCA2.jpg
-    apple_link: 
-    link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
-    content: |
-    
-  - album:
-    artist: 'Thundercat'
-    title: 'It Is What It Is'
-    image: ../assets/images/FFWD/Thundercat.png
-    apple_link: 
-    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
-    content: |
-
-  - album:
     artist: 'Shabazz Palaces'
     title: 'The Don of Diamond Dreams'
     image: ../assets/images/FFWD/shabazz.jpg
     apple_link: 
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |
-       
+          
+  - album:
+    artist: 'Thundercat'
+    title: 'It Is What It Is'
+    image: ../assets/images/FFWD/Thundercat.png
+    apple_link: 
+    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    content: | 
+
+  - album:
+    artist: 'Arca'
+    title: 'KiCk i'
+    image: ../assets/images/FFWD/ARCA2.jpg
+    apple_link: 
+    link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
+    content: |
+
   - album:
     artist: 'Gil Scott‐Heron & Makaya McCraven'
     title: 'We are New Again: A Reimagining by Makaya McCraven'
