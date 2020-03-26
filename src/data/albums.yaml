@@ -1,7 +1,7 @@
 albums:
   - album:
     artist: 'Beatrice Dillon'
-    title: '*Workaround*'
+    title:  *Workaround*
     image: ../assets/images/FFWD/Beatrice Dillon.jpg
     apple_link: https://music.apple.com/us/album/workaround/1490180216'
     link: 'https://www.dropbox.com/s/sugp2fyifh0mx9z/BeatriceDillon.zip?dl=1'
