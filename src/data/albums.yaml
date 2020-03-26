@@ -324,3 +324,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/dhakar-ep/1487703154'
     link: 'https://www.dropbox.com/s/qihbkly1yp5a8qd/DeenaAbdelwahed.zip?dl=1'
     content: | 
+                               
+  - album:
+    artist: 'Against All Logic'
+    title: '2017-2019'
+    image: ../assets/images//FFWD/AAL.jpg
+    apple_link: 'https://music.apple.com/us/album/2017-2019/1496655403'
+    link: 'https://www.dropbox.com/s/0a3v65ad7jy2s1o/AgainstAllLogic.zip?dl=1'
+    content: | 
