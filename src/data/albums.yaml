@@ -356,3 +356,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/1972-ep/1497126545'
     link: 'https://www.dropbox.com/s/rnu9bl3b1bs49x5/tobias_.zip?dl=1'
     content: | 
+                                           
+  - album:
+    artist: 'Daniel Avery & Alessandro Cortini'
+    title: 'Illusion of Time'
+    image: ../assets/images//FFWD/Daniel.png
+    apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
+    link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
+    content: | 
+                   
