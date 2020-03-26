@@ -324,3 +324,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/lets-call-it-a-day/1496012936'
     link: 'https://www.dropbox.com/s/ygxycb67vcxzkra/MoveD%26BB.zip?dl=1'
     content: |  
+                           
+  - album:
+    artist: 'Deena Abdelwahed'
+    title: 'Dhakar'
+    image: ../assets/images//FFWD/moved.png
+    apple_link: 'https://music.apple.com/us/album/dhakar-ep/1487703154'
+    link: 'https://www.dropbox.com/s/qihbkly1yp5a8qd/DeenaAbdelwahed.zip?dl=1'
+    content: | 
