@@ -383,14 +383,6 @@ albums:
     apple_link: 'https://music.apple.com/us/album/garden-party-ep/1499109372'
     link: 'https://www.dropbox.com/s/gwdzsmqkdcjn5f5/RomanFl%C3%BCgel.zip?dl=1'
     content: | 
-                                     
-  - album:
-    artist: 'Neinzer'
-    title: 'Whities 025'
-    image: ../assets/images//FFWD/Neinzer.png
-    apple_link: 'https://music.apple.com/us/album/whities-025-ep/1498192586'
-    link: 'https://www.dropbox.com/s/olmxk8jxy8fqzf1/Neinzer.zip?dl=1'
-    content: | 
                                 
   - album:
     artist: 'Matt Karmil'
