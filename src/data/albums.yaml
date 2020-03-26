@@ -16,7 +16,7 @@ albums:
 
   - album:
     artist: 'Jeff Parker'
-    title: 'Suite for Max Brown'
+    title: '*Suite for Max Brown*'
     image: ../assets/images//FFWD/Jeff Parker.jpg
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
@@ -24,7 +24,7 @@ albums:
        
   - album:
     artist: 'Nazar'
-    title: 'Guerilla'
+    title: '*Guerilla*'
     image: ../assets/images//FFWD/Nazar.png
     apple_link: 'https://music.apple.com/us/album/guerrilla/1490175346'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
@@ -378,6 +378,14 @@ albums:
   - album:
     artist: 'Roman Flügel'
     title: 'Garden Party'
+    image: ../assets/images//FFWD/Roman.png
+    apple_link: 'https://music.apple.com/us/album/garden-party-ep/1499109372'
+    link: 'https://www.dropbox.com/s/gwdzsmqkdcjn5f5/RomanFl%C3%BCgel.zip?dl=1'
+    content: | 
+                                     
+  - album:
+    artist: 'Neinzer'
+    title: 'Whities 025'
     image: ../assets/images//FFWD/Roman.png
     apple_link: 'https://music.apple.com/us/album/garden-party-ep/1499109372'
     link: 'https://www.dropbox.com/s/gwdzsmqkdcjn5f5/RomanFl%C3%BCgel.zip?dl=1'
