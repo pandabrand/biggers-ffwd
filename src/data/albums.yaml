@@ -358,9 +358,9 @@ albums:
     content: | 
                                               
   - album:
-    artist: 'U'
-    title: 'Lowlands'
-    image: ../assets/images//FFWD/Daniel.png
+    artist: 'Joey Anderson'
+    title: 'Rainbow Doll'
+    image: ../assets/images//FFWD/joey.jpg
     apple_link: 'https://music.apple.com/us/album/lowlands-ep/1497943564'
     link: 'https://www.dropbox.com/s/tgex8jpadxch6m1/U.zip?dl=1'
     content: | 
