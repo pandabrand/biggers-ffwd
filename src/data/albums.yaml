@@ -328,7 +328,7 @@ albums:
   - album:
     artist: 'Deena Abdelwahed'
     title: 'Dhakar'
-    image: ../assets/images//FFWD/moved.png
+    image: ../assets/images//FFWD/Deena.png
     apple_link: 'https://music.apple.com/us/album/dhakar-ep/1487703154'
     link: 'https://www.dropbox.com/s/qihbkly1yp5a8qd/DeenaAbdelwahed.zip?dl=1'
     content: | 
