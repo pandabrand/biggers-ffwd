@@ -415,3 +415,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/like-we-never-existed-ep/1495070024'
     link: 'https://www.dropbox.com/s/96lohujhz7wwy3r/PederMannerfelt.zip?dl=1'
     content: | 
+                            
+  - album:
+    artist: 'Tobias'
+    title: '1972'
+    image: ../assets/images//FFWD/Tobias.jpg
+    apple_link: 'https://music.apple.com/us/album/1972-ep/1497126545'
+    link: 'https://www.dropbox.com/s/rnu9bl3b1bs49x5/tobias_.zip?dl=1'
+    content: | 
