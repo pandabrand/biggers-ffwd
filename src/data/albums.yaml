@@ -443,7 +443,7 @@ albums:
   - album:
     artist: 'Move D & Benjamin Brunn
     title: 'Let Us Call it a Day'
-    image: ../assets/images//FFWD/move.jpg
+    image: ../assets/images//FFWD/moved.png
     apple_link: 'https://music.apple.com/us/album/lets-call-it-a-day/1496012936'
     link: 'https://www.dropbox.com/s/ygxycb67vcxzkra/MoveD%26BB.zip?dl=1'
     content: |   
