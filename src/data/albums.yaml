@@ -439,11 +439,11 @@ albums:
     apple_link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     content: |
-                               
+                              
   - album:
-    artist: 'Move D & Benjamin Brunn
-    title: 'Let Us Call it a Day'
-    image: ../assets/images//FFWD/moved.png
-    apple_link: 'https://music.apple.com/us/album/lets-call-it-a-day/1496012936'
-    link: 'https://www.dropbox.com/s/ygxycb67vcxzkra/MoveD%26BB.zip?dl=1'
-    content: |   
+    artist: 'Leafar Legov'
+    title: 'Mirorr'
+    image: ../assets/images//FFWD/Leafar.jpg
+    apple_link: 'https://www.dropbox.com/s/ch9m6p3uygsnel0/LeafarLegov.zip?dl=1'
+    link: 'https://www.dropbox.com/s/ch9m6p3uygsnel0/LeafarLegov.zip?dl=1'
+    content: |
