@@ -383,6 +383,14 @@ albums:
     apple_link: 'https://music.apple.com/us/album/garden-party-ep/1499109372'
     link: 'https://www.dropbox.com/s/gwdzsmqkdcjn5f5/RomanFl%C3%BCgel.zip?dl=1'
     content: | 
+                                     
+  - album:
+    artist: 'Neinzer'
+    title: 'Whities 025'
+    image: ../assets/images//FFWD/Neinzer.png
+    apple_link: 'https://music.apple.com/us/album/whities-025-ep/1498192586'
+    link: 'https://www.dropbox.com/s/olmxk8jxy8fqzf1/Neinzer.zip?dl=1'
+    content: | 
                                 
   - album:
     artist: 'Matt Karmil'
@@ -390,4 +398,20 @@ albums:
     image: ../assets/images//FFWD/Karmil.jpg
     apple_link: 'https://music.apple.com/us/album/sts371/1494380340'
     link: 'https://www.dropbox.com/s/5zyts0ojfndzynv/STS371.zip?dl=1'
+    content: | 
+                                    
+  - album:
+    artist: 'Nicolas Jaar'
+    title: 'Cenzias'
+    image: ../assets/images//FFWD/Jaar.jpg
+    apple_link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
+    link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
+    content: | 
+                                   
+  - album:
+    artist: 'Peder Mannerfelt'
+    title: 'Like We Never Existed'
+    image: ../assets/images//FFWD/Peder.png
+    apple_link: 'https://music.apple.com/us/album/like-we-never-existed-ep/1495070024'
+    link: 'https://www.dropbox.com/s/96lohujhz7wwy3r/PederMannerfelt.zip?dl=1'
     content: | 
