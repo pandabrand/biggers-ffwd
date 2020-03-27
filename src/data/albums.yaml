@@ -407,7 +407,15 @@ albums:
     apple_link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
     link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
     content: | 
-                                   
+                                     
+  - album:
+    artist: 'PML Beatz'
+    title: 'Pedra de 800 Kg'
+    image: ../assets/images//FFWD/PML.png
+    apple_link: 'https://music.apple.com/us/album/like-we-never-existed-ep/1495070024'
+    link: 'https://www.dropbox.com/s/96lohujhz7wwy3r/PederMannerfelt.zip?dl=1'
+    content: | 
+
   - album:
     artist: 'Peder Mannerfelt'
     title: 'Like We Never Existed'
@@ -423,15 +431,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/1972-ep/1497126545'
     link: 'https://www.dropbox.com/s/rnu9bl3b1bs49x5/tobias_.zip?dl=1'
     content: | 
-                                     
-  - album:
-    artist: 'PML Beatz'
-    title: 'Pedra de 800 Kg'
-    image: ../assets/images//FFWD/PML.png
-    apple_link: 'https://music.apple.com/us/album/like-we-never-existed-ep/1495070024'
-    link: 'https://www.dropbox.com/s/96lohujhz7wwy3r/PederMannerfelt.zip?dl=1'
-    content: | 
-                            
+                          
   - album:
     artist: 'Raime'
     title: 'If This Is A Dream I Don Not Ever Want To Wake Up'
