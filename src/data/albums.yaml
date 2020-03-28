@@ -561,6 +561,14 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/cocprs2nq8vd2to/JoinTheFuture.zip?dl=1'
     content: | 
+                                  
+  - album:
+    artist: 'Move D and Benjamin Brunn'
+    title: 'Let us Call It A Day'
+    image: ../assets/images/FFWD/ben.png
+    apple_link: 'https://music.apple.com/us/album/lets-call-it-a-day/1496012936'
+    link: 'https://www.dropbox.com/s/ygxycb67vcxzkra/MoveD%26BB.zip?dl=1'
+    content: | 
                          
   - album:
     artist: 'Maurice Fulton'
@@ -576,12 +584,4 @@ albums:
     image: ../assets/images/FFWD/Jay.jpg
     apple_link: 'https://music.apple.com/us/album/a-written-testimony/1502677867'
     link: 'https://www.dropbox.com/s/6wap33xmyqwoftk/JayElectronica.zip?dl=1'
-    content: | 
-                              
-  - album:
-    artist: 'Move D and Benjamin Brunn'
-    title: 'Let us Call It A Day'
-    image: ../assets/images/FFWD/ben.png
-    apple_link: 'https://music.apple.com/us/album/lets-call-it-a-day/1496012936'
-    link: 'https://www.dropbox.com/s/ygxycb67vcxzkra/MoveD%26BB.zip?dl=1'
     content: | 
