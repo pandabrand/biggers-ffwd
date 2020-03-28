@@ -489,3 +489,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/sketch-for-winter-viii-floating-tone-ep/1499930542'
     link: 'https://www.dropbox.com/s/pvns6phwvykgi4h/AriaRostamiDanielBlomquist.zip?dl=1'
     content: | 
+            
+  - album:
+    artist: 'DJ Lycox'
+    title: 'Kizas do Ly'
+    image: ../assets/images/FFWD/Lycox.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/3t9hhwqe4kphhx8/DJLycox.zip?dl=1'
+    content: | 
