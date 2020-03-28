@@ -577,3 +577,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/a-written-testimony/1502677867'
     link: 'https://www.dropbox.com/s/6wap33xmyqwoftk/JayElectronica.zip?dl=1'
     content: | 
+                              
+  - album:
+    artist: 'Move D and Benj'
+    title: 'Earth'
+    image: ../assets/images/FFWD/Maurice.png
+    apple_link: 'https://music.apple.com/us/album/earth-single/1499372304'
+    link: 'https://www.dropbox.com/s/ygxycb67vcxzkra/MoveD%26BB.zip?dl=1'
+    content: | 
