@@ -161,6 +161,14 @@ albums:
     apple_link: 'https://music.apple.com/us/album/vocal-city/90742277'
     link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
     content: |
+    
+  - album:
+    artist: 'Laurine Frost'
+    title: 'Lena'
+    image: ../assets/images/FFWD/Laurine.png
+    apple_link: 'https://music.apple.com/us/album/lena/1502294584'
+    link: 'https://www.dropbox.com/s/e2rfyhf2sufi5m7/LaurineFrost.zip?dl=1'
+    content: |  
 
   - album:
     artist: 'Smagghe & Cross'
@@ -192,15 +200,7 @@ albums:
     image: ../assets/images/FFWD/JASSS.jpg
     apple_link: 'https://music.apple.com/us/album/whities-027-single/1495201928'
     link: 'https://www.dropbox.com/s/kbea7zj4w1yqp8v/JASSS.zip?dl=1'
-    content: | 
-          
-  - album:
-    artist: 'Laurine Frost'
-    title: 'Lena'
-    image: ../assets/images/FFWD/Laurine.png
-    apple_link: 'https://music.apple.com/us/album/lena/1502294584'
-    link: 'https://www.dropbox.com/s/e2rfyhf2sufi5m7/LaurineFrost.zip?dl=1'
-    content: |        
+    content: |       
 
   - album:
     artist: 'Priscilla Ermel'
