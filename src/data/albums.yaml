@@ -673,3 +673,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/travel-in-peace-single/1497790423'
     link: 'https://www.dropbox.com/s/7evpfcu49qjyguo/TheChiFactory.zip?dl=1'
     content: | 
+                             
+  - album:
+    artist: 'The Fear Ratio'
+    title: 'They Can't Be Saved'
+    image: ../assets/images/FFWD/fearratio.png
+    apple_link: 'https://music.apple.com/us/album/they-cant-be-saved/1496811570'
+    link: 'https://www.dropbox.com/s/z2jr28zikpad9i5/TheFearRatio.zip?dl=1a'
+    content: | 
