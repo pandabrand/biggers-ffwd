@@ -473,7 +473,8 @@ albums:
     apple_link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
     link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
     content: |
-
+    
+  - album:
     artist: 'Will Guthrie'
     title: 'Nist Nah'
     image: ../assets/images//FFWD/WillGuthrie.jpg
