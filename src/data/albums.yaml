@@ -677,7 +677,15 @@ albums:
   - album:
     artist: 'The Fear Ratio'
     title: 'They Can't Be Saved'
-    image: ../assets/images/FFWD/fear.png
+    image: ../assets/images/FFWD/180046.jpg
     apple_link: 'https://music.apple.com/us/album/they-cant-be-saved/1496811570'
-    link: 'https://www.dropbox.com/s/z2jr28zikpad9i5/TheFearRatio.zip?dl=1a'
+    link: 'https://www.dropbox.com/s/z2jr28zikpad9i5/TheFearRatio.zip?dl=1'
+    content: | 
+                                 
+  - album:
+    artist: 'Tornado Wallace'
+    title: 'Midnight Mania'
+    image: ../assets/images/FFWD/Tornado.jpg
+    apple_link: 'https://music.apple.com/us/album/midnight-mania/1501440674'
+    link: 'https://www.dropbox.com/s/knsi16ysnwy8446/TornadoWallace.zip?dl=1'
     content: | 
