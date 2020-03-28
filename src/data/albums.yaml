@@ -681,3 +681,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/midnight-mania/1501440674'
     link: 'https://www.dropbox.com/s/knsi16ysnwy8446/TornadoWallace.zip?dl=1'
     content: | 
+                     
+  - album:
+    artist: 'Roger and Brian Eno'
+    title: 'Mixing Colours'
+    image: ../assets/images/FFWD/Roger.jpg
+    apple_link: 'https://music.apple.com/us/album/mixing-colours/1494291232'
+    link: 'https://www.dropbox.com/s/knsi16ysnwy8446/TornadoWallace.zip?dl=1'
+    content: | 
