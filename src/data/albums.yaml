@@ -553,4 +553,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/high-speed-wind/1501679066'
     link: 'https://www.dropbox.com/s/nbvvkrkqh2gggw6/DJTrystero.zip?dl=1'
     content: | 
- 
+                     
+  - album:
+    artist: 'Join The Future'
+    title: 'Join The Future: UK Bleep & Bass 1988-1991'
+    image: ../assets/images/FFWD/Join.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/cocprs2nq8vd2to/JoinTheFuture.zip?dl=1'
+    content: | 
