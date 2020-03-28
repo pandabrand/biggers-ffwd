@@ -641,3 +641,19 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/2pbxtcu0zk70nbs/PatrickHolland.zip?dl=1'
     content: | 
+                                   
+  - album:
+    artist: 'Primitive World'
+    title: 'The Revolt of Aprhodite'
+    image: ../assets/images/FFWD/Primitive.jpg
+    apple_link: 'https://music.apple.com/us/album/the-revolt-of-aphrodite/1503786531'
+    link: 'https://www.dropbox.com/s/cgkyt76mdofzcsc/PrimitiveWorld.zip?dl=1'
+    content: | 
+                                 
+  - album:
+    artist: 'Ratgrave'
+    title: 'Rock'
+    image: ../assets/images/FFWD/Ratgrave.jpg
+    apple_link: 'https://music.apple.com/us/album/rock/1496016045'
+    link: 'https://www.dropbox.com/s/yyr2yfyph657eu4/Ratgrave.zip?dl=1'
+    content: | 
