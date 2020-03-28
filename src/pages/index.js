@@ -12,8 +12,8 @@ const HomeIndex = ({data}) => {
             <Helmet
                 title="FFWD 2019"
                 meta={[
-                    { name: 'description', content: 'Nunya' },
-                    { name: 'keywords', content: 'nunya, bidness' },
+                    { name: 'description', content: 'FFWD' },
+                    { name: 'keywords', content: 'FFWD' },
                 ]}
             >
             </Helmet>
@@ -27,12 +27,14 @@ const HomeIndex = ({data}) => {
                         return (
                             <section key={index}>
                                 <a href={album.link} className="image">
-                                    <img
-                                        src={featuredImgFluid.fluid.src}
-                                        srcSet={featuredImgFluid.fluid.srcSet}
-                                        sizes={featuredImgFluid.fluid.sizes}
-                                        alt={album.title}
-                                    />
+                                    <div class="img-wrapper">
+                                        <img
+                                            src={featuredImgFluid.fluid.src}
+                                            srcSet={featuredImgFluid.fluid.srcSet}
+                                            sizes={featuredImgFluid.fluid.sizes}
+                                            alt={album.title}
+                                        />
+                                    </div>
                                 </a>
                                 <div className="content">
                                     <div className="inner">
@@ -41,9 +43,11 @@ const HomeIndex = ({data}) => {
                                             <h3>{album.title}</h3>
                                         </header>
                                         <SectionBody content={album.content} />
-                                        <ul className="actions">
-                                            <li><a href={album.apple_link} className="button">Apple Music</a></li>
-                                        </ul>
+                                        { album.apple_link.length > 0 &&
+                                            <ul className="actions">
+                                                <li><a href={album.apple_link} className="button">Apple Music</a></li>
+                                            </ul>
+                                        }
                                     </div>
                                 </div>
                             </section>
@@ -62,6 +66,7 @@ query {
         artist
         content
         link
+        apple_link
         title
         image {
             childImageSharp {

@@ -41,10 +41,20 @@
 				width: 30%;
 				margin: 50px;
 
+				.img-wrapper {
+					position: relative;
+					padding-top: 100%;
+
+				}
+
 				img {
+					position: absolute;
 					border-radius: 0;
 					display: block;
 					width: 100%;
+					height: auto;
+					top: 0;
+					left: 0;
 				}
 
 				&:before {
@@ -112,8 +122,9 @@
 		@include breakpoint(medium) {
 			> section {
 				display: block;
-
+				
 				> .image {
+					margin: 0;
 					width: 100%;
 				}
 

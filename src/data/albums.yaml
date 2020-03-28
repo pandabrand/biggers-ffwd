@@ -3,7 +3,7 @@ albums:
     artist: 'Beatrice Dillon'
     title:  'Workaround'
     image: ../assets/images/FFWD/Beatrice Dillon.jpg
-    apple_link: https://music.apple.com/us/album/workaround/1490180216'
+    apple_link: 'https://music.apple.com/us/album/workaround/1490180216'
     link: 'https://www.dropbox.com/s/sugp2fyifh0mx9z/BeatriceDillon.zip?dl=1'
     content: |
        Beatrice sets the bar impossibly high for 2020 with *Workaround*, her long-awaited debut for PAN. 
@@ -19,7 +19,7 @@ albums:
   - album:
     artist: 'Jeff Parker'
     title: 'Suite for Max Brown'
-    image: ../assets/images//FFWD/Jeff Parker.jpg
+    image: ../assets/images/FFWD/Jeff Parker.jpg
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
     content: |
@@ -27,7 +27,7 @@ albums:
   - album:
     artist: 'Nazar'
     title: 'Guerilla'
-    image: ../assets/images//FFWD/Nazar.png
+    image: ../assets/images/FFWD/Nazar.png
     apple_link: 'https://music.apple.com/us/album/guerrilla/1490175346'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
@@ -37,7 +37,7 @@ albums:
     artist: 'Thundercat'
     title: 'It Is What It Is'
     image: ../assets/images/FFWD/Thundercat.png
-    apple_link: 
+    apple_link: ''
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: | 
 
@@ -53,7 +53,7 @@ albums:
     artist: 'Shabazz Palaces'
     title: 'The Don of Diamond Dreams'
     image: ../assets/images/FFWD/shabazz.jpg
-    apple_link: 
+    apple_link: ''
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |
 
@@ -69,7 +69,7 @@ albums:
     artist: 'Arca'
     title: 'KiCk i'
     image: ../assets/images/FFWD/ARCA2.jpg
-    apple_link: 
+    apple_link: ''
     link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
     content: |
     
@@ -84,7 +84,7 @@ albums:
   - album:
     artist: 'SQÜRL'
     title: 'Some Music for Robby Müller'
-    image: ../assets/images//FFWD/SQÜRL.jpg
+    image: ../assets/images/FFWD/SQÜRL.jpg
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
@@ -92,7 +92,7 @@ albums:
   - album:
     artist: 'Daniel Avery & Alessandro Cortini'
     title: 'Illusion of Time'
-    image: ../assets/images//FFWD/Daniel.png
+    image: ../assets/images/FFWD/Daniel.png
     apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
     link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
     content: | 
@@ -117,7 +117,7 @@ albums:
   - album:
     artist: 'Surgeon'
     title: 'The Golden Sea'
-    image: ../assets/images//FFWD/Surgeon.jpg
+    image: ../assets/images/FFWD/Surgeon.jpg
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
@@ -125,7 +125,7 @@ albums:
   - album:
     artist: 'Wayne Phoenix'
     title: 'Soaring Wayne Phoenix Story The Earth'
-    image: ../assets/images//FFWD/Wayne.png
+    image: ../assets/images/FFWD/Wayne.png
     apple_link: 'https://music.apple.com/us/album/soaring-wayne-phoenix-story-the-earth/1496591655'
     link: 'https://www.dropbox.com/s/62nt3doqynhpfn0/WaynePhoenix.zip?dl=1'
     content: |
@@ -133,7 +133,7 @@ albums:
   - album:
     artist: 'Vladislav Delay'
     title: 'Rakka'
-    image: ../assets/images//FFWD/rakka.jpg
+    image: ../assets/images/FFWD/rakka.jpg
     apple_link: 'https://music.apple.com/us/album/rakka/1494766645'
     link: 'https://www.dropbox.com/s/6rflu4ehvmz2bzs/VladislavDelay.zip?dl=1'
     content: |
@@ -141,7 +141,7 @@ albums:
   - album:
     artist: 'Vladislav Delay'
     title: 'Multila (2020 Remaster)'
-    image: ../assets/images//FFWD/Multila.png
+    image: ../assets/images/FFWD/Multila.png
     apple_link: 'https://music.apple.com/us/album/multila/259167542'
     link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
     content: |
@@ -149,7 +149,7 @@ albums:
   - album:
     artist: 'Luomo'
     title: 'Vocalcity (2020 Remaster)'
-    image: ../assets/images//FFWD/Luomo.jpg
+    image: ../assets/images/FFWD/Luomo.jpg
     apple_link: 'https://music.apple.com/us/album/vocal-city/90742277'
     link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
     content: |
@@ -157,7 +157,7 @@ albums:
   - album:
     artist: 'Leo Takami'
     title: 'Felis Catus and Silence'
-    image: ../assets/images//FFWD/Leo Takami.jpg
+    image: ../assets/images/FFWD/Leo Takami.jpg
     apple_link: 'https://music.apple.com/us/album/felis-catus-and-silence/1489985356'
     link: 'https://www.dropbox.com/s/14p46rdgihaira0/LeoTakami.zip?dl=1'
     content: |
@@ -165,7 +165,7 @@ albums:
   - album:
     artist: 'Smagghe & Cross'
     title: '1819'
-    image: ../assets/images//FFWD/Smagghe.png
+    image: ../assets/images/FFWD/Smagghe.png
     apple_link: 'https://music.apple.com/us/album/1819/1498061815'
     link: 'https://www.dropbox.com/s/t84e5emil56xvmz/Smagghe%26Cross.zip?dl=1'
     content: |
@@ -173,7 +173,7 @@ albums:
   - album:
     artist: 'Tame Impala'
     title: 'The Slow Rush'
-    image: ../assets/images//FFWD/Tame.jpg
+    image: ../assets/images/FFWD/Tame.jpg
     apple_link: 'https://music.apple.com/us/album/the-slow-rush/1497230760'
     link: 'https://www.dropbox.com/s/s038b0aumpz679p/TameImpala.zip?dl=1'
     content: |
@@ -181,7 +181,7 @@ albums:
   - album:
     artist: 'Arca'
     title: '@@@@@'
-    image: ../assets/images//FFWD/@@@@@.jpg
+    image: ../assets/images/FFWD/@@@@@.jpg
     apple_link: 'https://music.apple.com/us/album/single/1498072903'
     link: 'https://www.dropbox.com/s/ltf21r2n6b97pmu/Arca.zip?dl=1'
     content: |
@@ -189,7 +189,7 @@ albums:
   - album:
     artist: 'Omar S'
     title: 'You Want'
-    image: ../assets/images//FFWD/OmarS.jpg
+    image: ../assets/images/FFWD/OmarS.jpg
     apple_link: 'https://music.apple.com/us/album/you-want/1500779023'
     link: 'https://www.dropbox.com/s/lsjyued6ze5rfrk/OmarS.zip?dl=1'
     content: |
@@ -197,7 +197,7 @@ albums:
   - album:
     artist: 'Priscilla Ermel'
     title: 'Origens Da Luz'
-    image: ../assets/images//FFWD/Priscilla.jpg
+    image: ../assets/images/FFWD/Priscilla.jpg
     apple_link: 'https://music.apple.com/us/album/origens-da-luz/1498461191'
     link: 'https://www.dropbox.com/s/t0zitvougz6xs5e/PriscillaErmel.zip?dl=1'
     content: |
@@ -205,7 +205,7 @@ albums:
   - album:
     artist: 'MinaeMinae'
     title: 'Gestrüppe'
-    image: ../assets/images//FFWD/Gestruppe.png
+    image: ../assets/images/FFWD/Gestruppe.png
     apple_link: 'https://music.apple.com/us/album/gestr%C3%BCpp/1504080007'
     link: 'https://www.dropbox.com/s/htvsaubw83b55f2/MinaeMinae.zip?dl=1'
     content: |
@@ -213,7 +213,7 @@ albums:
   - album:
     artist: 'Caribou'
     title: 'Suddenly'
-    image: ../assets/images//FFWD/Caribou.png
+    image: ../assets/images/FFWD/Caribou.png
     apple_link: 'https://music.apple.com/us/album/suddenly/1487724466'
     link: 'https://www.dropbox.com/s/guguykh392m80dh/Caribou.zip?dl=1'
     content: |
@@ -221,7 +221,7 @@ albums:
   - album:
     artist: 'Bullion'
     title: 'We Had A Good Time'
-    image: ../assets/images//FFWD/Bullion.jpg
+    image: ../assets/images/FFWD/Bullion.jpg
     apple_link: 'https://music.apple.com/us/album/we-had-a-good-time-ep/1488352539'
     link: 'https://www.dropbox.com/s/qq5essfy6jk2bf5/Bullion.zip?dl=1'
     content: 
@@ -229,7 +229,7 @@ albums:
   - album:
     artist: 'King Krule'
     title: 'Man Alive!'
-    image: ../assets/images//FFWD/Krule.jpg
+    image: ../assets/images/FFWD/Krule.jpg
     apple_link: 'https://music.apple.com/us/album/man-alive/1491285371'
     link: 'https://www.dropbox.com/s/1rhu7s5x1v8r2p9/KingKrule.zip?dl=1'
     content: |
@@ -237,7 +237,7 @@ albums:
   - album:
     artist: 'Brodinski x Low Jack'
     title: 'BZH009'
-    image: ../assets/images//FFWD/BZH009.jpg
+    image: ../assets/images/FFWD/BZH009.jpg
     apple_link: 'https://www.dropbox.com/s/43cr81i1f9g0ua7/BrodinskixLowJack.zip?dl=1'
     link: 'https://www.dropbox.com/s/43cr81i1f9g0ua7/BrodinskixLowJack.zip?dl=1'
     content: |
@@ -245,7 +245,7 @@ albums:
   - album:
     artist: 'Robin Saville'
     title: 'Build a Diorama'
-    image: ../assets/images//FFWD/Robin.png
+    image: ../assets/images/FFWD/Robin.png
     apple_link: 'https://music.apple.com/us/album/build-a-diorama/1496147885'
     link: 'https://www.dropbox.com/s/sqxqceno58fkvy8/RobinSaville.zip?dl=1a'
     content: |
@@ -253,7 +253,7 @@ albums:
   - album:
     artist: 'D.K.'
     title: 'The Goddess is Dancing'
-    image: ../assets/images//FFWD/GMT.jpg
+    image: ../assets/images/FFWD/GMT.jpg
     apple_link: 'https://music.apple.com/us/album/the-goddess-is-dancing/1501893289'
     link: 'https://www.dropbox.com/s/pa5boc9wl55c5yt/GMT.zip?dl=1'
     content: |
@@ -261,7 +261,7 @@ albums:
   - album:
     artist: 'Rejoicer'
     title: 'Spiritual Sleaze'
-    image: ../assets/images//FFWD/Rejoicer.png
+    image: ../assets/images/FFWD/Rejoicer.png
     apple_link: 'https://music.apple.com/us/album/spiritual-sleaze/1487736835'
     link: 'https://www.dropbox.com/s/sabbm16fks1z5ds/Rejoicer.zip?dl=1'
     content: |
@@ -269,7 +269,7 @@ albums:
   - album:
     artist: 'Moses Sumney'
     title: 'græ: Part 1'
-    image: ../assets/images//FFWD/Moses.jpg
+    image: ../assets/images/FFWD/Moses.jpg
     apple_link: 'https://music.apple.com/us/album/gr%C3%A6/1485411511'
     link: 'https://www.dropbox.com/s/0bx6i6lq88tnxi9/MosesSumney.zip?dl=1'
     content: |         
@@ -277,7 +277,7 @@ albums:
   - album:
     artist: 'Gigi Masin'
     title: 'Calypso'
-    image: ../assets/images//FFWD/Gigi.jpg
+    image: ../assets/images/FFWD/Gigi.jpg
     apple_link: 'https://music.apple.com/us/album/calypso/1485427892'
     link: 'https://www.dropbox.com/s/srix8y09ql5c4s6/Gigi.zip?dl=1'
     content: |   
@@ -285,7 +285,7 @@ albums:
   - album:
     artist: 'Bergsonist'
     title: 'Middle Ouest'
-    image: ../assets/images//FFWD/Bergsonist.png
+    image: ../assets/images/FFWD/Bergsonist.png
     apple_link: 'https://music.apple.com/us/album/middle-ouest/1492111637'
     link: 'https://www.dropbox.com/s/rj3x3ca5xw1238k/Bergsonist.zip?dl=1'
     content: |   
@@ -293,7 +293,7 @@ albums:
   - album:
     artist: 'Serwed'
     title: 'Serwed II'
-    image: ../assets/images//FFWD/serwed.jpg
+    image: ../assets/images/FFWD/serwed.jpg
     apple_link: 'https://www.dropbox.com/s/hxryslsfn9fcmvd/Serwed.zip?dl=1'
     link: 'https://www.dropbox.com/s/hxryslsfn9fcmvd/Serwed.zip?dl=1'
     content: |   
@@ -301,7 +301,7 @@ albums:
   - album:
     artist: 'Nicolas Godin'
     title: 'Concrete and Glass'
-    image: ../assets/images//FFWD/Nicolas.jpg
+    image: ../assets/images/FFWD/Nicolas.jpg
     apple_link: 'https://music.apple.com/us/album/concrete-and-glass/1487791870'
     link: 'https://www.dropbox.com/s/1uk142l1nuj5qu9/NicolasGodin.zip?dl=1'
     content: |   
@@ -309,7 +309,7 @@ albums:
   - album:
     artist: 'Racine'
     title: 'Quelque Chose Tombe'
-    image: ../assets/images//FFWD/Racine.png
+    image: ../assets/images/FFWD/Racine.png
     apple_link: 'https://music.apple.com/us/album/quelque-chose-tombe/1490007758'
     link: 'https://www.dropbox.com/s/0nyd9do0x45754j/Racine.zip?dl=1'
     content: |  
@@ -317,7 +317,7 @@ albums:
   - album:
     artist: 'The iDEALIST'
     title: 'Anti-Fascist Dubs, Spiritual Electronics & Unconscious House Music'
-    image: ../assets/images//FFWD/Ideaslist.jpg
+    image: ../assets/images/FFWD/Ideaslist.jpg
     apple_link: 'https://music.apple.com/us/album/anti-fascist-dubs-spiritual-electronics-unconscious/1488442384'
     link: 'https://www.dropbox.com/s/sph6v8mw7r2ji6v/TheIdealist.zip?dl=1'
     content: |  
@@ -325,7 +325,7 @@ albums:
   - album:
     artist: 'Shasta Cults'
     title: 'Shasta Cults'
-    image: ../assets/images//FFWD/Shasta.png
+    image: ../assets/images/FFWD/Shasta.png
     apple_link: 'https://music.apple.com/us/album/shasta-cults/1486235542'
     link: 'https://www.dropbox.com/s/39949u2k9fynflg/ShastaCults.zip?dl=1'
     content: |  
@@ -333,7 +333,7 @@ albums:
   - album:
     artist: 'Gallery S'
     title: 'Gallery S'
-    image: ../assets/images//FFWD/GalleryS.jpg
+    image: ../assets/images/FFWD/GalleryS.jpg
     apple_link: 'https://music.apple.com/us/album/gallery-s/1497266687'
     link: 'https://music.apple.com/us/album/gallery-s/1497266687'
     content: |  
@@ -341,7 +341,7 @@ albums:
   - album:
     artist: 'Aril Brikha'
     title: 'Dance of a Trillion Stars'
-    image: ../assets/images//FFWD/Aril.jpg
+    image: ../assets/images/FFWD/Aril.jpg
     apple_link: 'https://music.apple.com/us/album/dance-of-a-trillion-stars/1484521899'
     link: 'https://www.dropbox.com/s/6rsothsga1htpxr/ArilBrikha.zip?dl=1'
     content: |  
@@ -349,7 +349,7 @@ albums:
   - album:
     artist: 'Deena Abdelwahed'
     title: 'Dhakar'
-    image: ../assets/images//FFWD/Deena.png
+    image: ../assets/images/FFWD/Deena.png
     apple_link: 'https://music.apple.com/us/album/dhakar-ep/1487703154'
     link: 'https://www.dropbox.com/s/qihbkly1yp5a8qd/DeenaAbdelwahed.zip?dl=1'
     content: | 
@@ -357,7 +357,7 @@ albums:
   - album:
     artist: 'Against All Logic'
     title: '2017-2019'
-    image: ../assets/images//FFWD/AAL.jpg
+    image: ../assets/images/FFWD/AAL.jpg
     apple_link: 'https://music.apple.com/us/album/2017-2019/1496655403'
     link: 'https://www.dropbox.com/s/0a3v65ad7jy2s1o/AgainstAllLogic.zip?dl=1'
     content: | 
@@ -365,7 +365,7 @@ albums:
   - album:
     artist: 'Isolée'
     title: 'Candy Apple Red'
-    image: ../assets/images//FFWD/Isolée.png
+    image: ../assets/images/FFWD/Isolée.png
     apple_link: 'https://music.apple.com/us/album/candy-apple-red-ep/1496564869'
     link: 'https://www.dropbox.com/s/65hea60uw22s1v4/Isol%C3%A9e.zip?dl=1'
     content: | 
@@ -373,7 +373,7 @@ albums:
   - album:
     artist: 'Resili'
     title: 'Cups'
-    image: ../assets/images//FFWD/Resili.png
+    image: ../assets/images/FFWD/Resili.png
     apple_link: 'https://music.apple.com/us/album/cups/1498094487'
     link: 'https://www.dropbox.com/s/ydqvko5km9yu3rh/Resili.zip?dl=1'
     content: | 
@@ -381,7 +381,7 @@ albums:
   - album:
     artist: 'Joey Anderson'
     title: 'Rainbow Doll'
-    image: ../assets/images//FFWD/joey.jpg
+    image: ../assets/images/FFWD/joey.jpg
     apple_link: 'https://www.dropbox.com/s/8obt0tmqu0065mz/JoeyAnderson.zip?dl=1'
     link: 'https://www.dropbox.com/s/8obt0tmqu0065mz/JoeyAnderson.zip?dl=1'
     content: | 
@@ -389,7 +389,7 @@ albums:
   - album:
     artist: 'U'
     title: 'Lowlands'
-    image: ../assets/images//FFWD/Lowlands.jpg
+    image: ../assets/images/FFWD/Lowlands.jpg
     apple_link: 'https://music.apple.com/us/album/lowlands-ep/1497943564'
     link: 'https://www.dropbox.com/s/tgex8jpadxch6m1/U.zip?dl=1'
     content: | 
@@ -397,7 +397,7 @@ albums:
   - album:
     artist: 'Roman Flügel'
     title: 'Garden Party'
-    image: ../assets/images//FFWD/Roman.png
+    image: ../assets/images/FFWD/Roman.png
     apple_link: 'https://music.apple.com/us/album/garden-party-ep/1499109372'
     link: 'https://www.dropbox.com/s/gwdzsmqkdcjn5f5/RomanFl%C3%BCgel.zip?dl=1'
     content: | 
@@ -405,7 +405,7 @@ albums:
   - album:
     artist: 'Neinzer'
     title: 'Whities 025'
-    image: ../assets/images//FFWD/Neinzer.png
+    image: ../assets/images/FFWD/Neinzer.png
     apple_link: 'https://music.apple.com/us/album/whities-025-ep/1498192586'
     link: 'https://www.dropbox.com/s/olmxk8jxy8fqzf1/Neinzer.zip?dl=1'
     content: | 
@@ -413,7 +413,7 @@ albums:
   - album:
     artist: 'Matt Karmil'
     title: 'STS371'
-    image: ../assets/images//FFWD/Karmil.jpg
+    image: ../assets/images/FFWD/Karmil.jpg
     apple_link: 'https://music.apple.com/us/album/sts371/1494380340'
     link: 'https://www.dropbox.com/s/5zyts0ojfndzynv/STS371.zip?dl=1'
     content: | 
@@ -421,7 +421,7 @@ albums:
   - album:
     artist: 'Nicolas Jaar'
     title: 'Cenzias'
-    image: ../assets/images//FFWD/Jaar.jpg
+    image: ../assets/images/FFWD/Jaar.jpg
     apple_link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
     link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
     content: | 
@@ -429,7 +429,7 @@ albums:
   - album:
     artist: 'PML Beatz'
     title: 'Pedra de 800 Kg'
-    image: ../assets/images//FFWD/PML.png
+    image: ../assets/images/FFWD/PML.png
     apple_link: 'https://music.apple.com/us/album/like-we-never-existed-ep/1495070024'
     link: 'https://www.dropbox.com/s/96lohujhz7wwy3r/PederMannerfelt.zip?dl=1'
     content: | 
@@ -437,7 +437,7 @@ albums:
   - album:
     artist: 'Peder Mannerfelt'
     title: 'Like We Never Existed'
-    image: ../assets/images//FFWD/Peder.png
+    image: ../assets/images/FFWD/Peder.png
     apple_link: 'https://music.apple.com/us/album/like-we-never-existed-ep/1495070024'
     link: 'https://www.dropbox.com/s/96lohujhz7wwy3r/PederMannerfelt.zip?dl=1'
     content: | 
@@ -445,7 +445,7 @@ albums:
   - album:
     artist: 'Tobias'
     title: '1972'
-    image: ../assets/images//FFWD/Tobias.jpg
+    image: ../assets/images/FFWD/Tobias.jpg
     apple_link: 'https://music.apple.com/us/album/1972-ep/1497126545'
     link: 'https://www.dropbox.com/s/rnu9bl3b1bs49x5/tobias_.zip?dl=1'
     content: | 
@@ -453,7 +453,7 @@ albums:
   - album:
     artist: 'Raime'
     title: 'If This Is A Dream I Don Not Ever Want To Wake Up'
-    image: ../assets/images//FFWD/Raime-FlatImage.jpg
+    image: ../assets/images/FFWD/Raime-FlatImage.jpg
     apple_link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     content: |
@@ -461,7 +461,7 @@ albums:
   - album:
     artist: 'Leafar Legov'
     title: 'Mirorr'
-    image: ../assets/images//FFWD/Leafar.jpg
+    image: ../assets/images/FFWD/Leafar.jpg
     apple_link: 'https://www.dropbox.com/s/ch9m6p3uygsnel0/LeafarLegov.zip?dl=1'
     link: 'https://www.dropbox.com/s/ch9m6p3uygsnel0/LeafarLegov.zip?dl=1'
     content: |
@@ -469,7 +469,7 @@ albums:
   - album:
     artist: 'UMFANG'
     title: 'Riven'
-    image: ../assets/images//FFWD/Umfang.jpg
+    image: ../assets/images/FFWD/Umfang.jpg
     apple_link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
     link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
     content: |
@@ -477,7 +477,7 @@ albums:
   - album:
     artist: 'Will Guthrie'
     title: 'Nist Nah'
-    image: ../assets/images//FFWD/WillGuthrie.jpg
+    image: ../assets/images/FFWD/WillGuthrie.jpg
     apple_link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
     link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
     content: | 

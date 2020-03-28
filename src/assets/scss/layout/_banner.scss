@@ -57,11 +57,17 @@
 			header {
 				width: auto;
 
-				> :first-child {
-					width: auto;
+				img {
+					width: 100%;
+					height: auto;
+					padding: 50px;
 
 					&:after {
 						max-width: 100%;
+					}
+	
+					@include breakpoint(small) {
+						padding: 0px;
 					}
 				}
 			}
