@@ -561,3 +561,11 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/cocprs2nq8vd2to/JoinTheFuture.zip?dl=1'
     content: | 
+                         
+  - album:
+    artist: 'Maurice Fulton'
+    title: 'Earth'
+    image: ../assets/images/FFWD/Maurice.png
+    apple_link: 'https://music.apple.com/us/album/earth-single/1499372304'
+    link: 'https://www.dropbox.com/s/iin6xh8dkr1cfmu/MauriceFulton.zip?dl=1'
+    content: | 
