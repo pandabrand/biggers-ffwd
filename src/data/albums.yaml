@@ -569,3 +569,19 @@ albums:
     apple_link: 'https://music.apple.com/us/album/earth-single/1499372304'
     link: 'https://www.dropbox.com/s/iin6xh8dkr1cfmu/MauriceFulton.zip?dl=1'
     content: | 
+                          
+  - album:
+    artist: 'Maurice Fulton'
+    title: 'Earth'
+    image: ../assets/images/FFWD/Maurice.png
+    apple_link: 'https://music.apple.com/us/album/earth-single/1499372304'
+    link: 'https://www.dropbox.com/s/iin6xh8dkr1cfmu/MauriceFulton.zip?dl=1'
+    content: | 
+                              
+  - album:
+    artist: 'Jay Electronica'
+    title: 'A Written Testimony'
+    image: ../assets/images/FFWD/Jay.jpg
+    apple_link: 'https://music.apple.com/us/album/a-written-testimony/1502677867'
+    link: 'https://www.dropbox.com/s/6wap33xmyqwoftk/JayElectronica.zip?dl=1'
+    content: | 
