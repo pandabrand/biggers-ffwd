@@ -4,7 +4,7 @@ const Footer = (props) => (
     <footer id="footer">
         <div className="inner">
             <ul className="copyright">
-                <li>Lots of love</li><li>J Biggers</li>
+                <li>Lots of love</li><li>J.Biggerovski</li>
             </ul>
         </div>
     </footer>
