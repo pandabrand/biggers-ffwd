@@ -677,7 +677,7 @@ albums:
   - album:
     artist: 'The Fear Ratio'
     title: 'They Can't Be Saved'
-    image: ../assets/images/FFWD/fearratio.png
+    image: ../assets/images/FFWD/fear.png
     apple_link: 'https://music.apple.com/us/album/they-cant-be-saved/1496811570'
     link: 'https://www.dropbox.com/s/z2jr28zikpad9i5/TheFearRatio.zip?dl=1a'
     content: | 
