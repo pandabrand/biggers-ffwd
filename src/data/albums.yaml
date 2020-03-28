@@ -521,3 +521,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/high-speed-wind/1501679066'
     link: 'https://www.dropbox.com/s/nbvvkrkqh2gggw6/DJTrystero.zip?dl=1'
     content: | 
+             
+  - album:
+    artist: 'Huerta'
+    title: 'High Speed Wind'
+    image: ../assets/images/FFWD/Trys.jpg
+    apple_link: 'https://music.apple.com/us/album/junipero/1495091518'
+    link: 'https://www.dropbox.com/s/d909jukk69heusm/Huerta.zip?dl=1'
+    content: | 
