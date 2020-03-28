@@ -625,3 +625,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/100-dances/1498748029'
     link: 'https://www.dropbox.com/s/5ra6ydeodixngqf/SwingTing.zip?dl=1'
     content: | 
+                                 
+  - album:
+    artist: 'Pantha du Prince'
+    title: 'Conference of Trees'
+    image: ../assets/images/FFWD/Pantha.jpg
+    apple_link: 'https://music.apple.com/us/album/conference-of-trees/1496246691'
+    link: 'https://www.dropbox.com/s/1u1eckc6asgrq5r/PanthaduPrince.zip?dl=1'
+    content: | 
