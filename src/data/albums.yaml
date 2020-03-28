@@ -481,3 +481,11 @@ albums:
     apple_link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
     link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
     content: | 
+        
+  - album:
+    artist: 'John T. Gast'
+    title: 'Nist Nah'
+    image: ../assets/images/FFWD/WillGuthrie.jpg
+    apple_link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
+    link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
+    content: | 
