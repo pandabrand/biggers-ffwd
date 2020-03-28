@@ -497,3 +497,19 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/3t9hhwqe4kphhx8/DJLycox.zip?dl=1'
     content: | 
+                
+  - album:
+    artist: 'Etapp Kyle'
+    title: 'Nolove'
+    image: ../assets/images/FFWD/Etapp.png
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/qqllzh0fnsi03wq/EtappKyle.zip?dl=1'
+    content: | 
+                    
+  - album:
+    artist: 'Foodman'
+    title: 'DOKUTSU'
+    image: ../assets/images/FFWD/Foodman.png
+    apple_link: 'https://music.apple.com/us/album/dokutsu-ep/1498773610'
+    link: 'https://www.dropbox.com/s/qqllzh0fnsi03wq/EtappKyle.zip?dl=1'
+    content: | 
