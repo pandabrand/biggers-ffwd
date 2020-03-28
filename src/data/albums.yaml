@@ -657,11 +657,19 @@ albums:
     apple_link: 'https://music.apple.com/us/album/the-revolt-of-aphrodite/1503786531'
     link: 'https://www.dropbox.com/s/cgkyt76mdofzcsc/PrimitiveWorld.zip?dl=1'
     content: | 
-                                 
+                                
   - album:
     artist: 'Ratgrave'
     title: 'Rock'
     image: ../assets/images/FFWD/Ratgrave.jpg
     apple_link: 'https://music.apple.com/us/album/rock/1496016045'
     link: 'https://www.dropbox.com/s/yyr2yfyph657eu4/Ratgrave.zip?dl=1'
+    content: | 
+                              
+  - album:
+    artist: 'The Chi Factory'
+    title: 'Travel in Peace'
+    image: ../assets/images/FFWD/chifactory.jpg
+    apple_link: 'https://music.apple.com/us/album/travel-in-peace-single/1497790423'
+    link: 'https://www.dropbox.com/s/7evpfcu49qjyguo/TheChiFactory.zip?dl=1'
     content: | 
