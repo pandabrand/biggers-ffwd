@@ -217,7 +217,15 @@ albums:
     apple_link: 'https://music.apple.com/us/album/origens-da-luz/1498461191'
     link: 'https://www.dropbox.com/s/t0zitvougz6xs5e/PriscillaErmel.zip?dl=1'
     content: |
-              
+                                      
+  - album:
+    artist: 'The Necks'
+    title: 'Three'
+    image: ../assets/images/FFWD/SwingTing.jpg
+    apple_link: 'https://music.apple.com/us/album/three/1496084711'
+    link: 'https://www.dropbox.com/s/y36fz29a9j7jkhd/Necks.zip?dl=1'
+    content: | 
+      
   - album:
     artist: 'Tame Impala'
     title: 'The Slow Rush'
@@ -617,4 +625,3 @@ albums:
     apple_link: 'https://music.apple.com/us/album/100-dances/1498748029'
     link: 'https://www.dropbox.com/s/5ra6ydeodixngqf/SwingTing.zip?dl=1'
     content: | 
- 
