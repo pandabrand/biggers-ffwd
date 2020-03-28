@@ -273,7 +273,15 @@ albums:
     apple_link: 'https://music.apple.com/us/album/man-alive/1491285371'
     link: 'https://www.dropbox.com/s/1rhu7s5x1v8r2p9/KingKrule.zip?dl=1'
     content: |
-        
+                                   
+  - album:
+    artist: 'Emma-Jean Thackray'
+    title: 'Rain Dance'
+    image: ../assets/images/FFWD/Emma.png
+    apple_link: 'https://music.apple.com/us/album/rain-dance-ep/1495174314'
+    link: 'https://www.dropbox.com/s/4upzqidllrel05p/EmmaJeanThackray.zip?dl=1'
+    content: | 
+
   - album:
     artist: 'Arca'
     title: '@@@@@'
@@ -281,7 +289,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/single/1498072903'
     link: 'https://www.dropbox.com/s/ltf21r2n6b97pmu/Arca.zip?dl=1'
     content: |
-    
+
   - album:
     artist: 'Robin Saville'
     title: 'Build a Diorama'
@@ -593,4 +601,4 @@ albums:
     apple_link: 'https://music.apple.com/ca/album/roaches-2012-2019/1504141771'
     link: 'https://www.dropbox.com/s/uu8cjlbqxuhk7a5/DeanBlunt.zip?dl=1'
     content: | 
-
+ 
