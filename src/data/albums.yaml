@@ -529,3 +529,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/junipero/1495091518'
     link: 'https://www.dropbox.com/s/d909jukk69heusm/Huerta.zip?dl=1'
     content: | 
+                 
+  - album:
+    artist: 'Echium'
+    title: 'Disruptions of Form'
+    image: ../assets/images/FFWD/Echium.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/rqminmrqx9na1zo/Echium.zip?dl=1'
+    content: | 
