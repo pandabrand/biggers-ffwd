@@ -473,11 +473,19 @@ albums:
     apple_link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
     link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
     content: |
-                                      
+                                     
   - album:
     artist: 'Will Guthrie'
-    title: 'Riven'
-    image: ../assets/images//FFWD/Umfang.jpg
-    apple_link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
-    link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
+    title: 'Nist Nah'
+    image: ../assets/images//FFWD/WillGuthrie.jpg
+    apple_link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
+    link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
+    content: | 
+                                         
+  - album:
+    artist: 'Swing Ting'
+    title: '100 Dances'
+    image: ../assets/images//FFWD/SwingTing.jpg'
+    apple_link: 'https://music.apple.com/us/album/100-dances/1498748029'
+    link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
     content: |
