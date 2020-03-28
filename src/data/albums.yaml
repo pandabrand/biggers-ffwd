@@ -633,3 +633,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/conference-of-trees/1496246691'
     link: 'https://www.dropbox.com/s/1u1eckc6asgrq5r/PanthaduPrince.zip?dl=1'
     content: | 
+                               
+  - album:
+    artist: 'Patrick Holland'
+    title: 'Conference of Trees'
+    image: ../assets/images/FFWD/Patrick.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/2pbxtcu0zk70nbs/PatrickHolland.zip?dl=1'
+    content: | 
