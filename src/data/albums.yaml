@@ -537,3 +537,11 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/rqminmrqx9na1zo/Echium.zip?dl=1'
     content: | 
+                     
+  - album:
+    artist: 'JASSS'
+    title: 'Whities 027'
+    image: ../assets/images/FFWD/JASSS.jpg
+    apple_link: 'https://music.apple.com/us/album/whities-027-single/1495201928'
+    link: 'https://www.dropbox.com/s/kbea7zj4w1yqp8v/JASSS.zip?dl=1'
+    content: | 
