@@ -121,6 +121,14 @@ albums:
     apple_link: 'https://music.apple.com/us/album/tumbling-towards-a-wall/1497133330'
     link: 'https://www.dropbox.com/s/8d0xfg1v6rcpevb/Ulla.zip?dl=1'
     content: |
+                                
+  - album:
+    artist: 'Shabaka and the Ancestors'
+    title: 'We Are Sent Here By History'
+    image: ../assets/images/FFWD/Shabaka.jpg
+    apple_link: 'https://music.apple.com/us/album/we-are-sent-here-by-history/1495393739'
+    link: 'https://www.dropbox.com/s/5xqmiyu27psoxfo/Shabaka.zip?dl=1'
+    content: | 
 
   - album:
     artist: 'Surgeon'
