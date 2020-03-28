@@ -609,4 +609,12 @@ albums:
     apple_link: 'https://music.apple.com/ca/album/roaches-2012-2019/1504141771'
     link: 'https://www.dropbox.com/s/uu8cjlbqxuhk7a5/DeanBlunt.zip?dl=1'
     content: | 
+                                   
+  - album:
+    artist: 'Swing Ting'
+    title: '100 Dances'
+    image: ../assets/images/FFWD/SwingTing.jpg
+    apple_link: 'https://music.apple.com/us/album/100-dances/1498748029'
+    link: 'https://www.dropbox.com/s/5ra6ydeodixngqf/SwingTing.zip?dl=1'
+    content: | 
  
