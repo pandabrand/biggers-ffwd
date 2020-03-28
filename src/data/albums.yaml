@@ -524,8 +524,8 @@ albums:
              
   - album:
     artist: 'Huerta'
-    title: 'High Speed Wind'
-    image: ../assets/images/FFWD/Trys.jpg
+    title: 'Junipero'
+    image: ../assets/images/FFWD/Junipero.jpg
     apple_link: 'https://music.apple.com/us/album/junipero/1495091518'
     link: 'https://www.dropbox.com/s/d909jukk69heusm/Huerta.zip?dl=1'
     content: | 
