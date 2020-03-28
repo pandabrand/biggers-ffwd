@@ -131,19 +131,19 @@ albums:
     content: | 
 
   - album:
-    artist: 'Surgeon'
-    title: 'The Golden Sea'
-    image: ../assets/images/FFWD/Surgeon.jpg
-    apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
-    link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
-    content: |
-
-  - album:
     artist: 'Wayne Phoenix'
     title: 'Soaring Wayne Phoenix Story The Earth'
     image: ../assets/images/FFWD/Wayne.png
     apple_link: 'https://music.apple.com/us/album/soaring-wayne-phoenix-story-the-earth/1496591655'
     link: 'https://www.dropbox.com/s/62nt3doqynhpfn0/WaynePhoenix.zip?dl=1'
+    content: |
+
+  - album:
+    artist: 'Surgeon'
+    title: 'The Golden Sea'
+    image: ../assets/images/FFWD/Surgeon.jpg
+    apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
+    link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
 
   - album:
