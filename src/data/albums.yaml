@@ -23,7 +23,9 @@ albums:
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
     content: |
-       Ruby Parker, Jeff's daughter, returns o massive class on opener. 
+       On near constant rotation in the Biggerovksi houseshold. Ruby Parker.
+       
+       Jeff's daughter, returns massive class on opener. 
        
   - album:
     artist: 'Nazar'
@@ -33,6 +35,14 @@ albums:
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Hyperdub's most substantial debut LP since Burial's 2005 masterpiece.
+                 
+  - album:
+    artist: 'Thundercat'
+    title: 'It Is What It Is'
+    image: ../assets/images/FFWD/Thundercat.png
+    apple_link: 
+    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    content: | 
 
   - album:
     artist: 'Metal Preyers'
@@ -49,22 +59,6 @@ albums:
     apple_link: 
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |
-          
-  - album:
-    artist: 'Thundercat'
-    title: 'It Is What It Is'
-    image: ../assets/images/FFWD/Thundercat.png
-    apple_link: 
-    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
-    content: | 
-
-  - album:
-    artist: 'Arca'
-    title: 'KiCk i'
-    image: ../assets/images/FFWD/ARCA2.jpg
-    apple_link: 
-    link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
-    content: |
 
   - album:
     artist: 'Gil Scott‐Heron & Makaya McCraven'
@@ -72,6 +66,14 @@ albums:
     image: ../assets/images/FFWD/GSH.jpg
     apple_link: 'https://music.apple.com/us/album/were-new-again-a-reimagining-by-makaya-mccraven/1488939124'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    content: |
+
+  - album:
+    artist: 'Arca'
+    title: 'KiCk i'
+    image: ../assets/images/FFWD/ARCA2.jpg
+    apple_link: 
+    link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
     content: |
     
   - album:
@@ -82,6 +84,31 @@ albums:
     link: 'https://www.dropbox.com/s/fivz4zea10190gn/Snoopy.zip?dl=1'
     content: |
     
+  - album:
+    artist: 'SQÜRL'
+    title: 'Some Music for Robby Müller'
+    image: ../assets/images//FFWD/SQÜRL.jpg
+    apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
+    link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
+    content: |
+                                              
+  - album:
+    artist: 'Daniel Avery & Alessandro Cortini'
+    title: 'Illusion of Time'
+    image: ../assets/images//FFWD/Daniel.png
+    apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
+    link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
+    content: | 
+       Pop ambient in the truest sense. 
+
+  - album:
+    artist: 'The Professionals'
+    title: 'The Professionals'
+    image: ../assets/images/FFWD/The Professionals.jpg
+    apple_link: 'https://music.apple.com/us/album/the-professionals/1493229323'
+    link: 'https://www.dropbox.com/s/e9glm84irdob5pl/TheProfessionals.zip?dl=1'
+    content: 
+
   - album:
     artist: 'Ulla'
     title: 'Tumbling Towards a Wall'
@@ -99,29 +126,36 @@ albums:
     content: |
 
   - album:
-    artist: 'SQÜRL'
-    title: 'Some Music for Robby Müller'
-    image: ../assets/images//FFWD/SQÜRL.jpg
-    apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
-    link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
+    artist: 'Wayne Phoenix'
+    title: 'Soaring Wayne Phoenix Story The Earth'
+    image: ../assets/images//FFWD/Wayne.png
+    apple_link: 'https://music.apple.com/us/album/soaring-wayne-phoenix-story-the-earth/1496591655'
+    link: 'https://www.dropbox.com/s/62nt3doqynhpfn0/WaynePhoenix.zip?dl=1'
     content: |
-                                           
-  - album:
-    artist: 'Daniel Avery & Alessandro Cortini'
-    title: 'Illusion of Time'
-    image: ../assets/images//FFWD/Daniel.png
-    apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
-    link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
-    content: | 
-       Pop ambient in the truest sense. 
 
   - album:
-    artist: 'The Professionals'
-    title: 'The Professionals'
-    image: ../assets/images/FFWD/The Professionals.jpg
-    apple_link: 'https://music.apple.com/us/album/the-professionals/1493229323'
-    link: 'https://www.dropbox.com/s/e9glm84irdob5pl/TheProfessionals.zip?dl=1'
-    content: 
+    artist: 'Vladislav Delay'
+    title: 'Rakka'
+    image: ../assets/images//FFWD/rakka.jpg
+    apple_link: 'https://music.apple.com/us/album/rakka/1494766645'
+    link: 'https://www.dropbox.com/s/6rflu4ehvmz2bzs/VladislavDelay.zip?dl=1'
+    content: |
+
+  - album:
+    artist: 'Vladislav Delay'
+    title: 'Multila (2020 Remaster)'
+    image: ../assets/images//FFWD/Multila.jpg
+    apple_link: 'https://music.apple.com/us/album/vocal-city/90742277'
+    link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
+    content: |
+
+  - album:
+    artist: 'Luomo'
+    title: 'Vocalcity (2020 Remaster)'
+    image: ../assets/images//FFWD/406653.jpg
+    apple_link: 'https://music.apple.com/us/album/multila/259167542'
+    link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
+    content: |
                              
   - album:
     artist: 'Leo Takami'
@@ -132,27 +166,11 @@ albums:
     content: |
 
   - album:
-    artist: 'Wayne Phoenix'
-    title: 'Soaring Wayne Phoenix Story The Earth'
-    image: ../assets/images//FFWD/Wayne.png
-    apple_link: 'https://music.apple.com/us/album/soaring-wayne-phoenix-story-the-earth/1496591655'
-    link: 'https://www.dropbox.com/s/62nt3doqynhpfn0/WaynePhoenix.zip?dl=1'
-    content: |
-
-  - album:
     artist: 'Smagghe & Cross'
     title: '1819'
     image: ../assets/images//FFWD/Smagghe.png
     apple_link: 'https://music.apple.com/us/album/1819/1498061815'
     link: 'https://www.dropbox.com/s/t84e5emil56xvmz/Smagghe%26Cross.zip?dl=1'
-    content: |
-
-  - album:
-    artist: 'Vladislav Delay'
-    title: 'Rakka'
-    image: ../assets/images//FFWD/rakka.jpg
-    apple_link: 'https://music.apple.com/us/album/rakka/1494766645'
-    link: 'https://www.dropbox.com/s/6rflu4ehvmz2bzs/VladislavDelay.zip?dl=1'
     content: |
 
   - album:
