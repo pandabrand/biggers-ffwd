@@ -23,7 +23,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
     content: |
-    
+
   - album:
     artist: 'Nazar'
     title: 'Guerilla'
@@ -141,7 +141,7 @@ albums:
   - album:
     artist: 'Vladislav Delay'
     title: 'Multila (2020 Remaster)'
-    image: ../assets/images//FFWD/Multila.jpg
+    image: ../assets/images//FFWD/Multila.png
     apple_link: 'https://music.apple.com/us/album/multila/259167542'
     link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
     content: |
