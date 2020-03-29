@@ -229,7 +229,7 @@ albums:
   - album:
     artist: 'The Necks'
     title: 'Three'
-    image: ../assets/images/FFWD/SwingTing.jpg
+    image: ../assets/images/FFWD/Necks.jpg
     apple_link: 'https://music.apple.com/us/album/three/1496084711'
     link: 'https://www.dropbox.com/s/y36fz29a9j7jkhd/Necks.zip?dl=1'
     content: | 
