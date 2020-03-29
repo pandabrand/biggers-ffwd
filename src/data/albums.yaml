@@ -697,3 +697,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/old-trx-87-93/1503785044'
     link: 'https://www.dropbox.com/s/1jbur4btojcibtb/NYZ.zip?dl=1'
     content: | 
+                         
+  - album:
+    artist: 'Slow Reels'
+    title: 'Farewell Islands'
+    image: ../assets/images/FFWD/Slow.jpg
+    apple_link: 'https://music.apple.com/us/album/farewell-islands/1498776041'
+    link: 'https://www.dropbox.com/s/1f8ld1f3xzgmac9/SlowReels.zip?dl=1'
+    content: | 
