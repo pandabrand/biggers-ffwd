@@ -689,3 +689,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/mixing-colours/1494291232'
     link: 'https://www.dropbox.com/s/ipve24tu4zjr537/Roger.zip?dl=1'
     content: | 
+                         
+  - album:
+    artist: 'NYZ'
+    title: 'Old Trx [87-93]'
+    image: ../assets/images/FFWD/NYZ.png
+    apple_link: 'https://music.apple.com/us/album/old-trx-87-93/1503785044'
+    link: 'https://www.dropbox.com/s/1jbur4btojcibtb/NYZ.zip?dl=1'
+    content: | 
