@@ -54,7 +54,7 @@ albums:
     artist: 'Thundercat'
     title: 'It Is What It Is'
     image: ../assets/images/FFWD/Thundercat.png
-    DB_link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    apple_link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: | 
 
