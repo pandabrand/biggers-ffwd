@@ -482,15 +482,15 @@ albums:
     apple_link: 'https://music.apple.com/us/album/sts371/1494380340'
     link: 'https://www.dropbox.com/s/5zyts0ojfndzynv/STS371.zip?dl=1'
     content: | 
-                                    
+                            
   - album:
-    artist: 'Nicolas Jaar'
-    title: 'Cenzias'
-    image: ../assets/images/FFWD/Jaar.jpg
-    apple_link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
-    link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
-    content: | 
-                                     
+    artist: 'Raime'
+    title: 'If This Is A Dream I Do Not Ever Want To Wake Up'
+    image: ../assets/images/FFWD/Raime-FlatImage.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
+    content: |
+               
   - album:
     artist: 'PML Beatz'
     title: 'Pedra de 800 Kg'
@@ -514,14 +514,6 @@ albums:
     apple_link: 'https://music.apple.com/us/album/1972-ep/1497126545'
     link: 'https://www.dropbox.com/s/rnu9bl3b1bs49x5/tobias_.zip?dl=1'
     content: | 
-                          
-  - album:
-    artist: 'Raime'
-    title: 'If This Is A Dream I Do Not Ever Want To Wake Up'
-    image: ../assets/images/FFWD/Raime-FlatImage.jpg
-    apple_link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
-    link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
-    content: |
                      
   - album:
     artist: 'The Fear Ratio'
@@ -543,7 +535,7 @@ albums:
     artist: 'Leafar Legov'
     title: 'Mirror'
     image: ../assets/images/FFWD/Leafar.jpg
-    apple_link: 'https://www.dropbox.com/s/ch9m6p3uygsnel0/LeafarLegov.zip?dl=1'
+    apple_link: ''
     link: 'https://www.dropbox.com/s/ch9m6p3uygsnel0/LeafarLegov.zip?dl=1'
     content: |
 
@@ -551,7 +543,7 @@ albums:
     artist: 'UMFANG'
     title: 'Riven'
     image: ../assets/images/FFWD/Umfang.jpg
-    apple_link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
+    apple_link: ''
     link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
     content: |
     
@@ -583,7 +575,7 @@ albums:
     artist: 'Etapp Kyle'
     title: 'Nolove'
     image: ../assets/images/FFWD/Etapp.png
-    apple_link: ''
+    apple_link: 'https://music.apple.com/us/album/nolove-ep/1501440636'
     link: 'https://www.dropbox.com/s/qqllzh0fnsi03wq/EtappKyle.zip?dl=1'
     content: | 
                     
@@ -706,6 +698,15 @@ albums:
     apple_link: 'https://music.apple.com/us/album/mixing-colours/1494291232'
     link: 'https://www.dropbox.com/s/ipve24tu4zjr537/Roger.zip?dl=1'
     content: | 
+                                      
+  - album:
+    artist: 'Nicolas Jaar'
+    title: 'Cenzias'
+    image: ../assets/images/FFWD/Jaar.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
+    content: | 
+                        
                          
   - album:
     artist: 'NYZ'
