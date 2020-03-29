@@ -33,12 +33,28 @@ albums:
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Hyperdub's most substantial debut LP since Burial's 2005 masterpiece.
-                 
+                                   
+  - album:
+    artist: 'Knxwledge'
+    title: '1988'
+    image: ../assets/images/FFWD/1988.jpg
+    apple_link: 'https://music.apple.com/us/album/1988/1497048415'
+    link: 'https://www.dropbox.com/s/c2gu47k9qz6fhiw/Knxwledge.zip?dl=1'
+    content: | 
+
+  - album:
+    artist: 'DJ Python'
+    title: 'Mas Amable'
+    image: ../assets/images/FFWD/Python.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    content: | 
+
   - album:
     artist: 'Thundercat'
     title: 'It Is What It Is'
     image: ../assets/images/FFWD/Thundercat.png
-    apple_link: ''
+    DB_link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: | 
 
@@ -65,14 +81,6 @@ albums:
     apple_link: 'https://music.apple.com/us/album/were-new-again-a-reimagining-by-makaya-mccraven/1488939124'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |
-                            
-  - album:
-    artist: 'Knxwledge'
-    title: '1988'
-    image: ../assets/images/FFWD/1988.jpg
-    apple_link: 'https://music.apple.com/us/album/1988/1497048415'
-    link: 'https://www.dropbox.com/s/c2gu47k9qz6fhiw/Knxwledge.zip?dl=1'
-    content: | 
 
   - album:
     artist: 'Arca'
