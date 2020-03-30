@@ -7,14 +7,10 @@ albums:
     link: 'https://www.dropbox.com/s/sugp2fyifh0mx9z/BeatriceDillon.zip?dl=1'
     content: |
        Beatrice sets the bar impossibly high for 2020 with *Workaround*, her stunning debut for PAN.
-
-       Brimming with minimalist dub flourishes and fractal polyrhythms, *Workaround's* genius contiunes blossoming upon every spin.
-       
+       Brimming with minimalist dub flourishes (minus the delay & reverb) and fractal polyrhythms, *Workaround's* genius contiunes blossoming upon every spin.
        How does anyone top this? Even Sheba *adores* it—first one since the turn of the century.
-
        Don’t care if I'm hyperbolic and it's fuck early, *Workaround* is the AOTY to beat.  
-
-       Utterly poifect. 
+       Utterly *poifect*. 
 
   - album:
     artist: 'Jeff Parker'
@@ -23,22 +19,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
     content: |
-       On constatnt rotation in the Biggerovski household. 
+       A Biggerovski household staple right here. 
        Following up on 2016’s masterful *The New Breed*, a *Suite for Max Brown* serves as a heartfelt tribute to his mother—— that’s her on the cover!   
        Ruby Parker, Jeff's daughter, guide us into the family affair with "Build a Nest", a lilting entry point into this personal journey through time and legacy.
        Aside from Ruby and the occasional accompanist, Parker handles every sound on *Suite for Max Brown*. Parker's strongest yet. 
-
-
-
-  - album:
-    artist: 'Nazar'
-    title: 'Guerilla'
-    image: ../assets/images/FFWD/Nazar.png
-    apple_link: 'https://music.apple.com/us/album/guerrilla/1490175346'
-    link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
-    content: |
-       Hyperdub's most substantial debut LP since Burial's 2005 masterpiece.
-                                   
+  
   - album:
     artist: 'Knxwledge'
     title: '1988'
@@ -48,9 +33,17 @@ albums:
     content: | 
       *1988* is the sound of Pleather Jacuzzi, Fred's and my long-running DJ night together. Born out of a mutal love of new jack swing, Jimmy Jam and Terry Lewis, and Teddy Riley productions, we've kept it going almost a decade now. 
        We could drop *1988* and let that shit play for four hours straight and no one would notice. 
-       If *1988* doesn't make you smile, you might be an asshole. Just saying.   
-
-
+       If *1988* doesn't make you smile, you might be an asshole. Just saying. 
+  
+  - album:
+    artist: 'Nazar'
+    title: 'Guerilla'
+    image: ../assets/images/FFWD/Nazar.png
+    apple_link: 'https://music.apple.com/us/album/guerrilla/1490175346'
+    link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
+    content: |
+       Hyperdub's most substantial debut LP since Burial's 2005 masterpiece.
+                                    
   - album:
     artist: 'DJ Python'
     title: 'Mas Amable'
