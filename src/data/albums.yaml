@@ -123,7 +123,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
     link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
     content: | 
-       Pop ambient for the shoegazer set. I use this shit like an anti-anxiety lozenge. Get settled.  
+       Pop ambient for the shoegazer set. Use this shit like an anti-anxiety lozenge. Get settled.  
 
   - album:
     artist: 'The Professionals'
@@ -212,6 +212,14 @@ albums:
     apple_link: 'https://music.apple.com/us/album/junipero/1495091518'
     link: 'https://www.dropbox.com/s/d909jukk69heusm/Huerta.zip?dl=1'
     content: | 
+
+  - album:
+    artist: 'Citizen Boy & Mafia Boyz'
+    title: 'From Avoca Hills to the World'
+    image: ../assets/images/FFWD/Avoca.png
+    apple_link: 'https://music.apple.com/us/album/from-avoca-hills-to-the-world/1497491986'
+    link: 'https://www.dropbox.com/s/uk2a5s7in1e718p/CitizenBoy.zip?dl=1'
+    content: |  
                  
   - album:
     artist: 'Echium'
