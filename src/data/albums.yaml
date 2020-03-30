@@ -7,8 +7,8 @@ albums:
     link: 'https://www.dropbox.com/s/sugp2fyifh0mx9z/BeatriceDillon.zip?dl=1'
     content: |
        Beatrice sets the bar impossibly high for 2020 with *Workaround*, her stunning debut for PAN.  
-       Featuring a delectable suite of minimalist dub workouts (with nary a scrinch of delay or reverb!) and fractal polyrhythms, *Workaround's* evolutionary genius continues blossoming upon every spin.  
-       Honestly, how does anyone top this? Even Sheba *adores* it—first new joint since Reagan left office.    
+       Featuring a delectable suite of fractal polyrhythms and minimalist dub workouts (with nary a scrinch of delay or reverb), *Workaround's* evolutionary genius continues to blossom upon every spin.  
+       Honestly, how does anyone top this? Even Sheba *adores* it—first of the new century.       
        Don’t care if I'm hyperbolic and it's fuck early, *Workaround* is the AOTY to beat.    
        Utterly *poifect*. 
 
@@ -18,13 +18,11 @@ albums:
     image: ../assets/images/FFWD/Jeff Parker.jpg
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
-    content: |
-       A Biggerovski household staple.   
+    content: | 
        Following up on 2016’s masterful *The New Breed*, Parker presents us with a *Suite for Max Brown*, as a heartfelt tribute to his mother—— that’s her on the cover!   
        Ruby Parker, Jeff's daughter, welcomes us into the family affair with her honeyed vox on "Build a Nest", a lilting entry point into this personal journey through time and legacy.
-       Aside from Ruby and the occasional accompanist, Parker handles every sound on *Suite for Max Brown*, which only furthers the diaristic qualities of the LP.  
-       *Suite for Max Brown* overwhelms me with joy, and I hope it does the same for you.   
-       Thank you, Max, for giving us Jeff. 
+       Aside from Ruby and the occasional accompanist, Parker handles every sound on *Suite for Max Brown*, only furthering the diaristic qualities of the LP.  
+       *Suite for Max Brown* overwhelms me with joy. I hope it does the same for you.   
 
   
   - album:
@@ -35,12 +33,10 @@ albums:
     link: 'https://www.dropbox.com/s/c2gu47k9qz6fhiw/Knxwledge.zip?dl=1'
     content: | 
       *1988* encapsulates the sound of Pleather Jacuzzi, Fred's and my vinyl-only DJ night.   
-       Born out of a mutual adoration of new jack swing, Jimmy Jam and Terry Lewis, and Teddy Riley productions, I mainly watch Fred work his magic on the mixer while I just play the same Toni Brxton, SWV, and Destiny's Child 12's all night. 
-       We could drop *1988* and jam that shit for four hours straight and no one would notice. 
-       Straight up, if *1988* doesn't make you *smile*, you might be an asshole.   
-       Far and away the most fun record of 2020. 
+       Born out of a mutual adoration of new jack swing, Jimmy Jam and Terry Lewis, and Teddy Riley productions, Pleather Jacuzzi mainly consists of Fred working his magic on the mixer while I just play the same Toni Brxton, SWV, and Destiny's Child 12's over and over. 
+       Knxwledge blessed us both with a mixtape filled with Quiet Storm burners, baby-making R&B, and classic hip-hop for backpacking dads. We could drop *1988* and jam that shit for four hours straight and no one would notice. 
+       Far and away the most fun record of 2020. Straight up, if *1988* doesn't make you *smile*, you might be an asshole.  
 
-  
   - album:
     artist: 'Nazar'
     title: 'Guerilla'
@@ -49,8 +45,15 @@ albums:
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
        Hyperdub's most substantial debut LP since Burial's 2005 masterpiece.  
-       Maybe it's even better. Before you come at me, you know who you are, let me explain. Burial perfected the romantic sound and feelings of urban decay and self-isolation. 
-                                    
+       
+  - album:
+    artist: 'Metal Preyers'
+    title: 'Metal Preyers'
+    image: ../assets/images/FFWD/Metal Preyers.jpg
+    apple_link: 'https://music.apple.com/us/album/metal-preyers/1501893164'
+    link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
+    content: |
+
   - album:
     artist: 'DJ Python'
     title: 'Mas Amable'
@@ -59,23 +62,7 @@ albums:
     link: 'https://www.dropbox.com/s/nu387iibbd44vu4/DJPYTHON.zip?dl=1'
     content: | 
       State law should require dispensaries to include copies of *Mas Amable* with every purch. *Mas Amable's* 50-minute trip through psychedlic dembow and syncopated 
-
-  - album:
-    artist: 'Thundercat'
-    title: 'It Is What It Is'
-    image: ../assets/images/FFWD/Thundercat.png
-    apple_link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
-    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
-    content: | 
-
-  - album:
-    artist: 'Metal Preyers'
-    title: 'Metal Preyers'
-    image: ../assets/images/FFWD/Metal Preyers.jpg
-    apple_link: 'https://music.apple.com/us/album/metal-preyers/1501893164'
-    link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
-    content: |
-                                              
+                                                    
   - album:
     artist: 'Daniel Avery & Alessandro Cortini'
     title: 'Illusion of Time'
@@ -83,7 +70,15 @@ albums:
     apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
     link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
     content: | 
-       Pop ambient for the shoegazer set. Use this shit like an anti-anxiety lozenge.  
+       Pop ambient for the shoegazer set. I use this shit like an anti-anxiety lozenge. 
+
+  - album:
+    artist: 'Thundercat'
+    title: 'It Is What It Is'
+    image: ../assets/images/FFWD/Thundercat.png
+    apple_link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    content: |  
 
   - album:
     artist: 'Shabazz Palaces'
@@ -148,7 +143,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: 
-    
+
   - album:
     artist: 'Laurine Frost'
     title: 'Lena'
