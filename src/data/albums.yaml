@@ -38,7 +38,7 @@ albums:
        Born out of a mutual adoration of new jack swing, Jimmy Jam and Terry Lewis, and Teddy Riley productions, I mainly watch Fred work his magic on the mixer while I just play the same Toni Brxton, SWV, and Destiny's Child 12's all night. 
        We could drop *1988* and jam that shit for four hours straight and no one would notice. 
        Straight up, if *1988* doesn't make you *smile*, you might be an asshole.   
-       By far the most fun record herein. 
+       Far and away the most fun record of 2020. 
 
   
   - album:
@@ -75,6 +75,15 @@ albums:
     apple_link: 'https://music.apple.com/us/album/metal-preyers/1501893164'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
+                                              
+  - album:
+    artist: 'Daniel Avery & Alessandro Cortini'
+    title: 'Illusion of Time'
+    image: ../assets/images/FFWD/Daniel.png
+    apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
+    link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
+    content: | 
+       Pop ambient for the shoegazer set. Use this shit like an anti-anxiety lozenge.  
 
   - album:
     artist: 'Shabazz Palaces'
@@ -107,6 +116,30 @@ albums:
     apple_link: 'https://music.apple.com/us/album/snoopy/1495685642'
     link: 'https://www.dropbox.com/s/fivz4zea10190gn/Snoopy.zip?dl=1'
     content: |
+
+  - album:
+    artist: 'Vladislav Delay'
+    title: 'Rakka'
+    image: ../assets/images/FFWD/rakka.jpg
+    apple_link: 'https://music.apple.com/us/album/rakka/1494766645'
+    link: 'https://www.dropbox.com/s/6rflu4ehvmz2bzs/VladislavDelay.zip?dl=1'
+    content: |
+
+  - album:
+    artist: 'Vladislav Delay'
+    title: 'Multila (2020 Remaster)'
+    image: ../assets/images/FFWD/Multila.png
+    apple_link: 'https://music.apple.com/us/album/multila/259167542'
+    link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
+    content: |
+                    
+  - album:
+    artist: 'Luomo'
+    title: 'Vocalcity (2020 Remaster)'
+    image: ../assets/images/FFWD/Luomo.jpg
+    apple_link: 'https://music.apple.com/us/album/vocal-city/90742277'
+    link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
+    content: |
     
   - album:
     artist: 'SQÜRL'
@@ -114,16 +147,15 @@ albums:
     image: ../assets/images/FFWD/SQÜRL.jpg
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
-    content: |
-                                              
+    content: 
+    
   - album:
-    artist: 'Daniel Avery & Alessandro Cortini'
-    title: 'Illusion of Time'
-    image: ../assets/images/FFWD/Daniel.png
-    apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
-    link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
-    content: | 
-       Pop ambient for the shoegazer set. Use this shit like an anti-anxiety lozenge. Get settled.  
+    artist: 'Laurine Frost'
+    title: 'Lena'
+    image: ../assets/images/FFWD/Laurine.png
+    apple_link: 'https://music.apple.com/us/album/lena/1502294584'
+    link: 'https://www.dropbox.com/s/e2rfyhf2sufi5m7/LaurineFrost.zip?dl=1'
+    content: |  
 
   - album:
     artist: 'The Professionals'
@@ -164,38 +196,6 @@ albums:
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
-
-  - album:
-    artist: 'Vladislav Delay'
-    title: 'Rakka'
-    image: ../assets/images/FFWD/rakka.jpg
-    apple_link: 'https://music.apple.com/us/album/rakka/1494766645'
-    link: 'https://www.dropbox.com/s/6rflu4ehvmz2bzs/VladislavDelay.zip?dl=1'
-    content: |
-
-  - album:
-    artist: 'Vladislav Delay'
-    title: 'Multila (2020 Remaster)'
-    image: ../assets/images/FFWD/Multila.png
-    apple_link: 'https://music.apple.com/us/album/multila/259167542'
-    link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
-    content: |
-                    
-  - album:
-    artist: 'Luomo'
-    title: 'Vocalcity (2020 Remaster)'
-    image: ../assets/images/FFWD/Luomo.jpg
-    apple_link: 'https://music.apple.com/us/album/vocal-city/90742277'
-    link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
-    content: |
-    
-  - album:
-    artist: 'Laurine Frost'
-    title: 'Lena'
-    image: ../assets/images/FFWD/Laurine.png
-    apple_link: 'https://music.apple.com/us/album/lena/1502294584'
-    link: 'https://www.dropbox.com/s/e2rfyhf2sufi5m7/LaurineFrost.zip?dl=1'
-    content: |  
 
   - album:
     artist: 'Smagghe & Cross'
