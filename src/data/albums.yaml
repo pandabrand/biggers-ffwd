@@ -84,19 +84,19 @@ albums:
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |  
 
+ - album:
+    artist: 'Gil Scott‐Heron & Makaya McCraven'
+    title: 'We are New Again: A Reimagining by Makaya McCraven'
+    image: ../assets/images/FFWD/GSH.jpg
+    apple_link: 'https://music.apple.com/us/album/were-new-again-a-reimagining-by-makaya-mccraven/1488939124'
+    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    content: |  
+
   - album:
     artist: 'Shabazz Palaces'
     title: 'The Don of Diamond Dreams'
     image: ../assets/images/FFWD/shabazz.jpg
     apple_link: ''
-    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
-    content: |
-
-  - album:
-    artist: 'Gil Scott‐Heron & Makaya McCraven'
-    title: 'We are New Again: A Reimagining by Makaya McCraven'
-    image: ../assets/images/FFWD/GSH.jpg
-    apple_link: 'https://music.apple.com/us/album/were-new-again-a-reimagining-by-makaya-mccraven/1488939124'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |
 
