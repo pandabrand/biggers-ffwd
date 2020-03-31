@@ -41,8 +41,8 @@ albums:
     apple_link: 'https://music.apple.com/us/album/guerrilla/1490175346'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
-       Without a doubt, Nazar's *Guerilla* has released Hyperdub's most substantial debut LP since Burial's 2006 masterpiece and Jessy Lanza's 2015 *Pull My Hair Back*.   
-       Tracing the aftermath of the Angolan civil war 
+       Without a doubt, Nazar's *Guerilla* is Hyperdub's most substantial debut LP since Burial's 2006 masterpiece and Jessy Lanza's *Pull My Hair Back*.   
+       Tracing the aftermath of the Angolan civil war on one family's intimate experience, Nazar places us directly in the conflict with militaristic found sound and hauntological sound design, all of which is undergirded with rough kudoro rhthyms. It's intense, for sure, but it's also one of most rewarding listening experiences I've had with a record in years.  *Guerilla* deserves the effort.
        
   - album:
     artist: 'Metal Preyers'
@@ -51,20 +51,9 @@ albums:
     apple_link: 'https://music.apple.com/us/album/metal-preyers/1501893164'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
-           Uganda’s Nyege Nyege Tapes continue to abso-fuckin'-lutely destroy the game with *Metal Preyers*, a blazing transmission from an enigmatic duo split between London and Chicago.  
-           Recorded with a group of Ugandan street musicians during a six-week stay in Kampala, the intoxicating blend of singeli and electro-acholi results in the NNT crew's headiest shit yet.
+           Uganda’s Nyege Nyege Tapes continue to abso-fuckin'-lutely destroy the game with *Metal Preyers*, a blazing transmission from an enigmatic duo split between London and Chicago. Recorded with a group of Ugandan street musicians during a six-week stay in Kampala, the intoxicating blend of singeli and electro-acholi results in the NNT crew's headiest shit yet.
              
-  
-    
-  - album:
-    artist: 'DJ Python'
-    title: 'Mas Amable'
-    image: ../assets/images/FFWD/Python.jpg
-    apple_link: ''
-    link: 'https://www.dropbox.com/s/nu387iibbd44vu4/DJPYTHON.zip?dl=1'
-    content: | 
-      State law should require dispensaries to include copies of *Mas Amable* with every purch. DJ Python's 50-minute trip through psychedlic dembow and syncopated 
-                                                    
+                                                      
   - album:
     artist: 'Daniel Avery & Alessandro Cortini'
     title: 'Illusion of Time'
@@ -73,6 +62,14 @@ albums:
     link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
     content: | 
        Pop ambient for the shoegazer set. I use this shit like an anti-anxiety lozenge. 
+    
+  - album:
+    artist: 'DJ Python'
+    title: 'Mas Amable'
+    image: ../assets/images/FFWD/Python.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/nu387iibbd44vu4/DJPYTHON.zip?dl=1'
+    content: | 
 
   - album:
     artist: 'Thundercat'
