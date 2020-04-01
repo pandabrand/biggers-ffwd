@@ -85,7 +85,7 @@ albums:
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |  
 
- - album:
+  - album:
     artist: 'Gil Scott‐Heron & Makaya McCraven'
     title: 'We are New Again: A Reimagining by Makaya McCraven'
     image: ../assets/images/FFWD/GSH.jpg
@@ -108,7 +108,7 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
     content: |
-            A schizophrenic opus from this genreation's Madonna, Missy Elliot, and Björk—all at once. Still unsure what to make of KiCk i's stylistic whiplash, but I'm *very* intrigued by the prospects...
+            A schizophrenic opus from this genreation's Madonna, Missy Elliot, and Björk—all at once. Kinda unsure what to make of KiCk i's stylistic whiplash, but I'm *very* intrigued by the prospects...
 
     
   - album:
@@ -742,3 +742,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/old-trx-87-93/1503785044'
     link: 'https://www.dropbox.com/s/1jbur4btojcibtb/NYZ.zip?dl=1'
     content: | 
+                                             
+  - album:
+    artist: 'Hiroshi Yoshimura'
+    title: 'Green'
+    image: ../assets/images/FFWD/Green.jpg
+    apple_link: 'https://music.apple.com/us/album/green/1503101279'
+    link: 'https://www.dropbox.com/s/1jbur4btojcibtb/NYZ.zip?dl=1'
+    content: | 
+
