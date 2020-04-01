@@ -97,8 +97,8 @@ albums:
     artist: 'Shabazz Palaces'
     title: 'The Don of Diamond Dreams'
     image: ../assets/images/FFWD/shabazz.jpg
-    apple_link: ''
-    link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    apple_link: 'https://music.apple.com/us/album/the-don-of-diamond-dreams/1494246347'
+    link: 'https://www.dropbox.com/s/91ob2knw9sxedel/ShabazzPalaces.zip?dl=1'
     content: |
 
   - album:
