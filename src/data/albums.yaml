@@ -56,7 +56,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/metal-preyers/1501893164'
     link: 'https://www.dropbox.com/s/ecj71imd8svxnfd/Rosalia.zip?dl=1'
     content: |
-           Uganda’s Nyege Nyege Tapes continue to abso-fuckin'-lutely destroy the game with *Metal Preyers*, a blazing transmission from an enigmatic duo split between London and Chicago. Recorded with a group of Ugandan street musicians during a six-week stay in Kampala, *Metal Preyers'* intoxicating blend of singeli and electro-acholi results in the NNT crew's headiest shit yet.
+           Uganda’s Nyege Nyege Tapes continue to abso-fuckin'-lutely destroy the game with *Metal Preyers*, a blazing transmission from an enigmatic duo split between London and Chicago. Recorded with a group of Ugandan street musicians during a six-week stay in Kampala, *Metal Preyers'* intoxicating blend of singeli and electro-acholi contains NNT's headiest shit yet.
              
                                                       
   - album:
@@ -66,21 +66,22 @@ albums:
     apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
     link: 'https://www.dropbox.com/s/popsh09cjuf58wp/DanielAvery%26AlessandroCortini.zip?dl=1'
     content: | 
-       Pop ambient for the shoegazer set. I use this shit like an anti-anxiety lozenge. 
+       Pop ambient for the shoegazer set. I use it like an anti-anxiety lozenge. 
     
   - album:
     artist: 'DJ Python'
     title: 'Mas Amable'
     image: ../assets/images/FFWD/Python.jpg
-    apple_link: ''
+    apple_link: 'https://music.apple.com/us/album/admsdp-feat-la-warman-single/1500703480'
     link: 'https://www.dropbox.com/s/nu387iibbd44vu4/DJPYTHON.zip?dl=1'
     content: | 
+           A seamless 50-minute odyssey featuring psychedlic dembow, ambient dancehall, and smudged reggaeton, *Mas Amable* serves as DJ Python's defining statement in a career filled with stratospheric highs.
 
   - album:
     artist: 'Thundercat'
     title: 'It Is What It Is'
     image: ../assets/images/FFWD/Thundercat.png
-    apple_link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
+    apple_link: 'https://music.apple.com/us/album/it-is-what-it-is/1494467036'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |  
 
