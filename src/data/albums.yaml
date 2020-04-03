@@ -750,7 +750,6 @@ albums:
     link: 'https://www.dropbox.com/s/uzjok9df432pyxo/HiroshiYoshimura.zip?dl=1'
     content: | 
          Hiroshi Yoshimura's *Green* posseses healing powers. Light in the Attic, who was set to reissue *Green* in May, knows this, which is why they've made it available for streaming immediately. Trust: you *need* this in your life right now. Recorded in the winter of 1985, *Green* might be Yoshimura's most patient recording, never in a hurry to reach its destination. If you're new to Yoshimura, *Green* serves as the perfect entry point into the architectural musician's sterling oeuvre.    
-
                                          
   - album:
     artist: 'Yaeji'
@@ -758,4 +757,20 @@ albums:
     image: ../assets/images/FFWD/yaeji.jpg
     apple_link: 'https://music.apple.com/us/album/what-we-drew-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EA%B7%B8%EB%A0%A4%EC%99%94%EB%8D%98/1499751574'
     link: 'https://www.dropbox.com/s/8gzvyghjfbp9ljf/Yaeji.zip?dl=1'
+    content: | 
+                                         
+  - album:
+    artist: 'John Carrol Kirby'
+    title: 'Conflict'
+    image: ../assets/images/FFWD/Conflict.png
+    apple_link: 'https://music.apple.com/us/album/conflict/1504746880'
+    link: 'https://www.dropbox.com/s/yk71752oppdi5hy/JCCConflict.zip?dl=1'
+    content: | 
+                                             
+  - album:
+    artist: 'Yves Tumor'
+    title: 'Heaven to a Tortured Mind'
+    image: ../assets/images/FFWD/Yves.jpg
+    apple_link: 'https://music.apple.com/us/album/heaven-to-a-tortured-mind/1494929769'
+    link: 'https://www.dropbox.com/s/xrec9dh16xyrawe/Yves.zip?dl=1'
     content: | 
