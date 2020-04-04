@@ -787,3 +787,11 @@ albums:
     link: 'https://www.dropbox.com/s/7hp9puk1ewrdmfa/FUJITA.zip?dl=1'
     content: | 
            Gorgeously spooky sounds from Fujita Yosuke, a sound artist who custom-built the pipe organ you hear creaking as he struggles to control its wavering pitch. Inspired by traditional Japanese gagaku, a form of classical court music from the 7th century, the results evoke a serene sense of calm despite the tremendous effort required to play these pieces. Perfect for drawling the eyelids to half-mast. 
+                                                     
+  - album:
+    artist: 'Jay Daniel'
+    title: 'SSD'
+    image: ../assets/images/FFWD/SSD.png
+    apple_link: 'https://music.apple.com/us/album/ssd-ep/1497605511'
+    link: 'https://www.dropbox.com/s/sks1c2b7rlpjmak/JAYSSD.zip?dl=1'
+    content: |
