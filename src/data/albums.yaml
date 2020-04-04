@@ -226,7 +226,7 @@ albums:
     artist: 'Echium'
     title: 'Disruptions of Form'
     image: ../assets/images/FFWD/Echium.jpg
-    apple_link: ''
+    apple_link: 'https://music.apple.com/us/album/disruptions-of-form/1504901672'
     link: 'https://www.dropbox.com/s/rqminmrqx9na1zo/Echium.zip?dl=1'
     content: | 
     
@@ -594,7 +594,7 @@ albums:
     artist: 'DJ Lycox'
     title: 'Kizas do Ly'
     image: ../assets/images/FFWD/Lycox.jpg
-    apple_link: ''
+    apple_link: 'https://music.apple.com/us/album/kizas-do-ly-ep/1504518929'
     link: 'https://www.dropbox.com/s/3t9hhwqe4kphhx8/DJLycox.zip?dl=1'
     content: | 
                 
@@ -618,7 +618,7 @@ albums:
     artist: 'Join The Future'
     title: 'Join The Future: UK Bleep & Bass 1988-1991'
     image: ../assets/images/FFWD/Join.jpg
-    apple_link: ''
+    apple_link: 'https://music.apple.com/us/album/join-the-future-uk-bleep-bass-1988-91/1501209487'
     link: 'https://www.dropbox.com/s/cocprs2nq8vd2to/JoinTheFuture.zip?dl=1'
     content: | 
                                   
