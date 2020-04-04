@@ -795,3 +795,35 @@ albums:
     apple_link: 'https://music.apple.com/us/album/ssd-ep/1497605511'
     link: 'https://www.dropbox.com/s/sks1c2b7rlpjmak/JAYSSD.zip?dl=1'
     content: |
+                                                         
+  - album:
+    artist: 'Felicia Atkinson'
+    title: 'Everything Evaporate'
+    image: ../assets/images/FFWD/felicia.jpg
+    apple_link: 'https://music.apple.com/us/album/everything-evaporate/1504541111'
+    link: 'https://www.dropbox.com/s/anq985536hp4tqz/Felicia.zip?dl=1'
+    content: |
+                                                             
+  - album:
+    artist: 'Alabaster DePlume'
+    title: 'To Cy & Lee: Instrumentals Vol. 1'
+    image: ../assets/images/FFWD/Alabaster.jpg
+    apple_link: 'https://music.apple.com/us/album/to-cy-lee-instrumentals-vol-1/1493218449'
+    link: 'https://www.dropbox.com/s/anq985536hp4tqz/Felicia.zip?dl=1'
+    content: |
+                                                                
+  - album:
+    artist: 'Clarice Jensen'
+    title: 'The experience of repetition as death'
+    image: ../assets/images/FFWD/Clarice.jpg
+    apple_link: 'https://music.apple.com/us/album/the-experience-of-repetition-as-death/1493462546'
+    link: 'https://www.dropbox.com/s/jypa9800m95ofrr/ClariceJensen.zip?dl=1'
+    content: |
+                                                                
+  - album:
+    artist: 'Cucina Povera'
+    title: 'Tyyni'
+    image: ../assets/images/FFWD/Cucina.jpg
+    apple_link: 'https://music.apple.com/us/album/tyyni/1499359181'
+    link: 'https://www.dropbox.com/s/i3e7qc6lv1xpc3y/Cucina.zip?dl=1'
+    content: |
