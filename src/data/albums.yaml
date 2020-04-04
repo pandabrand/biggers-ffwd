@@ -768,8 +768,7 @@ albums:
     link: 'https://www.dropbox.com/s/yk71752oppdi5hy/JCCConflict.zip?dl=1'
     content: |
               Surprise drop of solo piano recordings from the Solange whisperer and Moog-funk auteur. Essential for quiet introspection, nightly ablutions, and pre-bed rituals. Aural ambien. 
- 
-                                             
+                                            
   - album:
     artist: 'Yves Tumor'
     title: 'Heaven to a Tortured Mind'
@@ -777,5 +776,14 @@ albums:
     apple_link: 'https://music.apple.com/us/album/heaven-to-a-tortured-mind/1494929769'
     link: 'https://www.dropbox.com/s/xrec9dh16xyrawe/Yves.zip?dl=1'
     content: | 
-             I hate guitar solos. *Loathe*. Makes no sense because guitar was my first instrument—I've studied jazz guitar for years—but if Grant Green isn't playing it, I'm not fucking with it. 
+             I hate guitar solos. *Loathe*. Which makes no sense because guitar was my first instrument—I've studied jazz guitar for years—but if Grant Green isn't playing it, I'm not fucking with it. 
              And yet one of the most egregious guitar solos in recent memory erupts in the middle of "Kerosene!", the lead single from Yves Tumor's immediately accessible *Heaven to a Tortured Mind*. I woudn't say I'm *okay* with the solo, but I fully support Yves' urge to shred. This is their moment. I miss the enigmatic experimentation from Yves' previous efforts, but *Heaven to a Tortured Mind* confirms the arrival of what I assumed was extinct: a genuine rock star. 
+
+  - album:
+    artist: 'FUJI||||||||||TA'
+    title: 'iki'
+    image: ../assets/images/FFWD/fujita.jpg
+    apple_link: 'https://music.apple.com/us/album/iki/1500399126'
+    link: 'https://www.dropbox.com/s/7hp9puk1ewrdmfa/FUJITA.zip?dl=1'
+    content: | 
+           Gorgeously spooky sounds from Fujita Yosuke, a sound artist who custom-built the pipe organ you hear creaking as he struggles to control its wavering pitch. Inspired by traditional Japanese gagaku, a form of classical court music from the 7th century, the results evoke a serene sense of calm despite the tremendous effort needed to play these pieces. Perfect for drawling the eyelids to half-mast. 
