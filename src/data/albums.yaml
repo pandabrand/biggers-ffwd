@@ -809,7 +809,7 @@ albums:
     title: 'To Cy & Lee: Instrumentals Vol. 1'
     image: ../assets/images/FFWD/Alabaster.jpg
     apple_link: 'https://music.apple.com/us/album/to-cy-lee-instrumentals-vol-1/1493218449'
-    link: 'https://www.dropbox.com/s/anq985536hp4tqz/Felicia.zip?dl=1'
+    link: 'https://www.dropbox.com/s/ex9mb91uj67idre/Alabaster.zip?dl=1'
     content: |
                                                                 
   - album:
@@ -826,4 +826,28 @@ albums:
     image: ../assets/images/FFWD/Cucina.jpg
     apple_link: 'https://music.apple.com/us/album/tyyni/1499359181'
     link: 'https://www.dropbox.com/s/i3e7qc6lv1xpc3y/Cucina.zip?dl=1'
+    content: |
+                                                                    
+  - album:
+    artist: 'Conway the Machine'
+    title: 'LULU'
+    image: ../assets/images/FFWD/LULU.png
+    apple_link: 'https://music.apple.com/us/album/lulu/1503800328'
+    link: 'https://www.dropbox.com/s/v2wpjzd744qop0u/LULU.zip?dl=1'
+    content: |
+                                                                       
+  - album:
+    artist: 'Square Fauna'
+    title: 'Meet the Fauna'
+    image: ../assets/images/FFWD/Squarefauna.jpg
+    apple_link: 'https://music.apple.com/us/album/meet-the-fauna/1502292328'
+    link: 'https://www.dropbox.com/s/avqfayl5ofd9n00/SquareFauna.zip?dl=1'
+    content: |
+                                                                           
+  - album:
+    artist: 'Military Genius'
+    title: 'Deep Web'
+    image: ../assets/images/FFWD/MilitaryGenius.jpg
+    apple_link: 'https://music.apple.com/us/album/deep-web/1496840015'
+    link: 'https://www.dropbox.com/s/1tu70xihh0g83qx/MilitaryGenius.zip?dl=1'
     content: |
