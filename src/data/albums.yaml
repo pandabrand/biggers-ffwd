@@ -767,7 +767,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/conflict/1504746880'
     link: 'https://www.dropbox.com/s/yk71752oppdi5hy/JCCConflict.zip?dl=1'
     content: |
-              Surprise drop of solo piano recordings from the Solange whisperer and Moog-funk auteur. Essential for quiet introspection, nocturnal ablutions, and pre-bed rituals. Aural ambien. 
+              Surprise drop of solo piano recordings from the Solange whisperer and Moog-funk auteur. Essential for quiet introspection, nocturnal ablutions, and pre-bed rituals. Aural ambien.
                                             
   - album:
     artist: 'Yves Tumor'
@@ -896,3 +896,12 @@ albums:
     link: 'https://www.dropbox.com/s/7d0r64lp6qoce1r/CharlesRumback%26RyleyWalker.zip?dl=1'
     content: |
           I cannot jam *Little Common Twist* without clutching the record sleeve in my hands as I watch the pink vinyl go around. Maybe it’s the marriage of Adam Scott's lush artwork with Charles Rumback & Ryley Walker's sparse instrumentation that evokes a such vast visual universe. My mind's eye often wanders to Harry Dean Stanton ambling through the desert in the opening moments of *Paris, TX.*, yet the duo have crafted a distinctly Chicago record. From John Hughes' spartan production to Rumback's free jazz explorations, *Little Common Twist* expands upon the best of Chicago's audio/visual ethos. Another Sheba-approved joint.
+                                                                                    
+  - album:
+    artist: 'Autechre'
+    title: 'AE_LIVE 2016/2018'
+    image: ../assets/images/FFWD/AE.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/zed4a80ubmwz1rx/AE_LIVE.zip?dl=1'
+    content: 
+             Sheba fucking *hates* this. 
