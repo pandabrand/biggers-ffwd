@@ -904,4 +904,46 @@ albums:
     apple_link: 'https://music.apple.com/us/album/pray-for-paris/1506521703'
     link: 'https://www.dropbox.com/s/95efwsnnsz0vm5s/WESTSIDE.zip?dl=1'
     content: 
-          Quick confession. Westside Gunn wore me out. Dare you to find a bigger Griselda fan, but the GxFR labelhead dropped too much shit, too soon. But *Pray for Paris* reinvigorates my utter devotion to Buffalo's best curator. We've got production from Alchemist, Tyler, the Creator, Daringer, and DJ Premier! Roc Marciano, Conway, Benny, Freddie Gibbs and Tyler drop unforgettable verses. Virgil Abloh crafted the cover. Despite being recorded in two days after Virgil invited him to fashion week, *Pray for Paris* might be one of Gunner's strongest yet. 
+          Gotta confess. Westside Gunn wore me out. Dare you to find a bigger Griselda fan, but the GxFR labelhead dropped too much shit, too soon. But *Pray for Paris* reinvigorates my utter devotion to Buffalo's best curator. We've got production from Alchemist, Tyler, the Creator, Daringer, and DJ Premier! Roc Marciano, Conway, Benny, Freddie Gibbs and Tyler drop unforgettable verses. Virgil Abloh crafted the cover. Despite being recorded in two days after Virgil invited him to fashion week, *Pray for Paris* might be one of Gunner's strongest yet. 
+                                                                                              
+  - album:
+    artist: 'Laurel Halo'
+    title: 'Possessed'
+    image: ../assets/images/FFWD/laurel.jpg
+    apple_link: 'https://music.apple.com/us/album/possessed/1498819075'
+    link: 'https://www.dropbox.com/s/0ofzsoip9h7cso6/Halo.zip?dl=1'
+    content: 
+                                                                                                  
+  - album:
+    artist: 'Pharoah Sanders'
+    title: 'Live in Paris (1975)'
+    image: ../assets/images/FFWD/pharoah.jpg
+    apple_link: 'https://music.apple.com/us/album/live-in-paris-1975/1494146179'
+    link: 'https://www.dropbox.com/s/o7ct0v46tm0gr32/PharoahSanders.zip?dl=1'
+    content: 
+                                                                                                  
+  - album:
+    artist: 'Jasmine Infiniti'
+    title: 'Bxtch Släp'
+    image: ../assets/images/FFWD/jasmine.jpg
+    apple_link: 'https://music.apple.com/us/album/bxtch-sl%C3%A4p/1504375873'
+    link: 'https://www.dropbox.com/s/2fxbatx0af5hh9k/JasmineInfiniti.zip?dl=1'
+    content: 
+                                                                                                      
+  - album:
+    artist: 'Ann Margaret Hogan'
+    title: 'Honeysuckle Burials'
+    image: ../assets/images/FFWD/Ann.jpg
+    apple_link: 'https://music.apple.com/us/album/honeysuckle-burials/1499379283'
+    link: 'https://www.dropbox.com/s/eqti2njleozae8y/AnnMargaretHogan.zip?dl=1'
+    content: 
+                                                                                                          
+  - album:
+    artist: 'Sven Wunder'
+    title: 'Eastern Flowers'
+    image: ../assets/images/FFWD/sven.jpg
+    apple_link: 'https://music.apple.com/us/album/eastern-flowers/1503051988'
+    link: 'https://www.dropbox.com/s/hcm2ncl2udjl5nb/SvenWunder.zip?dl=1'
+    content: 
+    
+             
