@@ -945,5 +945,56 @@ albums:
     apple_link: 'https://music.apple.com/us/album/eastern-flowers/1503051988'
     link: 'https://www.dropbox.com/s/hcm2ncl2udjl5nb/SvenWunder.zip?dl=1'
     content: 
+                                                                                                              
+  - album:
+    artist: 'Maggi Payne'
+    title: 'Eastern Flowers'
+    image: ../assets/images/FFWD/Maggi.jpg
+    apple_link: 'https://music.apple.com/us/album/ahh-ahh-music-for-ed-tannenbaums-technological-feets/522356325'
+    link: 'https://www.dropbox.com/s/v0d1b1sw1e182bl/MaggiPayne.zip?dl=1'
+    content: 
+                                                                                                                  
+  - album:
+    artist: 'Jackie Lynn'
+    title: 'Jacqueline'
+    image: ../assets/images/FFWD/jackielynn.jpg
+    apple_link: 'https://music.apple.com/us/album/jacqueline/1492518909'
+    link: 'https://www.dropbox.com/s/yn0bu7lvf0iohjc/Jacqueline.zip?dl=1'
+    content: 
+                                                                                                              
+  - album:
+    artist: 'Menzi'
+    title: 'Impazamo'
+    image: ../assets/images/FFWD/menzi.jpg
+    apple_link: 'https://music.apple.com/us/album/impazamo-ep/1503182312'
+    link: 'https://www.dropbox.com/s/lgzg3shosknfa7g/Menzi.zip?dl=1'
+    content: 
+                                                                                                                
+  - album:
+    artist: 'The Heliocentrics'
+    title: 'Infinity of Now'
+    image: ../assets/images/FFWD/HELIOCENTRICS.jpg
+    apple_link: 'https://music.apple.com/us/album/infinity-of-now/1496866734'
+    link: 'https://www.dropbox.com/s/x02r89hknzvfhkw/TheHeliocentrics.zip?dl=1'
+    content: 
+                                                                                                                   
+  - album:
+    artist: 'Addison Groove'
+    title: 'Fred Neutron'
+    image: ../assets/images/FFWD/addison.jpg
+    apple_link: 'https://music.apple.com/us/album/fred-neutron/1502717022'
+    link: 'https://www.dropbox.com/s/8h3sgre5ghunr8k/AddisonGroove.zip?dl=1'
+    content: 
+                                                                                                                      
+  - album:
+    artist: 'Plone'
+    title: 'Puzzlewood'
+    image: ../assets/images/FFWD/plone.jpg
+    apple_link: 'https://music.apple.com/us/album/puzzlewood/1501669587'
+    link: 'https://www.dropbox.com/s/b823o58hnj8mko5/Plone.zip?dl=1'
+    content: 
+    
+    
+    
     
              
