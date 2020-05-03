@@ -1,0 +1,28 @@
+backend:
+  name: git-gateway
+  repo: https://github.com/pandabrand/biggers-ffwd
+  branch: master # Branch to update (optional; defaults to master)
+  site-domain: https://biggers-ffwd.netlify.app/
+
+media_folder: public/assets
+public_folder: /assets
+
+collections:
+  - label: "Albums"
+    name: "Albums"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "data/albums.yaml"
+        fields:
+          - label: "Albums"
+            name: "albums"
+            widget: list
+            fields:
+                - {label: "Artist", name: "artist", widget: string }
+                - {label: "Title", name: "title", widget: string }
+                - {label: "Image", name: "image", widget: string }
+                - {label: "Apple Link", name: "apple_link", widget: string }
+                - {label: "Link", name: "link", widget: string }
+                - {label: "Content", name: "content", widget: string }
+            
