@@ -4,6 +4,9 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
   site-domain: https://biggers-ffwd.netlify.app/
 
+media_folder: public/assets
+public_folder: /assets
+
 collections:
   - label: "Albums"
     name: "Albums"

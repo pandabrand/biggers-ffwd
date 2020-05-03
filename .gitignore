@@ -9,6 +9,7 @@ yarn.lock
 !/public/
 /public/**
 !/public/admin/
+!/public/assets/
 /public/admin/**
 .DS_Store
 
