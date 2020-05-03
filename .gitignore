@@ -6,5 +6,11 @@ package-lock.json
 yarn.lock
 
 # Build directory
-/public
+!/public/
+/public/**
+!/public/admin/
+/public/admin/**
 .DS_Store
+
+#cms
+!/public/admin/config.yml
