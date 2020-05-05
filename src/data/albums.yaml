@@ -1080,10 +1080,19 @@ albums:
             *No one is even reading this, but don't forget to click the album artwork to download if there isn't Apple Music link for streaming.*
                                                                                                                                                                                                                                                                  
   - album:
-    artist: 'Fiona Apple '
+    artist: 'Fiona Apple'
     title: 'Fetch the Bolt Cutters'
     image: ../assets/images/FFWD/Fiona.jpg
-    apple_link: ''
-    link: 'https://music.apple.com/us/album/fetch-the-bolt-cutters/1507811635'
+    apple_link: 'https://music.apple.com/us/album/fetch-the-bolt-cutters/1507811635'
+    link: 'https://www.dropbox.com/s/mnsili5enevpjuz/FionaApple.zip?dl=1'
     content: 
             All props must go to Sheba on this one. I  confess *Fetch the Bolt Cutters* is the first Fiona Apple record I've heard, but Sheba's been jamming it non-stop and it's fantastic. Ramshackle sonics paired with creative arrangments and expert songwriting makes for a dizzying experience. Earns every ounce of its hype with Apple's sheer physicality and unvarnished humanity. 
+                                                                                                                                                                                                                                                                             
+  - album:
+    artist: 'Ka'
+    title: 'Descendants of Cain'
+    image: ../assets/images/FFWD/Ka.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/vchhlhlkiwmgicd/Ka.zip?dl=1'
+    content: 
+            Between Conway's *LULU*, Westside Gunn's *Pray for Paris*, and now Ka's *Descendants of Cain*, April 2020 may been one of the strongest months in Hip Hop since '95. For me, Ka occupies a lane all his own, where the barely-there, self-produced beats never distract from the artistry of his bewtiching lyricism. He's simply without equal and *Descendants of Cain* cements his status as the undisputed King of Brownswood. 
