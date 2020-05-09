@@ -1067,7 +1067,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/live-at-henie-onstad-kunstsenter/1507245587'
     link: 'https://www.dropbox.com/s/juus44kijgsui0e/Lindstrom.zip?dl=1'
     content: 
-            Psilocybin enthsuiasts need *Live at Henie Onstad Kunstsenter* in their journies immediately! Not gonna lie—-the last half devolvles into proggy wonkiness, but hearing Lindstrøm wield his masterful command over hardware remains a treat. The installation iteslf is also worth a [look](https://www.youtube.com/watch?v=an8Z60q9nyY&t=2s). 
+            Psilocybin enthsuiasts need *Live at Henie Onstad Kunstsenter* for their journies immediately! Not gonna lie—-the last half devolvles into proggy wonkiness, but hearing Lindstrøm wield his masterful command over hardware remains a treat. The installation iteslf is also worth a [look](https://www.youtube.com/watch?v=an8Z60q9nyY&t=2s). 
                                                                                                                                                                                                                                                      
   - album:
     artist: 'Michael J. Blood'
@@ -1077,7 +1077,7 @@ albums:
     link: 'https://www.dropbox.com/s/ymqwty6958ut7wb/MichaelJBlood.zip?dl=1'
     content: 
             Most blunted gear I've heard since Actress' earliest cuts, no lie. Spread across four twenty-minute sections, Blood conjures the scene of a Manchester pirate radio tranmission fueled by an ungodly amount of glass-tipped pre-rolled's. All of it sounds like Moodymann, Theo Parrish, John T. Gast paying homage to Prince and Dilla with just some Sour Diesel and an MPC 2000. If you worship any of the aforementioned, *Introducing Michael J. Blood* is absolutely essential.  
-            *No one is even reading this, but don't forget to click the album artwork to download if there isn't Apple Music link for streaming.*
+            *No one's even reading this, but don't forget to click the album artwork to download if there isn't Apple Music link for streaming.*
                                                                                                                                                                                                                                                                  
   - album:
     artist: 'Fiona Apple'
@@ -1096,3 +1096,12 @@ albums:
     link: 'https://www.dropbox.com/s/vchhlhlkiwmgicd/Ka.zip?dl=1'
     content: 
             Between Conway's *LULU*, Westside Gunn's *Pray for Paris*, and  Ka's *Descendants of Cain*, April 2020 turned into one of the strongest months in Hip Hop since the summer of '95. For me, Ka occupies a lane all his own, where the barely-there, self-produced beats never distract from the artistry of his bewtiching lyricism. Ka's simply without equal and *Descendants of Cain* cements his status as the undisputed King of Brownswood. 
+
+  - album:
+    artist: 'Okkyung Lee'
+    title: 'Yeo-Neun'
+    image: ../assets/images/FFWD/Okkyung.jpg
+    apple_link: 'https://music.apple.com/us/album/yeo-neun/1509764801'
+    link: 'https://www.dropbox.com/s/vchhlhlkiwmgicd/Ka.zip?dl=1'
+    content: 
+            An absolute daydream debut from Okkyung Lee's new quartet. Comprised of ten miniature suites centered on Lee's cello, harp, piano, and bass, *Yeo-Neun* honors healers Dorothy Ashby and Alice Coltrane, all while carving out her own tonal space. A true accomplishment in compostion and experimentation. Ravishing. 
