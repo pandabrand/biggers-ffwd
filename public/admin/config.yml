@@ -23,4 +23,15 @@ collections:
                 - {label: "Apple Link", name: "apple_link", widget: string }
                 - {label: "Link", name: "link", widget: string }
                 - {label: "Content", name: "content", widget: string }
-            
+  - label: "Albums"
+    name: "Individual Albums"
+    folder: "data/albums"
+    fields:
+      - {label: "Artist", name: "artist", widget: string }
+      - {label: "Title", name: "title", widget: string }
+      - {label: "Image", name: "image", widget: string }
+      - {label: "Apple Link", name: "apple_link", widget: string }
+      - {label: "Link", name: "link", widget: string }
+      - {label: "Content", name: "content", widget: string }
+      - {label: "Published Date", name: "published_date", widget: datetime }
+
