@@ -4,8 +4,13 @@
   "version": "1.0.0",
   "author": "Hunter Chang",
   "dependencies": {
+    "@jimp/plugin-color": "^0.10.3",
+    "@jimp/plugin-resize": "^0.10.3",
+    "@jimp/plugin-threshold": "^0.10.3",
     "@mdx-js/mdx": "^1.5.3",
     "@mdx-js/react": "^1.5.3",
+    "acorn": "^6.4.1",
+    "codemirror": "5.x",
     "gatsby": "^2.20.28",
     "gatsby-plugin-manifest": "^2.2.16",
     "gatsby-plugin-mdx": "^1.0.64",
@@ -18,13 +23,18 @@
     "gatsby-transformer-remark": "^2.6.45",
     "gatsby-transformer-sharp": "^2.3.9",
     "gatsby-transformer-yaml": "^2.2.20",
-    "netlify-cms": "^2.10.47",
+    "immutable": "^3.8.2",
+    "jimp": "^0.10.3",
+    "moment": "^2.25.3",
     "netlify-cms-app": "^2.12.11",
-    "node-sass": "^4.12.0",
+    "netlify-cms-lib-widgets": "^1.0.0",
+    "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
-    "react-markdown": "^4.2.2"
+    "react-markdown": "^4.2.2",
+    "redux": "^3.7.2",
+    "typescript": "^3.8.3"
   },
   "keywords": [
     "gatsby"

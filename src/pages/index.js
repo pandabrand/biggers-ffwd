@@ -27,7 +27,7 @@ const HomeIndex = ({data}) => {
                         return (
                             <section key={index}>
                                 <a href={album.link} className="image">
-                                    <div class="img-wrapper">
+                                    <div className="img-wrapper">
                                         <img
                                             src={featuredImgFluid.fluid.src}
                                             srcSet={featuredImgFluid.fluid.srcSet}
