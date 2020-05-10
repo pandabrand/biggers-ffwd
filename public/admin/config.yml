@@ -26,6 +26,10 @@ collections:
   - label: "Albums"
     name: "Individual Albums"
     folder: "data/albums"
+    create: true
+    slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
+    editor:
+      preview: false
     fields:
       - {label: "Artist", name: "artist", widget: string }
       - {label: "Title", name: "title", widget: string }
