@@ -33,9 +33,9 @@ collections:
     fields:
       - {label: "Artist", name: "artist", widget: string }
       - {label: "Title", name: "title", widget: string }
-      - {label: "Image", name: "image", widget: string }
+      - {label: "Image", name: "image", widget: image }
       - {label: "Apple Link", name: "apple_link", widget: string }
       - {label: "Link", name: "link", widget: string }
-      - {label: "Content", name: "content", widget: string }
+      - {label: "Content", name: "content", widget: markdown }
       - {label: "Published Date", name: "published_date", widget: datetime }
 
