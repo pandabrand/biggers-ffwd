@@ -1182,4 +1182,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/pais-filhos/1510773387'
     link: 'https://www.dropbox.com/s/l0vgvd3lbafv8lc/Niagara.zip?dl=1'
     content: 
+                  
+  - album:
+    artist: 'Kali Uchis'
+    title: 'TO FEEL ALIVE'
+    image: ../assets/images/FFWD/kali.jpg
+    apple_link: 'https://music.apple.com/us/album/to-feel-alive-ep/1507976339'
+    link: 'https://www.dropbox.com/s/evni5yrjhvpt57v/kali.zip?dl=1'
+    content: 
     
