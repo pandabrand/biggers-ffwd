@@ -1150,5 +1150,12 @@ albums:
     link: 'https://www.dropbox.com/s/2wqabk7vpssq3mp/Nozomu.zip?dl=1'
     content: 
            Wouldn't dare spoil any of the surprises found in Nozomu Matsumoto's genius installation piece, but prepare to laugh and be moved in equal measure. So weird and so lovely. 
-
+       
+  - album:
+    artist: 'Lord of the Isles'
+    title: 'Whities 029'
+    image: ../assets/images/FFWD/Lord.png
+    apple_link: 'https://music.apple.com/us/album/whities-029-ep/1508097763'
+    link: 'https://www.dropbox.com/s/flnkarumt7wpe9y/LordOfTheIsles.zip?dl=1'
+    content: 
     
