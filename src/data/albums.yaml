@@ -1166,4 +1166,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/meeting-of-the-minds-single/1507083498'
     link: 'https://www.dropbox.com/s/p1h0u17i2l1g2ru/Noun.zip?dl=1'
     content: 
+              
+  - album:
+    artist: 'Clemency'
+    title: 'References'
+    image: ../assets/images/FFWD/clemency.jpg
+    apple_link: 'https://music.apple.com/us/album/references-single/1506634636'
+    link: 'https://www.dropbox.com/s/a93590sgyc3c484/Clemency.zip?dl=1'
+    content: 
     
