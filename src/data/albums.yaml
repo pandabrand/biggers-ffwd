@@ -1092,10 +1092,10 @@ albums:
     artist: 'Ka'
     title: 'Descendants of Cain'
     image: ../assets/images/FFWD/Ka.jpg
-    apple_link: ''
+    apple_link: 'https://music.apple.com/us/album/descendants-of-cain/1511526625'
     link: 'https://www.dropbox.com/s/vchhlhlkiwmgicd/Ka.zip?dl=1'
     content: 
-            Between Conway's *LULU*, Westside Gunn's *Pray for Paris*, and  Ka's *Descendants of Cain*, April 2020 turned into one of the strongest months in Hip Hop since the summer of '95. For me, Ka occupies a lane all his own, where the barely-there, self-produced beats never distract from the artistry of his bewtiching lyricism. Ka's simply without equal and *Descendants of Cain* cements his status as the undisputed King of Brownswood. 
+            Between Conway's *LULU*, Westside Gunn's *Pray for Paris*, and Ka's *Descendants of Cain*, April 2020 turned into one of the strongest months in Hip Hop since the summer of '95. For me, Ka occupies a lane all his own, where the barely-there, self-produced beats never distract from the artistry of his bewtiching lyricism. Ka's simply without equal and *Descendants of Cain* cements his status as the undisputed King of Brownswood. 
 
   - album:
     artist: 'Okkyung Lee'
@@ -1131,4 +1131,22 @@ albums:
     apple_link: 'https://music.apple.com/us/album/wahre-liebe/1503574762'
     link: 'https://www.dropbox.com/s/wepew2urgoo0n5z/Roedelius.zip?dl=1'
     content: 
-            Master teacher, Hans-Joachim Roedelius, returns to one of his most beloved series forty-one years after it began. Having founded Cluster and Harmonia,  the towering stature of those groups often overshadows Roedelius' rich solo career, but a number of electronic music's most essential works feature just Roedelius and his trusty Farfisa. If you're new to Roedelius solo output, *Wahre Liebe* serves as the perfect entry point into the 86 year-old artist's timeless soundscapes. One of the year's best from a titan in ambient and electronic spheres. 
+            Master teacher, Hans-Joachim Roedelius, returns to one of his most beloved series forty-one years after it began. Having founded Cluster and Harmonia,  the towering stature of those groups often overshadows Roedelius' rich solo career, but some of the most essential electronic recordings ever made feature just Roedelius and his trusty Farfisa. If you're new to Roedelius solo output, *Wahre Liebe* serves as the perfect entry point into the 86 year-old artist's timeless soundscapes. One of the year's best from a titan in ambient and electronic spheres. 
+   
+  - album:
+    artist: 'Chekov'
+    title: 'Aerated'
+    image: ../assets/images/FFWD/Aerated.png
+    apple_link: 'https://music.apple.com/us/album/aerated-ep/1498747622'
+    link: 'https://www.dropbox.com/s/zf8c5w1215m9kla/Chekov.zip?dl=1'
+    content:  
+          Let some sun in with this bouncy EP of dubby house and sparkling sound design. Chekov's best EP yet. 
+       
+  - album:
+    artist: 'Nozomu Matsumoto'
+    title: 'Sustainable Hours'
+    image: ../assets/images/FFWD/nozomu.jpg
+    apple_link: 'https://music.apple.com/us/album/sustainable-hours-soundtrack-for-installation-by-nile/1511185114'
+    link: 'https://www.dropbox.com/s/2wqabk7vpssq3mp/Nozomu.zip?dl=1'
+    content: Don't want to spoil any of the surprises found in Nozomu Matsumoto's genius installation piece, but prepare to laugh and be moved in equal measure. So weird and so lovely. 
+    
