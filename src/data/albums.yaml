@@ -1158,4 +1158,12 @@ albums:
     apple_link: 'https://music.apple.com/us/album/whities-029-ep/1508097763'
     link: 'https://www.dropbox.com/s/flnkarumt7wpe9y/LordOfTheIsles.zip?dl=1'
     content: 
+           
+  - album:
+    artist: 'Noun'
+    title: 'Meeting of the Minds'
+    image: ../assets/images/FFWD/Noun.jpg
+    apple_link: 'https://music.apple.com/us/album/meeting-of-the-minds-single/1507083498'
+    link: 'https://www.dropbox.com/s/p1h0u17i2l1g2ru/Noun.zip?dl=1'
+    content: 
     
