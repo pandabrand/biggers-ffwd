@@ -1150,8 +1150,7 @@ albums:
     link: 'https://www.dropbox.com/s/2wqabk7vpssq3mp/Nozomu.zip?dl=1'
     content: 
            Wouldn't dare spoil any of the surprises found in Nozomu Matsumoto's genius installation piece, but prepare to laugh and be moved in equal measure. So fucking weird and lovely. 
-           
-       
+    
   - album:
     artist: 'Lord of the Isles'
     title: 'Whities 029'
@@ -1191,4 +1190,28 @@ albums:
     apple_link: 'https://music.apple.com/us/album/to-feel-alive-ep/1507976339'
     link: 'https://www.dropbox.com/s/evni5yrjhvpt57v/kali.zip?dl=1'
     content: 
+                      
+  - album:
+    artist: 'Sote'
+    title: 'Parallel Persia Remixes'
+    image: ../assets/images/FFWD/Sote.jpg
+    apple_link: 'https://music.apple.com/us/album/parallel-persia-remixes/1509802265'
+    link: 'https://www.dropbox.com/s/n04hs731kdiojl5/SOTERMX.zip?dl=1'
+    content: 
+                          
+  - album:
+    artist: 'Yamaneko'
+    title: 'Spa Commissions 2'
+    image: ../assets/images/FFWD/Yamaneko.jpg
+    apple_link: 'https://music.apple.com/us/album/spa-commissions-2/1508361982'
+    link: 'https://www.dropbox.com/s/qwqqoe3404oohq4/Yamaneko.zip?dl=1'
+    content: 
+                        
+  - album:
+    artist: 'Arash Moori'
+    title: 'Exothermic'
+    image: ../assets/images/FFWD/arash.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/24kg37qwffrsoz9/ArashMoori.zip?dl=1'
+    content: Super anti-sosh and brutalist, but if yr into Autechre at their most extreme, *Exothermic* is the business. 
     
