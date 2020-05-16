@@ -1222,6 +1222,22 @@ albums:
     apple_link: 'https://music.apple.com/us/album/hyperattention-selected-dijital-works-vol-1/1511966664'
     link: 'https://www.dropbox.com/s/2m9udqcw07nurzz/Dijit.zip?dl=1'
     content: 
+                                    
+  - album:
+    artist: 'Phillip Sollmann'
+    title: 'Monophonie'
+    image: ../assets/images/FFWD/Monophonie.jpg
+    apple_link: 'hhttps://music.apple.com/us/album/monophonie/1510010321'
+    link: 'https://www.dropbox.com/s/ociku1wqap4w78x/PhillipSollmann.zip?dl=1'
+    content: 
+                                    
+  - album:
+    artist: 'Cavern of Anti-Matter'
+    title: 'In Fabric OST'
+    image: ../assets/images/FFWD/InFabric.jpg
+    apple_link: 'https://music.apple.com/us/album/the-mosaic-of-transformation/1496670618'
+    link: 'https://www.dropbox.com/s/3enyv4n6qo1tdeh/InFabric.zip?dl=1'
+    content: 
                              
   - album:
     artist: 'Kaitlyn Aurelia Smith'
@@ -1229,12 +1245,4 @@ albums:
     image: ../assets/images/FFWD/Kaitlyn.jpg
     apple_link: 'https://music.apple.com/us/album/the-mosaic-of-transformation/1496670618'
     link: 'https://www.dropbox.com/s/s48i8rvj7iaimjg/Kaitlyn.zip?dl=1'
-    content: 
-                                
-  - album:
-    artist: 'Cavern of Anti-Matter'
-    title: 'In Fabric OST'
-    image: ../assets/images/FFWD/InFabric.jpg
-    apple_link: 'https://music.apple.com/us/album/the-mosaic-of-transformation/1496670618'
-    link: 'https://www.dropbox.com/s/3enyv4n6qo1tdeh/InFabric.zip?dl=1'
     content: 
