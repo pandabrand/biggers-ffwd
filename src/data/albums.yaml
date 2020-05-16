@@ -1256,9 +1256,18 @@ albums:
     content: 
                             
   - album:
-    artist: 'Kaitlyn Aurelia Smith'
-    title: 'The Mosaic of Transformation'
-    image: ../assets/images/FFWD/Kaitlyn.jpg
-    apple_link: 'https://music.apple.com/us/album/the-mosaic-of-transformation/1496670618'
-    link: 'https://www.dropbox.com/s/s48i8rvj7iaimjg/Kaitlyn.zip?dl=1'
+    artist: 'Jonny Nash & Suzanne Kraft'
+    title: 'A Heart So White'
+    image: ../assets/images/FFWD/heart.jpg
+    apple_link: 'https://music.apple.com/us/album/a-heart-so-white/1505066042'
+    link: 'https://www.dropbox.com/s/ooid2dikcssbxz9/JonnySuzanne.zip?dl=1'
     content: 
+                                
+  - album:
+    artist: '1995 Epilepsy'
+    title: '1995 Epilepsy'
+    image: ../assets/images/FFWD/1995.jpg
+    apple_link: 'https://music.apple.com/us/album/1995-epilepsy/1511785260'
+    link: 'https://www.dropbox.com/s/3kr3ekl4adbk22v/1995epilepsy.zip?dl=1'
+    content: 
+
