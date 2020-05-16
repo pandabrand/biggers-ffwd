@@ -1214,4 +1214,11 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/24kg37qwffrsoz9/ArashMoori.zip?dl=1'
     content: Super anti-sosh and brutalist, but if yr into Autechre at their most extreme, *Exothermic* is the business. 
-    
+                          
+  - album:
+    artist: 'Dijit'
+    title: 'Hyperattention'
+    image: ../assets/images/FFWD/dijit.jpg
+    apple_link: 'https://music.apple.com/us/album/hyperattention-selected-dijital-works-vol-1/1511966664'
+    link: 'https://www.dropbox.com/s/2m9udqcw07nurzz/Dijit.zip?dl=1'
+    content: 
