@@ -1328,8 +1328,15 @@ albums:
   - album:
     artist: 'Fools'
     title: 'Fools' Harp, Volume 1'
-    image: ../assets/images/FFWD/Fools.jpg
+    image: ../assets/images/FFWD/fools.jpg
     apple_link: 'https://music.apple.com/us/album/fools-harp-vol-1/1509475591'
     link: 'https://www.dropbox.com/s/rvjp4bmn4fjb9bi/Fools.zip?dl=1'
     content: 
-                 
+
+  - album:
+    artist: 'Raymond Richards'
+    title: 'The Lost Art Of Wandering'
+    image: ../assets/images/FFWD/raymond.jpg
+    apple_link: 'https://music.apple.com/us/album/the-lost-art-of-wandering/1512212424'
+    link: 'https://www.dropbox.com/s/ltz2zgn2e2p02lh/RaymondRichards.zip?dl=1'
+    content: 
