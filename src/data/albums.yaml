@@ -1343,15 +1343,7 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/j4wm19xzjmftqi4/SarahDavachi.zip?dl=1'
     content: 
-                                                              
-  - album:
-    artist: 'Fools'
-    title: 'Fools Harp, Volume 1'
-    image: ../assets/images/FFWD/Fools.jpg
-    apple_link: 'https://music.apple.com/us/album/fools-harp-vol-1/1509475591'
-    link: 'https://www.dropbox.com/s/rvjp4bmn4fjb9bi/Fools.zip?dl=1'
-    content: 
-                                                   
+                                  
   - album:
     artist: 'RAMZi'
     title: 'Cocon'
