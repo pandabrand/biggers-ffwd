@@ -1324,15 +1324,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/pacific-breeze-2-ep-japanese-city-pop-aor-boogie-1983-1986-ep/1502783663'
     link: 'https://www.dropbox.com/s/91iv8tbzl7kzyw9/PacificBreeze2.zip?dl=1'
     content: 
-                                                                  
-  - album:
-    artist: 'Fools'
-    title: 'Fools' Harp, Volume 1'
-    image: ../assets/images/FFWD/fools.jpg
-    apple_link: 'https://music.apple.com/us/album/fools-harp-vol-1/1509475591'
-    link: 'https://www.dropbox.com/s/rvjp4bmn4fjb9bi/Fools.zip?dl=1'
-    content: 
-
+  
   - album:
     artist: 'Raymond Richards'
     title: 'The Lost Art Of Wandering'
