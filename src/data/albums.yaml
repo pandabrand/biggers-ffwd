@@ -1316,7 +1316,8 @@ albums:
     apple_link: 'https://music.apple.com/us/album/all-things-being-equal/1498534161'
     link: 'https://www.dropbox.com/s/17tq1971t0ovpx3/SonicBoom.zip?dl=1'
     content: 
-             After a three decade sabbatical from producing solo material, Pete Kemper (Spacemen 3/Spectrum) revisits earth with *All Things Being Equal*, a psychedelic blend of modular synthesis and love letters to Suicide, the Everyly Brothers, and 60s BBC. A strong return to form from a (surprisingly) living legend.
+             After a three decade sabbatical from producing solo material, Pete Kemper (Spacemen 3/Spectrum) revisits earth with *All Things Being Equal*, a psychedelic blend of modular synthesis and love letters to Suicide, the Everyly Brothers, and the Radiophonic Workshop. A strong return to form from a (surprisingly) living legend.
+  
   - album:
     artist: 'Pacific Breeze'
     title: 'Pacific Breeze 2 EP: Japanese City Pop, AOR & Boogie 1983-1986'
@@ -1339,4 +1340,12 @@ albums:
     image: ../assets/images/FFWD/Ramzi.jpg
     apple_link: ''
     link: 'https://www.dropbox.com/s/up0i6sr90vxgl6j/ramzi.zip?dl=1'
+    content: 
+                                                                        
+  - album:
+    artist: 'Fools'
+    title: 'Fools' Harp, Volume 1'
+    image: ../assets/images/FFWD/FOOLS.jpg
+    apple_link: 'https://music.apple.com/us/album/fools-harp-vol-1/1509475591'
+    link: 'https://www.dropbox.com/s/rvjp4bmn4fjb9bi/Fools.zip?dl=1'
     content: 
