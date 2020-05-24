@@ -1332,3 +1332,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/the-lost-art-of-wandering/1512212424'
     link: 'https://www.dropbox.com/s/ltz2zgn2e2p02lh/RaymondRichards.zip?dl=1'
     content: 
+    
+  - album:
+    artist: 'RAMZi'
+    title: 'Cocon'
+    image: ../assets/images/FFWD/Ramzi.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/up0i6sr90vxgl6j/ramzi.zip?dl=1'
+    content: 
