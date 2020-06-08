@@ -1365,3 +1365,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/feeling-the-spirit/1515758826'
     link: 'https://www.dropbox.com/s/kar8s0c1v9ms0x5/TTO.zip?dl=1'
     content:
+                                                                                    
+  - album:
+    artist: 'Kate NV'
+    title: 'Room for the Moon'
+    image: ../assets/images/FFWD/KateNV.png
+    apple_link: 'https://music.apple.com/us/album/feeling-the-spirit/1515758826'
+    link: 'https://www.dropbox.com/s/2prs8droazst0cr/KateNV.zip?dl=1'
+    content:
