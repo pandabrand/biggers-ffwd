@@ -1394,6 +1394,14 @@ albums:
     artist: 'Freddie Gibbs & The Alchemist'
     title: 'Alfredo'
     image: ../assets/images/FFWD/Alfredo.png
-    apple_link: https://music.apple.com/us/album/alfredo/1513978902'
+    apple_link: 'https://music.apple.com/us/album/alfredo/1513978902'
+    link: 'https://www.dropbox.com/s/qz1dwxup0tdse14/Alfredo.zip?dl=1'
+    content:
+                                                                                                    
+  - album:
+    artist: 'Vladislav Delay Meets Sly & Robbie'
+    title: '500 Push Up'
+    image: ../assets/images/FFWD/500.jpg
+    apple_link: ''
     link: 'https://www.dropbox.com/s/qz1dwxup0tdse14/Alfredo.zip?dl=1'
     content:
