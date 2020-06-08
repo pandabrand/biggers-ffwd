@@ -1405,3 +1405,11 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/qz1dwxup0tdse14/Alfredo.zip?dl=1'
     content:
+                                                                                                        
+  - album:
+    artist: 'Aril Brikha'
+    title: 'Prisma'
+    image: ../assets/images/FFWD/Prisma.jpg
+    apple_link: 'https://music.apple.com/us/album/prisma/1512948932'
+    link: 'https://www.dropbox.com/s/qyc3d15yqp60a43/Aril.zip?dl=1'
+    content:
