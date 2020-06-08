@@ -1389,3 +1389,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/synthesist-40th-anniversary-edition/1514827219'
     link: 'https://www.dropbox.com/s/83bivqxq8ziphaw/HaraldGrosskopf.zip?dl=1'
     content:
+                                                                                                
+  - album:
+    artist: 'Freddie Gibbs & The Alchemist'
+    title: 'Alfredo'
+    image: ../assets/images/FFWD/Alfredo.png
+    apple_link: https://music.apple.com/us/album/alfredo/1513978902'
+    link: 'https://www.dropbox.com/s/qz1dwxup0tdse14/Alfredo.zip?dl=1'
+    content:
