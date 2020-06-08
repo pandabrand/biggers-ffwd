@@ -1413,3 +1413,11 @@ albums:
     apple_link: ''
     link: 'https://www.dropbox.com/s/5guvy21ynkcnpef/Ulla2.zip?dl=1'
     content:
+                                                                                                           
+  - album:
+    artist: 'Trickfinger'
+    title: 'She Smiles Because She Presses The Button'
+    image: ../assets/images/FFWD/Ulla2.jpg
+    apple_link: 'https://music.apple.com/us/album/she-smiles-because-she-presses-the-button-ep/1513020726'
+    link: 'https://www.dropbox.com/s/4a0w0zaq4akj274/Trickfinger.zip?dl=1'
+    content:
