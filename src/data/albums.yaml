@@ -1421,3 +1421,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/rebirth-of-gerberdaisy/1509434457'
     link: 'https://www.dropbox.com/s/r9vzx2j9u2atcw8/Boof.zip?dl=1'
     content:
+                                                                                                              
+  - album:
+    artist: 'Tidiane Thiam'
+    title: 'Siftorde'
+    image: ../assets/images/FFWD/Siftorde.jpg
+    apple_link: 'https://music.apple.com/us/album/siftorde/1505610677'
+    link: 'https://www.dropbox.com/s/0xpdtligqj0ymqk/TidianeThiam.zip?dl=1'
+    content:
