@@ -1316,7 +1316,7 @@ albums:
     apple_link: 'https://music.apple.com/us/album/all-things-being-equal/1498534161'
     link: 'https://www.dropbox.com/s/17tq1971t0ovpx3/SonicBoom.zip?dl=1'
     content: 
-             After a three decade sabbatical from producing solo material, Pete Kemper (Spacemen 3/Spectrum) revisits earth with *All Things Being Equal*, a psychedelic blend of modular synthesis and love letters to Suicide, the Everyly Brothers, and the Radiophonic Workshop. A strong return to form from a (surprisingly) living legend.
+             Following a three decade sabbatical from producing solo material, Pete Kemper (Spacemen 3/Spectrum) revisits earth with *All Things Being Equal*, a psychedelic blend of modular synthesis and love letters to Suicide, the Everyly Brothers, and the Radiophonic Workshop. A strong return to form from a (surprisingly) living legend.
   
   - album:
     artist: 'Pacific Breeze'
@@ -1428,4 +1428,44 @@ albums:
     image: ../assets/images/FFWD/Siftorde.jpg
     apple_link: 'https://music.apple.com/us/album/siftorde/1505610677'
     link: 'https://www.dropbox.com/s/0xpdtligqj0ymqk/TidianeThiam.zip?dl=1'
+    content:
+                                                                                                                  
+  - album:
+    artist: 'Karenn'
+    title: 'Music Sounds Better With Shoe'
+    image: ../assets/images/FFWD/Karenn.jpg
+    apple_link: 'https://music.apple.com/us/album/music-sounds-better-with-shoe-single/1515982103'
+    link: 'https://www.dropbox.com/s/v5lpkbbjnk52xeh/Karenn.zip?dl=1'
+    content:
+                                                                                                                      
+  - album:
+    artist: 'Nihiloxica'
+    title: 'Kaloli'
+    image: ../assets/images/FFWD/Kaloli.jpg
+    apple_link: 'https://music.apple.com/us/album/kaloli/1516684257'
+    link: 'https://www.dropbox.com/s/wvol1wtyya5scs9/Nihiloxica.zip?dl=1'
+    content:
+                                                                                                                          
+  - album:
+    artist: 'K-Lone'
+    title: 'The Falls'
+    image: ../assets/images/FFWD/Falls.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/em0tk7w5uxyjtd2/KLoneFalls.zip?dl=1'
+    content:
+                                                                                                                              
+  - album:
+    artist: 'HHY & The Macumbas'
+    title: 'Camoflauge Vector'
+    image: ../assets/images/FFWD/HHY.jpg
+    apple_link: 'https://music.apple.com/us/album/camouflage-vector-edits-from-live-actions-2017-2019/1513639903'
+    link: 'https://www.dropbox.com/s/tu36c8dr0ee0gst/HHY%26TheMacumbas.zip?dl=1'
+    content:
+                                                                                                                                  
+  - album:
+    artist: 'Nahash'
+    title: 'Flowers of the Revolution'
+    image: ../assets/images/FFWD/Nahash.jpg
+    apple_link: 'https://music.apple.com/us/album/flowers-of-the-revolution/1513143908'
+    link: 'https://www.dropbox.com/s/rdc883deb9odtup/Nahash.zip?dl=1'
     content:
