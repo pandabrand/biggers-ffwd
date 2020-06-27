@@ -1485,3 +1485,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/how-can-i-ep/1511050526'
     link: 'https://www.dropbox.com/s/hnmi3om0n4pod0c/parkhyejin.zip?dl=1'
     content:
+                                                                                                                                          
+  - album:
+    artist: 'Kelly Lee Owens'
+    title: 'On'
+    image: ../assets/images/FFWD/klo.jpg
+    apple_link: 'https://music.apple.com/us/album/on-ep/1516028205'
+    link: 'https://www.dropbox.com/s/1pnjts9zt4oznbm/KLO_EP.zip?dl=1'
+    content:
