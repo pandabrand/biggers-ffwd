@@ -1475,5 +1475,13 @@ albums:
     title: 'Immulsion'
     image: ../assets/images/FFWD/blawan.jpg
     apple_link: 'https://music.apple.com/us/album/immulsion-ep/1519284606'
-    link: 'https://www.dropbox.com/s/rdc883deb9odtup/Nahash.zip?dl=1'
+    link: 'https://www.dropbox.com/s/nn87m7cun0x86hk/Immulsion.zip?dl=1'
+    content:
+                                                                                                                                      
+  - album:
+    artist: 'Park Hye Jin'
+    title: 'How Can I'
+    image: ../assets/images/FFWD/ParkHyeJin.jpg
+    apple_link: 'https://music.apple.com/us/album/how-can-i-ep/1511050526'
+    link: 'https://www.dropbox.com/s/hnmi3om0n4pod0c/parkhyejin.zip?dl=1'
     content:
