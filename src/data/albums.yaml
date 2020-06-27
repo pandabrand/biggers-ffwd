@@ -102,15 +102,6 @@ albums:
     content: |
 
   - album:
-    artist: 'Arca'
-    title: 'KiCk i'
-    image: ../assets/images/FFWD/ARCA2.jpg
-    apple_link: ''
-    link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
-    content: |
-            A schizophrenic opus (still without a release date) from this genreation's Madonna, Missy Elliot, and Björk—often all at once. Still unsure of *KiCk i's* stylistic whiplashing from track-to-track, but I'm willing to put in the work.
- 
-  - album:
     artist: 'CS + Kreme'
     title: 'Snoopy'
     image: ../assets/images/FFWD/CSKreme.jpg
@@ -1467,5 +1458,22 @@ albums:
     title: 'Flowers of the Revolution'
     image: ../assets/images/FFWD/Nahash.jpg
     apple_link: 'https://music.apple.com/us/album/flowers-of-the-revolution/1513143908'
+    link: 'https://www.dropbox.com/s/rdc883deb9odtup/Nahash.zip?dl=1'
+    content:
+
+  - album:
+    artist: 'Arca'
+    title: 'KiCk i'
+    image: ../assets/images/FFWD/Arca3.jpg
+    apple_link: 'https://music.apple.com/us/album/kick-i/1511122250'
+    link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
+    content: |
+            A schizophrenic opus from this genreation's Madonna, Missy Elliot, and Björk—often all at once. Still unsure of *KiCk i's* stylistic whiplashing from track-to-track, but I'm willing to put in the work.
+                                                                                                                                   
+  - album:
+    artist: 'Blawan'
+    title: 'Immulsion'
+    image: ../assets/images/FFWD/blawan.jpg
+    apple_link: 'https://music.apple.com/us/album/immulsion-ep/1519284606'
     link: 'https://www.dropbox.com/s/rdc883deb9odtup/Nahash.zip?dl=1'
     content:
