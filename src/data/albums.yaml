@@ -1517,3 +1517,11 @@ albums:
     apple_link: 'https://music.apple.com/us/album/four-quartets-of-love-and-modern-lash/1516635413'
     link: 'https://www.dropbox.com/s/s801cib8lrr7ml5/Deadbeat%26PaulSt.Hilaire.zip?dl=1'
     content:
+                                                                                                                                                        
+  - album:
+    artist: 'Burnt Friedman & Mohammad Reza Mortazavi'
+    title: 'Yek 2'
+    image: ../assets/images/FFWD/burnt.jpg
+    apple_link: 'https://music.apple.com/us/album/yek-2-ep/1514413918'
+    link: 'https://www.dropbox.com/s/pzzh3yrf9djwmyw/Yek2.zip?dl=1'
+    content:
