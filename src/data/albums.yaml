@@ -1506,6 +1506,14 @@ albums:
     artist: 'Pye Audio Corner'
     title: 'Where Things Are Hollow 2'
     image: ../assets/images/FFWD/pye.jpg
-    apple_link: ''
-    link: 'https://www.dropbox.com/s/0n1u01lo0qe3k1c/Kelman.zip?dl=1'
+    apple_link: 'https://music.apple.com/us/album/where-things-are-hollow-2-ep/1512215199'
+    link: 'https://www.dropbox.com/s/m7ss3e5tjhrtyaf/Pye.zip?dl=1'
+    content:
+                                                                                                                                                     
+  - album:
+    artist: 'Deadbeat & Paul St Hilaire'
+    title: 'Four Quartets Of Love and Modern Lash'
+    image: ../assets/images/FFWD/deadbeat.jpg
+    apple_link: 'https://music.apple.com/us/album/four-quartets-of-love-and-modern-lash/1516635413'
+    link: 'https://www.dropbox.com/s/s801cib8lrr7ml5/Deadbeat%26PaulSt.Hilaire.zip?dl=1'
     content:
