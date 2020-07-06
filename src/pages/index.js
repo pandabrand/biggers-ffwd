@@ -77,6 +77,25 @@ query {
         }
       }
     }
-  }
+    allMarkdownRemark(sort: {fields: frontmatter___published_date}) {
+        nodes {
+            frontmatter {
+                title
+                published_date
+                content
+                link
+                new_image {
+                    childImageSharp {
+                        fluid(maxWidth: 800, maxHeight: 800) {
+                            ...GatsbyImageSharpFluid
+                        }
+                    }
+                }
+                artist
+                apple_link
+            }
+        }
+    }
+}
 `
 export default HomeIndex

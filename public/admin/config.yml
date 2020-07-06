@@ -4,7 +4,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
   site-domain: https://biggers-ffwd.netlify.app/
 
-media_folder: public/assets
+media_folder: data/assets
 public_folder: /assets
 
 collections:
@@ -25,4 +25,19 @@ collections:
                 - {label: "Apple Link", name: "apple_link", widget: string }
                 - {label: "Link", name: "link", widget: string }
                 - {label: "Content", name: "content", widget: string }
-            
+  - name: "individual_albums"
+    label: "Individual Albums"
+    folder: "data/albums"
+    create: true
+    slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Artist", name: "artist", widget: string }
+      - {label: "Title", name: "title", widget: string }
+      - {label: "Image", name: "new_image", widget: image }
+      - {label: "Apple Link", name: "apple_link", widget: string }
+      - {label: "Link", name: "link", widget: string }
+      - {label: "Content", name: "content", widget: markdown }
+      - {label: "Published Date", name: "published_date", widget: datetime }
+
