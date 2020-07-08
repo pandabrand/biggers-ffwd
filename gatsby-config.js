@@ -71,7 +71,6 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/data/assets/`,
-        name: 'new_image',
       },
     },
     `gatsby-plugin-netlify-cms`,
