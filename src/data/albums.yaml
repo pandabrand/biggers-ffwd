@@ -1,4 +1,4 @@
-albums:
+ albums:
   - album:
     artist: 'Sault'
     title:  'UNTITLED (Black Is)'
@@ -6,8 +6,17 @@ albums:
     apple_link: 'https://music.apple.com/us/album/untitled-black-is/1518680087'
     link: 'https://www.dropbox.com/s/i0tcxa44naltefg/sault.zip?dl=1'
     content: |
+
+ albums:
+  - album:
+    artist: 'Jay Glass Dubs'
+    title:  'Soma'
+    image: ../assets/images/FFWD/Soma.jpg
+    apple_link: 'https://music.apple.com/us/album/workaround/1490180216'
+    link: 'https://www.dropbox.com/s/sugp2fyifh0mx9z/BeatriceDillon.zip?dl=1'
+    content: |
     
-albums:
+ albums:
   - album:
     artist: 'Beatrice Dillon'
     title:  'Workaround'
