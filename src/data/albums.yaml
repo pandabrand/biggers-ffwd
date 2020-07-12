@@ -46,6 +46,14 @@
     apple_link: 'https://music.apple.com/us/album/magnetic-service-ep/1517844621'
     link: 'https://www.dropbox.com/s/9us4lpn14727kwu/Azu.zip?dl=1'
     content: |
+                  
+  - album:
+    artist: 'Kuedo'
+    title:  'The Sprawl'
+    image: ../assets/images/FFWD/kuedo.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/9nspc1b7hfyz5dt/Kuedo.zip?dl=1'
+    content: |
 
   - album:
     artist: 'Beatrice Dillon'
