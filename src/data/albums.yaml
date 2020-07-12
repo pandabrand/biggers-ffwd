@@ -1,5 +1,5 @@
  albums:
- 
+
   - album:
     artist: 'Sault'
     title:  'UNTITLED (Black Is)'
@@ -39,7 +39,23 @@
     apple_link: 'https://music.apple.com/us/album/glow/1519080552'
     link: 'https://www.dropbox.com/s/wgoiga76fvjn8y2/patten.zip?dl=1'
     content: |
-              
+
+  - album:
+    artist: 'Shinichi Atobe'
+    title:  'Yes'
+    image: ../assets/images/FFWD/Shinichi.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/76os9z22b2lcsc4/Shinichi.zip?dl=1'
+    content: |
+
+  - album:
+    artist: 'Westside Gunn'
+    title:  'Flygod is an Awesome God 2'
+    image: ../assets/images/FFWD/Flygod.jpg
+    apple_link: 'https://music.apple.com/us/album/flygod-is-an-awesome-god-2/1521316232'
+    link: 'https://www.dropbox.com/s/76os9z22b2lcsc4/Shinichi.zip?dl=1'
+    content: |
+
   - album:
     artist: 'Azu Tiwaline'
     title:  'Magnetic Service'
