@@ -11,8 +11,16 @@
     artist: 'Jay Glass Dubs'
     title:  'Soma'
     image: ../assets/images/FFWD/Soma.jpg
-    apple_link: 'https://music.apple.com/us/album/workaround/1490180216'
-    link: 'https://www.dropbox.com/s/sugp2fyifh0mx9z/BeatriceDillon.zip?dl=1'
+    apple_link: 'https://music.apple.com/us/album/soma/1520693478'
+    link: 'https://www.dropbox.com/s/rsui3a7lzwzikj9/Soma.zip?dl=1'
+    content: |
+    
+  - album:
+    artist: 'Nordvest'
+    title:  'Grøndal'
+    image: ../assets/images/FFWD/Soma.jpg
+    apple_link: 'https://music.apple.com/us/album/gr%C3%B8ndal/1519495077'
+    link: 'https://www.dropbox.com/s/283g9truwopngpq/Nordvest.zip?dl=1'
     content: |
     
   - album:
