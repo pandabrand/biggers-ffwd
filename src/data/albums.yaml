@@ -29,15 +29,7 @@
     image: ../assets/images/FFWD/Molero.jpg
     apple_link: 'https://music.apple.com/us/album/ficciones-del-tr%C3%B3pico/1517883924'
     link: 'https://www.dropbox.com/s/dzu5xeiaumaxzqk/Molero.zip?dl=1'
-    content: |
-            
-  - album:
-    artist: 'patten'
-    title:  'Glow'
-    image: ../assets/images/FFWD/patten.jpg
-    apple_link: 'https://music.apple.com/us/album/glow/1519080552'
-    link: 'https://www.dropbox.com/s/wgoiga76fvjn8y2/patten.zip?dl=1'
-    content: |
+    content: ||
               
   - album:
     artist: 'Azu Tiwaline'
