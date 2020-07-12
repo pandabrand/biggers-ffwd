@@ -24,12 +24,29 @@
     content: |
         
   - album:
-    artist: 'Vague Imaginaires'
-    title:  'L'Île Sous l'Eau'
-    image: ../assets/images/FFWD/190945.jpg
-    apple_link: 'https://music.apple.com/us/album/l%C3%AEle-sous-leau-ep/1514670258'
-    link: 'https://www.dropbox.com/s/8zhmpbbag1jk92t/VagueImaginaires.zip?dl=1'
+    artist: 'Molero'
+    title:  'Ficciones Del Trópico'
+    image: ../assets/images/FFWD/Molero.jpg
+    apple_link: 'https://music.apple.com/us/album/ficciones-del-tr%C3%B3pico/1517883924'
+    link: 'https://www.dropbox.com/s/dzu5xeiaumaxzqk/Molero.zip?dl=1'
     content: |
+            
+  - album:
+    artist: 'patten'
+    title:  'Glow'
+    image: ../assets/images/FFWD/patten.jpg
+    apple_link: 'https://music.apple.com/us/album/glow/1519080552'
+    link: 'https://www.dropbox.com/s/wgoiga76fvjn8y2/patten.zip?dl=1'
+    content: |
+              
+  - album:
+    artist: 'Azu Tiwaline'
+    title:  'Magnetic Service'
+    image: ../assets/images/FFWD/Azu.jpg
+    apple_link: 'https://music.apple.com/us/album/magnetic-service-ep/1517844621'
+    link: 'https://www.dropbox.com/s/9us4lpn14727kwu/Azu.zip?dl=1'
+    content: |
+
     
   - album:
     artist: 'Beatrice Dillon'
