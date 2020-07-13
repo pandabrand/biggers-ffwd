@@ -17,6 +17,15 @@
     content: |
 
   - album:
+    artist: 'Shinichi Atobe'
+    title:  'Yes'
+    image: ../assets/images/FFWD/Shinichi.jpg
+    apple_link: ''
+    link: ''https://www.dropbox.com/s/76os9z22b2lcsc4/Shinichi.zip?dl=1'
+    content: |
+
+
+  - album:
     artist: 'Beatrice Dillon'
     title:  'Workaround'
     image: ../assets/images/FFWD/Beatrice Dillon.jpg
