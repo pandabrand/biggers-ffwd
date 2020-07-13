@@ -1,8 +1,8 @@
  albums:
- 
+
   - album:
     artist: 'Sault'
-    title:  'UNTITLED (Black Is)'
+    title: 'UNTITLED (Black Is)'
     image: ../assets/images/FFWD/sault.jpg
     apple_link: 'https://music.apple.com/us/album/untitled-black-is/1518680087'
     link: 'https://www.dropbox.com/s/i0tcxa44naltefg/sault.zip?dl=1'
@@ -10,7 +10,7 @@
 
   - album:
     artist: 'Jay Glass Dubs'
-    title:  'Soma'
+    title: 'Soma'
     image: ../assets/images/FFWD/Soma.jpg
     apple_link: 'https://music.apple.com/us/album/soma/1520693478'
     link: 'https://www.dropbox.com/s/rsui3a7lzwzikj9/Soma.zip?dl=1'
