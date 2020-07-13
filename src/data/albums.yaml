@@ -9,6 +9,14 @@
     content: |
 
   - album:
+    artist: 'Jay Glass Dubs'
+    title:  'Soma'
+    image: ../assets/images/FFWD/Soma.jpg
+    apple_link: 'https://music.apple.com/us/album/soma/1520693478'
+    link: 'https://www.dropbox.com/s/rsui3a7lzwzikj9/Soma.zip?dl=1'
+    content: |
+
+  - album:
     artist: 'Beatrice Dillon'
     title:  'Workaround'
     image: ../assets/images/FFWD/Beatrice Dillon.jpg
