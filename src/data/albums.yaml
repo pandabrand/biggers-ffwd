@@ -31,6 +31,22 @@
     apple_link: 'https://music.apple.com/us/album/gr%C3%B8ndal/1519495077'
     link: 'https://www.dropbox.com/s/283g9truwopngpq/Nordvest.zip?dl=1'
     content: |
+           
+  - album:
+    artist: 'Azu Tiwaline'
+    title:  'Magnetic Service'
+    image: ../assets/images/FFWD/Azu.jpg
+    apple_link: 'https://music.apple.com/us/album/magnetic-service-ep/1517844621'
+    link: 'https://www.dropbox.com/s/9us4lpn14727kwu/Azu.zip?dl=1'
+    content: |
+             
+  - album:
+    artist: 'Pretty Sneaky'
+    title:  'Pretty Sneaky'
+    image: ../assets/images/FFWD/PrettySneaky.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/ynwjqbbds7t38it/PrettySneaky.zip?dl=1'
+    content: |
     
   - album:
     artist: 'Beatrice Dillon'
