@@ -63,6 +63,23 @@
     apple_link: 'https://music.apple.com/us/album/ficciones-del-tr%C3%B3pico/1517883924'
     link: 'https://www.dropbox.com/s/dzu5xeiaumaxzqk/Molero.zip?dl=1'
     content: |
+          
+  - album:
+    artist: 'Kuedo'
+    title:  'The Sprawl OST'
+    image: ../assets/images/FFWD/kuedo.jpg
+    apple_link: ''
+    
+    link: 'https://www.dropbox.com/s/9nspc1b7hfyz5dt/Kuedo.zip?dl=1'
+    content: |
+              
+  - album:
+    artist: 'Carlos Nino and Miguel Atwood-Ferguson'
+    title:  'Chicago Waves'
+    image: ../assets/images/FFWD/carlos.jpg
+    apple_link: 'https://music.apple.com/us/album/chicago-waves/1517719657'
+    link: 'https://www.dropbox.com/s/x677swiooeol4fg/Carlos.zip?dl=1'
+    content: |
 
   - album:
     artist: 'Beatrice Dillon'
