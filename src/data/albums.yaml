@@ -23,6 +23,14 @@
     apple_link: ''
     link: 'https://www.dropbox.com/s/76os9z22b2lcsc4/Shinichi.zip?dl=1'
     content: |
+        
+  - album:
+    artist: 'Nordvest'
+    title:  'Grøndal'
+    image: ../assets/images/FFWD/194980.jpg
+    apple_link: 'https://music.apple.com/us/album/gr%C3%B8ndal/1519495077'
+    link: 'https://www.dropbox.com/s/283g9truwopngpq/Nordvest.zip?dl=1'
+    content: |
     
   - album:
     artist: 'Beatrice Dillon'
