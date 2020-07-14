@@ -47,7 +47,15 @@
     apple_link: ''
     link: 'https://www.dropbox.com/s/ynwjqbbds7t38it/PrettySneaky.zip?dl=1'
     content: |
-    
+           
+  - album:
+    artist: 'Westside Gunn'
+    title:  'Flygod is an Awesome God 2'
+    image: ../assets/images/FFWD/1Flygod.jpg
+    apple_link: 'https://music.apple.com/us/album/flygod-is-an-awesome-god-2/1521316232'
+    link: 'https://www.dropbox.com/s/4o3iq18kgktqokt/Flygod2.zip?dl=1'
+    content: |
+           
   - album:
     artist: 'Beatrice Dillon'
     title:  'Workaround'
