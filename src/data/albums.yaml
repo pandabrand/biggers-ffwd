@@ -55,6 +55,14 @@
     apple_link: 'https://music.apple.com/us/album/flygod-is-an-awesome-god-2/1521316232'
     link: 'https://www.dropbox.com/s/4o3iq18kgktqokt/Flygod2.zip?dl=1'
     content: |
+      
+  - album:
+    artist: 'Molero'
+    title:  'Ficciones Del Trópico'
+    image: ../assets/images/FFWD/Molero.jpg
+    apple_link: 'https://music.apple.com/us/album/ficciones-del-tr%C3%B3pico/1517883924'
+    link: 'https://www.dropbox.com/s/dzu5xeiaumaxzqk/Molero.zip?dl=1'
+    content: |
 
   - album:
     artist: 'Beatrice Dillon'
