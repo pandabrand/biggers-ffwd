@@ -111,6 +111,14 @@
     apple_link: ''
     link: 'https://www.dropbox.com/s/wgoiga76fvjn8y2/patten.zip?dl=1'
     content: |
+                     
+  - album:
+    artist: 'Vague Imaginaires'
+    title:  'Llle Sous lEau'
+    image: ../assets/images/FFWD/190945.jpg
+    apple_link: 'https://music.apple.com/us/album/l%C3%AEle-sous-leau-ep/1514670258'
+    link: 'https://www.dropbox.com/s/8zhmpbbag1jk92t/VagueImaginaires.zip?dl=1'
+    content: |
 
   - album:
     artist: 'Beatrice Dillon'
