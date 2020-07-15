@@ -71,6 +71,14 @@
     apple_link: 'https://music.apple.com/us/album/ficciones-del-tr%C3%B3pico/1517883924'
     link: 'https://www.dropbox.com/s/dzu5xeiaumaxzqk/Molero.zip?dl=1'
     content: |
+        
+  - album:
+    artist: 'Pearson Sound'
+    title:  'Alien Mode'
+    image: ../assets/images/FFWD/pearson.jpg
+    apple_link: 'https://music.apple.com/us/album/alien-mode-single/1521569405'
+    link: 'https://www.dropbox.com/s/jkwghrjcmj2s7xx/PearsonSound.zip?dl=1'
+    content: |
           
   - album:
     artist: 'Kuedo'
