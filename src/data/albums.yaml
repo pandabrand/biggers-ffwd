@@ -119,6 +119,14 @@
     apple_link: 'https://music.apple.com/us/album/l%C3%AEle-sous-leau-ep/1514670258'
     link: 'https://www.dropbox.com/s/8zhmpbbag1jk92t/VagueImaginaires.zip?dl=1'
     content: |
+                   
+  - album:
+    artist: 'Daniel Avery'
+    title:  'Love + Light'
+    image: ../assets/images/FFWD/a2714922120_10.jpg
+    apple_link: 'https://music.apple.com/us/album/love-light/1519104488'
+    link: 'https://www.dropbox.com/s/if0w746wzfvenjv/DanielAvery.zip?dl=1'
+    content: |
 
   - album:
     artist: 'Beatrice Dillon'
