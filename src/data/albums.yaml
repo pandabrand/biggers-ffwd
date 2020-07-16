@@ -9,6 +9,14 @@
     content: |
 
   - album:
+    artist: 'Actress'
+    title:  '88'
+    image: ../assets/images/FFWD/actress.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/ri9ji1z0i63dc8t/Actress.zip?dl=1'
+    content: |
+    
+  - album:
     artist: 'Jay Glass Dubs'
     title:  'Soma'
     image: ../assets/images/FFWD/Soma.jpg
