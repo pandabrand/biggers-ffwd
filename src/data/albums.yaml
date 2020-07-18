@@ -39,6 +39,14 @@
     apple_link: ''
     link: 'https://www.dropbox.com/s/01ww6clowu6cqh2/Sprague.zip?dl=1'
     content: |
+           
+  - album:
+    artist: 'Anunaku & DJ Plead'
+    title:  '032'
+    image: ../assets/images/FFWD/032.jpg
+    apple_link: 'https://music.apple.com/us/album/032-single/1522386626'
+    link: 'https://www.dropbox.com/s/swh6idpujqx0nad/Anunaku%26DJPlead.zip?dl=1'
+    content: |
         
   - album:
     artist: 'Bing & Ruth'
@@ -87,6 +95,15 @@
     apple_link: 'https://music.apple.com/us/album/yek-2-ep/1514413918'
     link: 'https://www.dropbox.com/s/pzzh3yrf9djwmyw/Yek2.zip?dl=1'
     content:
+            
+  - album:
+    artist: 'Kara-Lis Coverdale'
+    title:  'Grafts (Expanded Reissue in DB Only)'
+    image: ../assets/images/FFWD/Grafts.jpg
+    apple_link: 'https://music.apple.com/us/album/grafts-ep/1229825499'
+    link: 'https://www.dropbox.com/s/jdzkhzesflmozf9/Kara-LisCoverdale.zip?dl=1'
+    content: |
+           
                               
   - album:
     artist: 'Westside Gunn'
