@@ -33,6 +33,14 @@
     content: |
         
   - album:
+    artist: 'Emily A. Sprague'
+    title:  'Hill, Flower, Fog'
+    image: ../assets/images/FFWD/sprague.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/01ww6clowu6cqh2/Sprague.zip?dl=1'
+    content: |
+        
+  - album:
     artist: 'Bing & Ruth'
     title:  'Species'
     image: ../assets/images/FFWD/Species.jpg
