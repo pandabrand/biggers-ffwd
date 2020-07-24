@@ -17,6 +17,14 @@
     content: |
     
   - album:
+    artist: 'Jessy Lanza'
+    title:  'All the Time'
+    image: ../assets/images/FFWD/jessy.jpg
+    apple_link: 'https://music.apple.com/us/album/all-the-time/1503419625'
+    link: 'https://www.dropbox.com/s/45omc4l4rc2yqls/JessyLanza.zip?dl=1'
+    content: |
+    
+  - album:
     artist: 'Jay Glass Dubs'
     title:  'Soma'
     image: ../assets/images/FFWD/Soma.jpg
