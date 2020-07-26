@@ -15,6 +15,22 @@
     apple_link: ''
     link: 'https://www.dropbox.com/s/ri9ji1z0i63dc8t/Actress.zip?dl=1'
     content: |
+       
+  - album:
+    artist: 'Shinichi Atobe'
+    title:  'Yes'
+    image: ../assets/images/FFWD/Shinichi.jpg
+    apple_link: 'https://music.apple.com/us/album/yes/1523111512'
+    link: 'https://www.dropbox.com/s/76os9z22b2lcsc4/Shinichi.zip?dl=1'
+    content: |
+                   
+  - album:
+    artist: 'Pretty Sneaky'
+    title:  'Pretty Sneaky'
+    image: ../assets/images/FFWD/mana10.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/ynwjqbbds7t38it/PrettySneaky.zip?dl=1'
+    content: |
     
   - album:
     artist: 'Jessy Lanza'
@@ -31,23 +47,15 @@
     apple_link: 'https://music.apple.com/us/album/soma/1520693478'
     link: 'https://www.dropbox.com/s/rsui3a7lzwzikj9/Soma.zip?dl=1'
     content: |
-    
-  - album:
-    artist: 'Shinichi Atobe'
-    title:  'Yes'
-    image: ../assets/images/FFWD/Shinichi.jpg
-    apple_link: 'https://music.apple.com/us/album/yes/1523111512'
-    link: 'https://www.dropbox.com/s/76os9z22b2lcsc4/Shinichi.zip?dl=1'
-    content: |
         
   - album:
-    artist: 'Emily A. Sprague'
-    title:  'Hill, Flower, Fog'
-    image: ../assets/images/FFWD/sprague.jpg
+    artist: 'Jonnine'
+    title:  'Blue Hills'
+    image: ../assets/images/FFWD/Jonnine.jpg
     apple_link: ''
-    link: 'https://www.dropbox.com/s/01ww6clowu6cqh2/Sprague.zip?dl=1'
+    link: 'https://www.dropbox.com/s/z0yzwpf34iw7ssv/Jonnine.zip?dl=1'
     content: |
-           
+
   - album:
     artist: 'Anunaku & DJ Plead'
     title:  '032'
@@ -55,21 +63,21 @@
     apple_link: 'https://music.apple.com/us/album/032-single/1522386626'
     link: 'https://www.dropbox.com/s/swh6idpujqx0nad/Anunaku%26DJPlead.zip?dl=1'
     content: |
-        
-  - album:
-    artist: 'Bing & Ruth'
-    title:  'Species'
-    image: ../assets/images/FFWD/Species.jpg
-    apple_link: 'https://music.apple.com/us/album/species/1503840144'
-    link: 'https://www.dropbox.com/s/1a9hkqjh4rpum6b/Bing%26Ruth.zip?dl=1'
-    content: |
-        
+
   - album:
     artist: 'Nordvest'
     title:  'Grøndal'
     image: ../assets/images/FFWD/194980.jpg
     apple_link: 'https://music.apple.com/us/album/gr%C3%B8ndal/1519495077'
     link: 'https://www.dropbox.com/s/283g9truwopngpq/Nordvest.zip?dl=1'
+    content: |
+            
+  - album:
+    artist: 'Bing & Ruth'
+    title:  'Species'
+    image: ../assets/images/FFWD/Species.jpg
+    apple_link: 'https://music.apple.com/us/album/species/1503840144'
+    link: 'https://www.dropbox.com/s/1a9hkqjh4rpum6b/Bing%26Ruth.zip?dl=1'
     content: |
            
   - album:
@@ -78,14 +86,6 @@
     image: ../assets/images/FFWD/Azu.jpg
     apple_link: 'https://music.apple.com/us/album/magnetic-service-ep/1517844621'
     link: 'https://www.dropbox.com/s/9us4lpn14727kwu/Azu.zip?dl=1'
-    content: |
-               
-  - album:
-    artist: 'Pretty Sneaky'
-    title:  'Pretty Sneaky'
-    image: ../assets/images/FFWD/mana10.jpg
-    apple_link: ''
-    link: 'https://www.dropbox.com/s/ynwjqbbds7t38it/PrettySneaky.zip?dl=1'
     content: |
                  
   - album:
@@ -111,8 +111,7 @@
     apple_link: 'https://music.apple.com/us/album/grafts-ep/1229825499'
     link: 'https://www.dropbox.com/s/jdzkhzesflmozf9/Kara-LisCoverdale.zip?dl=1'
     content: |
-           
-                              
+                                 
   - album:
     artist: 'Westside Gunn'
     title:  'Flygod is an Awesome God 2'
@@ -120,7 +119,15 @@
     apple_link: 'https://music.apple.com/us/album/flygod-is-an-awesome-god-2/1521316232'
     link: 'https://www.dropbox.com/s/4o3iq18kgktqokt/Flygod2.zip?dl=1'
     content: |
-      
+              
+  - album:
+    artist: 'Kamaal Williams'
+    title:  'Wu Hen'
+    image: ../assets/images/FFWD/wuhen.jpg
+    apple_link: 'https://music.apple.com/us/album/wu-hen/1509771011'
+    link: 'https://www.dropbox.com/s/xnpyagwltl0s9kj/WuHen.zip?dl=1'
+    content: |
+
   - album:
     artist: 'Molero'
     title:  'Ficciones Del Trópico'
@@ -135,6 +142,22 @@
     image: ../assets/images/FFWD/pearson.jpg
     apple_link: 'https://music.apple.com/us/album/alien-mode-single/1521569405'
     link: 'https://www.dropbox.com/s/jkwghrjcmj2s7xx/PearsonSound.zip?dl=1'
+    content: |
+           
+  - album:
+    artist: 'Andre Bratten'
+    title:  'Silvester'
+    image: ../assets/images/FFWD/Bratten.jpg
+    apple_link: 'https://music.apple.com/us/album/silvester/1515389473'
+    link: ''
+    content: |
+          
+  - album:
+    artist: 'Emily A. Sprague'
+    title:  'Hill, Flower, Fog'
+    image: ../assets/images/FFWD/sprague.jpg
+    apple_link: ''
+    link: 'https://www.dropbox.com/s/01ww6clowu6cqh2/Sprague.zip?dl=1'
     content: |
           
   - album:
