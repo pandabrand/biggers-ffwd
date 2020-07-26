@@ -2,6 +2,8 @@ const YAML = require('pumlhorse-yamljs');
 let Git = require('nodegit');
 const path = require('path')
 const fs = require('fs')
+let remark = require('remark')
+let styleGuide = require('remark-preset-lint-markdown-style-guide')
 
 module.exports = ({ app }) => {
   app.get('/hello', async function( req, res ) {
@@ -20,9 +22,17 @@ module.exports = ({ app }) => {
           const commitID = blame_obj.getHunkByLine(lineno).finalCommitId()
           let commit = await Git.Commit.lookup(repo, commitID)
           slugged_title = album.title.toLowerCase().replace(/[^a-z0-9]+/gi, '-')
-          concat_array.push(slugged_title + '-' + commit.date().toISOString() + '.md')
-          album['publish_date'] = commit.date().toISOString()
-          console.log(album)
+          album_file_name = slugged_title + '-' + commit.date().toISOString() + '.md'
+          concat_array.push(album_file_name)
+          album['new_image'] = album.image.toString()
+          album['published_date'] = commit.date().toISOString()
+          raw_content = album.content
+          md_content = String((raw_content && raw_content.length > 0 && raw_content != '\n' ) ? remark().use(styleGuide).processSync(raw_content) : '')
+          album.content = md_content
+          delete album.image
+          delete album.album
+          album_md = '---\n' + YAML.dump(album) + '---'
+          fs.writeFileSync(path.resolve('data/albums/' + album_file_name), album_md)
         }
         return concat_array
       }

@@ -7,7 +7,7 @@ module.exports = async ({graphql, actions}) => {
   const albums = await graphql(
       `
         {
-          allMarkdownRemark(sort: {fields: frontmatter___publish_date, order: DESC}) {
+          allMarkdownRemark(sort: {fields: frontmatter___published_date, order: DESC}) {
             edges {
               node {
                 frontmatter {
@@ -16,7 +16,7 @@ module.exports = async ({graphql, actions}) => {
                   title
                   content
                   link
-                  publish_date(formatString: "Y-MM-DD")
+                  published_date(formatString: "Y-MM-DD")
                 }
               }
             }
@@ -32,7 +32,7 @@ module.exports = async ({graphql, actions}) => {
     items: albums.data.allMarkdownRemark.edges,
     itemsPerPage: 5,
     itemsPerFirstPage: 5,
-    pathPrefix: "/album",
+    pathPrefix: "/",
     context: {
       skip: 0,
       limit: 5
