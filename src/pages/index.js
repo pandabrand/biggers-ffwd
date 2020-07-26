@@ -42,7 +42,8 @@ const HomeIndex = ({data}) => {
                         );
                     })}
                     {data.dataYaml.albums.map((album, index) => {
-                        let featuredImgFluid = album.image.childImageSharp
+                        const newLocal = album.image.childImageSharp
+                        let featuredImgFluid = newLocal
                         return (
                             <section key={index}>
                                 <a href={album.link} className="image">
@@ -62,7 +63,7 @@ const HomeIndex = ({data}) => {
                                             <h3>{album.title}</h3>
                                         </header>
                                         <SectionBody content={album.content} />
-                                        { album.apple_link.length > 0 &&
+                                        { album.apple_link != null &&
                                             <ul className="actions">
                                                 <li><a href={album.apple_link} className="button">Apple Music</a></li>
                                             </ul>
@@ -96,11 +97,11 @@ query {
         }
       }
     }
-    allMarkdownRemark(sort: {fields: frontmatter___published_date}) {
+    allMarkdownRemark(sort: {fields: frontmatter___publish_date}) {
         nodes {
             frontmatter {
                 title
-                published_date
+                publish_date
                 content
                 link
                 new_image {

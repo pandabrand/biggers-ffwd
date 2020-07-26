@@ -2,7 +2,7 @@ albums:
   - album:
     artist: 'Beatrice Dillon'
     title:  'Workaround'
-    image: ../assets/images/FFWD/Beatrice Dillon.jpg
+    image: ../../data/assets/FFWD/Beatrice Dillon.jpg
     apple_link: 'https://music.apple.com/us/album/workaround/1490180216'
     link: 'https://www.dropbox.com/s/sugp2fyifh0mx9z/BeatriceDillon.zip?dl=1'
     content: |
@@ -15,7 +15,7 @@ albums:
   - album:
     artist: 'Jeff Parker'
     title: 'Suite for Max Brown'
-    image: ../assets/images/FFWD/Jeff Parker.jpg
+    image: ../../data/assets/FFWD/Jeff Parker.jpg
     apple_link: 'https://music.apple.com/us/album/suite-for-max-brown/1491896043'
     link: 'https://www.dropbox.com/s/a9wzh7nxzuvngt3/JeffParker.zip?dl=1'
     content: | 
@@ -27,7 +27,7 @@ albums:
   - album:
     artist: 'Knxwledge'
     title: '1988'
-    image: ../assets/images/FFWD/1988.jpg
+    image: ../../data/assets/FFWD/1988.jpg
     apple_link: 'https://music.apple.com/us/album/1988/1497048415'
     link: 'https://www.dropbox.com/s/c2gu47k9qz6fhiw/Knxwledge.zip?dl=1'
     content: | 
@@ -41,7 +41,7 @@ albums:
   - album:
     artist: 'Nazar'
     title: 'Guerilla'
-    image: ../assets/images/FFWD/Nazar.png
+    image: ../../data/assets/FFWD/Nazar.png
     apple_link: 'https://music.apple.com/us/album/guerrilla/1490175346'
     link: 'https://www.dropbox.com/s/suolv3q0v56rwnh/Nazar.zip?dl=1'
     content: |
@@ -52,7 +52,7 @@ albums:
   - album:
     artist: 'Metal Preyers'
     title: 'Metal Preyers'
-    image: ../assets/images/FFWD/Metal Preyers.jpg
+    image: ../../data/assets/FFWD/Metal Preyers.jpg
     apple_link: 'https://music.apple.com/us/album/metal-preyers/1501893164'
     link: 'https://www.dropbox.com/s/926epviqy03s9cw/MetalPreyers.zip?dl=1'
     content: |
@@ -62,7 +62,7 @@ albums:
   - album:
     artist: 'Daniel Avery & Alessandro Cortini'
     title: 'Illusion of Time'
-    image: ../assets/images/FFWD/Daniel.png
+    image: ../../data/assets/FFWD/Daniel.png
     apple_link: 'https://music.apple.com/us/album/illusion-of-time/1496021908'
     link: 'https://www.dropbox.com/s/kuveltjtk72topm/Daniel%20Avery%26Alessandro%20Cortini.zip?dl=1'
     content: | 
@@ -71,7 +71,7 @@ albums:
   - album:
     artist: 'DJ Python'
     title: 'Mas Amable'
-    image: ../assets/images/FFWD/Python.jpg
+    image: ../../data/assets/FFWD/Python.jpg
     apple_link: 'https://music.apple.com/us/album/admsdp-feat-la-warman-single/1500703480'
     link: 'https://www.dropbox.com/s/nu387iibbd44vu4/DJPYTHON.zip?dl=1'
     content: | 
@@ -80,7 +80,7 @@ albums:
   - album:
     artist: 'Thundercat'
     title: 'It Is What It Is'
-    image: ../assets/images/FFWD/Thundercat.png
+    image: ../../data/assets/FFWD/Thundercat.png
     apple_link: 'https://music.apple.com/us/album/it-is-what-it-is/1494467036'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |  
@@ -88,7 +88,7 @@ albums:
   - album:
     artist: 'Gil Scott‐Heron & Makaya McCraven'
     title: 'We are New Again: A Reimagining by Makaya McCraven'
-    image: ../assets/images/FFWD/GSH.jpg
+    image: ../../data/assets/FFWD/GSH.jpg
     apple_link: 'https://music.apple.com/us/album/were-new-again-a-reimagining-by-makaya-mccraven/1488939124'
     link: 'https://www.dropbox.com/s/8c4x63h8ufqlxex/Thundercat.zip?dl=1'
     content: |  
@@ -96,7 +96,7 @@ albums:
   - album:
     artist: 'Shabazz Palaces'
     title: 'The Don of Diamond Dreams'
-    image: ../assets/images/FFWD/shabazz.jpg
+    image: ../../data/assets/FFWD/shabazz.jpg
     apple_link: 'https://music.apple.com/us/album/the-don-of-diamond-dreams/1494246347'
     link: 'https://www.dropbox.com/s/91ob2knw9sxedel/ShabazzPalaces.zip?dl=1'
     content: |
@@ -104,16 +104,16 @@ albums:
   - album:
     artist: 'Arca'
     title: 'KiCk i'
-    image: ../assets/images/FFWD/ARCA2.jpg
+    image: ../../data/assets/FFWD/ARCA2.jpg
     apple_link: ''
     link: 'https://www.dropbox.com/s/sk3439pwjmqxn69/KiCK%20i.zip?dl=1'
     content: |
-            A schizophrenic opus (still without a release date) from this genreation's Madonna, Missy Elliot, and Björk—often all at once. Still unsure of *KiCk i's* stylistic whiplashing from track-to-track, but I'm willing to put in the work.
+            A schizophrenic opus (still without a release date) from this generation's Madonna, Missy Elliot, and Björk—often all at once. Still unsure of *KiCk i's* stylistic whiplashing from track-to-track, but I'm willing to put in the work.
  
   - album:
     artist: 'CS + Kreme'
     title: 'Snoopy'
-    image: ../assets/images/FFWD/CSKreme.jpg
+    image: ../../data/assets/FFWD/CSKreme.jpg
     apple_link: 'https://music.apple.com/us/album/snoopy/1495685642'
     link: 'https://www.dropbox.com/s/fivz4zea10190gn/Snoopy.zip?dl=1'
     content: |
@@ -121,7 +121,7 @@ albums:
   - album:
     artist: 'Vladislav Delay'
     title: 'Rakka'
-    image: ../assets/images/FFWD/rakka.jpg
+    image: ../../data/assets/FFWD/rakka.jpg
     apple_link: 'https://music.apple.com/us/album/rakka/1494766645'
     link: 'https://www.dropbox.com/s/6rflu4ehvmz2bzs/VladislavDelay.zip?dl=1'
     content: |
@@ -129,7 +129,7 @@ albums:
   - album:
     artist: 'Vladislav Delay'
     title: 'Multila (2020 Remaster)'
-    image: ../assets/images/FFWD/Multila.png
+    image: ../../data/assets/FFWD/Multila.png
     apple_link: 'https://music.apple.com/us/album/multila/259167542'
     link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
     content: |
@@ -137,7 +137,7 @@ albums:
   - album:
     artist: 'Luomo'
     title: 'Vocalcity (2020 Remaster)'
-    image: ../assets/images/FFWD/Luomo.jpg
+    image: ../../data/assets/FFWD/Luomo.jpg
     apple_link: 'https://music.apple.com/us/album/vocal-city/90742277'
     link: 'https://www.dropbox.com/s/5qqrx0coewu3m6e/Multila.zip?dl=1'
     content: |
@@ -145,7 +145,7 @@ albums:
   - album:
     artist: 'SQÜRL'
     title: 'Some Music for Robby Müller'
-    image: ../assets/images/FFWD/SQÜRL.jpg
+    image: ../../data/assets/FFWD/SQÜRL.jpg
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: 
@@ -153,7 +153,7 @@ albums:
   - album:
     artist: 'Laurine Frost'
     title: 'Lena'
-    image: ../assets/images/FFWD/Laurine.png
+    image: ../../data/assets/FFWD/Laurine.png
     apple_link: 'https://music.apple.com/us/album/lena/1502294584'
     link: 'https://www.dropbox.com/s/e2rfyhf2sufi5m7/LaurineFrost.zip?dl=1'
     content: |  
@@ -161,7 +161,7 @@ albums:
   - album:
     artist: 'The Professionals'
     title: 'The Professionals'
-    image: ../assets/images/FFWD/The Professionals.jpg
+    image: ../../data/assets/FFWD/The Professionals.jpg
     apple_link: 'https://music.apple.com/us/album/the-professionals/1493229323'
     link: 'https://www.dropbox.com/s/e9glm84irdob5pl/TheProfessionals.zip?dl=1'
     content: 
@@ -169,7 +169,7 @@ albums:
   - album:
     artist: 'Ulla'
     title: 'Tumbling Towards a Wall'
-    image: ../assets/images/FFWD/Ulla.jpg
+    image: ../../data/assets/FFWD/Ulla.jpg
     apple_link: 'https://music.apple.com/us/album/tumbling-towards-a-wall/1497133330'
     link: 'https://www.dropbox.com/s/8d0xfg1v6rcpevb/Ulla.zip?dl=1'
     content: |
@@ -177,7 +177,7 @@ albums:
   - album:
     artist: 'Shabaka and the Ancestors'
     title: 'We Are Sent Here By History'
-    image: ../assets/images/FFWD/Shabaka.jpg
+    image: ../../data/assets/FFWD/Shabaka.jpg
     apple_link: 'https://music.apple.com/us/album/we-are-sent-here-by-history/1495393739'
     link: 'https://www.dropbox.com/s/5xqmiyu27psoxfo/Shabaka.zip?dl=1'
     content: | 
@@ -185,7 +185,7 @@ albums:
   - album:
     artist: 'Wayne Phoenix'
     title: 'Soaring Wayne Phoenix Story The Earth'
-    image: ../assets/images/FFWD/Wayne.png
+    image: ../../data/assets/FFWD/Wayne.png
     apple_link: 'https://music.apple.com/us/album/soaring-wayne-phoenix-story-the-earth/1496591655'
     link: 'https://www.dropbox.com/s/62nt3doqynhpfn0/WaynePhoenix.zip?dl=1'
     content: |
@@ -193,7 +193,7 @@ albums:
   - album:
     artist: 'Surgeon'
     title: 'The Golden Sea'
-    image: ../assets/images/FFWD/Surgeon.jpg
+    image: ../../data/assets/FFWD/Surgeon.jpg
     apple_link: 'https://music.apple.com/us/album/the-golden-sea-single/1499631066'
     link: 'https://www.dropbox.com/s/34n2x9znwjqknnr/Surgeon.zip?dl=1'
     content: |
@@ -201,7 +201,7 @@ albums:
   - album:
     artist: 'Smagghe & Cross'
     title: '1819'
-    image: ../assets/images/FFWD/Smagghe.png
+    image: ../../data/assets/FFWD/Smagghe.png
     apple_link: 'https://music.apple.com/us/album/1819/1498061815'
     link: 'https://www.dropbox.com/s/t84e5emil56xvmz/Smagghe%26Cross.zip?dl=1'
     content: |
@@ -209,7 +209,7 @@ albums:
   - album:
     artist: 'Huerta'
     title: 'Junipero'
-    image: ../assets/images/FFWD/Huerta.jpg
+    image: ../../data/assets/FFWD/Huerta.jpg
     apple_link: 'https://music.apple.com/us/album/junipero/1495091518'
     link: 'https://www.dropbox.com/s/d909jukk69heusm/Huerta.zip?dl=1'
     content: | 
@@ -217,7 +217,7 @@ albums:
   - album:
     artist: 'Citizen Boy & Mafia Boyz'
     title: 'From Avoca Hills to the World'
-    image: ../assets/images/FFWD/Avoca.jpg
+    image: ../../data/assets/FFWD/Avoca.jpg
     apple_link: 'https://music.apple.com/us/album/from-avoca-hills-to-the-world/1497491986'
     link: 'https://www.dropbox.com/s/uk2a5s7in1e718p/CitizenBoy.zip?dl=1'
     content: |  
@@ -225,7 +225,7 @@ albums:
   - album:
     artist: 'Echium'
     title: 'Disruptions of Form'
-    image: ../assets/images/FFWD/Echium.jpg
+    image: ../../data/assets/FFWD/Echium.jpg
     apple_link: 'https://music.apple.com/us/album/disruptions-of-form/1504901672'
     link: 'https://www.dropbox.com/s/rqminmrqx9na1zo/Echium.zip?dl=1'
     content: | 
@@ -233,7 +233,7 @@ albums:
   - album:
     artist: 'JASSS'
     title: 'Whities 027'
-    image: ../assets/images/FFWD/JASSS.jpg
+    image: ../../data/assets/FFWD/JASSS.jpg
     apple_link: 'https://music.apple.com/us/album/whities-027-single/1495201928'
     link: 'https://www.dropbox.com/s/kbea7zj4w1yqp8v/JASSS.zip?dl=1'
     content: |       
@@ -241,7 +241,7 @@ albums:
   - album:
     artist: 'Hugh Masekela & Tony Allen'
     title: 'Rejoice'
-    image: ../assets/images/FFWD/Rejoice.jpg
+    image: ../../data/assets/FFWD/Rejoice.jpg
     apple_link: 'https://music.apple.com/us/album/rejoice/1495847388'
     link: 'https://www.dropbox.com/s/teav2gvergnyar9/Hugh%26TonyAllen.zip?dl=1'
     content: |
@@ -249,7 +249,7 @@ albums:
   - album:
     artist: 'Priscilla Ermel'
     title: 'Origens Da Luz'
-    image: ../assets/images/FFWD/Priscilla.jpg
+    image: ../../data/assets/FFWD/Priscilla.jpg
     apple_link: 'https://music.apple.com/us/album/origens-da-luz/1498461191'
     link: 'https://www.dropbox.com/s/t0zitvougz6xs5e/PriscillaErmel.zip?dl=1'
     content: |
@@ -257,7 +257,7 @@ albums:
   - album:
     artist: 'The Necks'
     title: 'Three'
-    image: ../assets/images/FFWD/Necks.jpg
+    image: ../../data/assets/FFWD/Necks.jpg
     apple_link: 'https://music.apple.com/us/album/three/1496084711'
     link: 'https://www.dropbox.com/s/y36fz29a9j7jkhd/Necks.zip?dl=1'
     content: | 
@@ -265,7 +265,7 @@ albums:
   - album:
     artist: 'Tame Impala'
     title: 'The Slow Rush'
-    image: ../assets/images/FFWD/Tame.jpg
+    image: ../../data/assets/FFWD/Tame.jpg
     apple_link: 'https://music.apple.com/us/album/the-slow-rush/1497230760'
     link: 'https://www.dropbox.com/s/s038b0aumpz679p/TameImpala.zip?dl=1'
     content: |
@@ -273,7 +273,7 @@ albums:
   - album:
     artist: 'Brodinski x Low Jack'
     title: 'BZH009'
-    image: ../assets/images/FFWD/BZH009.jpg
+    image: ../../data/assets/FFWD/BZH009.jpg
     apple_link: 'https://www.dropbox.com/s/43cr81i1f9g0ua7/BrodinskixLowJack.zip?dl=1'
     link: 'https://www.dropbox.com/s/43cr81i1f9g0ua7/BrodinskixLowJack.zip?dl=1'
     content: |
@@ -281,7 +281,7 @@ albums:
   - album:
     artist: 'Serwed'
     title: 'Serwed II'
-    image: ../assets/images/FFWD/serwed.jpg
+    image: ../../data/assets/FFWD/serwed.jpg
     apple_link: 'https://www.dropbox.com/s/hxryslsfn9fcmvd/Serwed.zip?dl=1'
     link: 'https://www.dropbox.com/s/hxryslsfn9fcmvd/Serwed.zip?dl=1'
     content: |   
@@ -289,7 +289,7 @@ albums:
   - album:
     artist: 'Omar S'
     title: 'You Want'
-    image: ../assets/images/FFWD/OmarS.jpg
+    image: ../../data/assets/FFWD/OmarS.jpg
     apple_link: 'https://music.apple.com/us/album/you-want/1500779023'
     link: 'https://www.dropbox.com/s/lsjyued6ze5rfrk/OmarS.zip?dl=1'
     content: |
@@ -297,7 +297,7 @@ albums:
   - album:
     artist: 'MinaeMinae'
     title: 'Gestrüppe'
-    image: ../assets/images/FFWD/Gestruppe.png
+    image: ../../data/assets/FFWD/Gestruppe.png
     apple_link: 'https://music.apple.com/us/album/gestr%C3%BCpp/1504080007'
     link: 'https://www.dropbox.com/s/htvsaubw83b55f2/MinaeMinae.zip?dl=1'
     content: |
@@ -305,7 +305,7 @@ albums:
   - album:
     artist: 'Caribou'
     title: 'Suddenly'
-    image: ../assets/images/FFWD/Caribou.png
+    image: ../../data/assets/FFWD/Caribou.png
     apple_link: 'https://music.apple.com/us/album/suddenly/1487724466'
     link: 'https://www.dropbox.com/s/guguykh392m80dh/Caribou.zip?dl=1'
     content: |
@@ -313,7 +313,7 @@ albums:
   - album:
     artist: 'Bullion'
     title: 'We Had A Good Time'
-    image: ../assets/images/FFWD/Bullion.jpg
+    image: ../../data/assets/FFWD/Bullion.jpg
     apple_link: 'https://music.apple.com/us/album/we-had-a-good-time-ep/1488352539'
     link: 'https://www.dropbox.com/s/qq5essfy6jk2bf5/Bullion.zip?dl=1'
     content: 
@@ -321,7 +321,7 @@ albums:
   - album:
     artist: 'King Krule'
     title: 'Man Alive!'
-    image: ../assets/images/FFWD/Krule.jpg
+    image: ../../data/assets/FFWD/Krule.jpg
     apple_link: 'https://music.apple.com/us/album/man-alive/1491285371'
     link: 'https://www.dropbox.com/s/1rhu7s5x1v8r2p9/KingKrule.zip?dl=1'
     content: |
@@ -329,7 +329,7 @@ albums:
   - album:
     artist: 'Emma-Jean Thackray'
     title: 'Rain Dance'
-    image: ../assets/images/FFWD/Emma.png
+    image: ../../data/assets/FFWD/Emma.png
     apple_link: 'https://music.apple.com/us/album/rain-dance-ep/1495174314'
     link: 'https://www.dropbox.com/s/4upzqidllrel05p/EmmaJeanThackray.zip?dl=1'
     content: | 
@@ -337,7 +337,7 @@ albums:
   - album:
     artist: 'Arca'
     title: '@@@@@'
-    image: ../assets/images/FFWD/@@@@@.jpg
+    image: ../../data/assets/FFWD/@@@@@.jpg
     apple_link: 'https://music.apple.com/us/album/single/1498072903'
     link: 'https://www.dropbox.com/s/ltf21r2n6b97pmu/Arca.zip?dl=1'
     content: |
@@ -345,7 +345,7 @@ albums:
   - album:
     artist: 'Robin Saville'
     title: 'Build a Diorama'
-    image: ../assets/images/FFWD/Robin.png
+    image: ../../data/assets/FFWD/Robin.png
     apple_link: 'https://music.apple.com/us/album/build-a-diorama/1496147885'
     link: 'https://www.dropbox.com/s/sqxqceno58fkvy8/RobinSaville.zip?dl=1a'
     content: |
@@ -353,7 +353,7 @@ albums:
   - album:
     artist: 'D.K.'
     title: 'The Goddess is Dancing'
-    image: ../assets/images/FFWD/GMT.jpg
+    image: ../../data/assets/FFWD/GMT.jpg
     apple_link: 'https://music.apple.com/us/album/the-goddess-is-dancing/1501893289'
     link: 'https://www.dropbox.com/s/pa5boc9wl55c5yt/GMT.zip?dl=1'
     content: |
@@ -361,7 +361,7 @@ albums:
   - album:
     artist: 'Rejoicer'
     title: 'Spiritual Sleaze'
-    image: ../assets/images/FFWD/Rejoicer.png
+    image: ../../data/assets/FFWD/Rejoicer.png
     apple_link: 'https://music.apple.com/us/album/spiritual-sleaze/1487736835'
     link: 'https://www.dropbox.com/s/sabbm16fks1z5ds/Rejoicer.zip?dl=1'
     content: |
@@ -369,7 +369,7 @@ albums:
   - album:
     artist: 'Moses Sumney'
     title: 'græ: Part 1'
-    image: ../assets/images/FFWD/Moses.jpg
+    image: ../../data/assets/FFWD/Moses.jpg
     apple_link: 'https://music.apple.com/us/album/gr%C3%A6/1485411511'
     link: 'https://www.dropbox.com/s/0bx6i6lq88tnxi9/MosesSumney.zip?dl=1'
     content: |         
@@ -377,7 +377,7 @@ albums:
   - album:
     artist: 'Gigi Masin'
     title: 'Calypso'
-    image: ../assets/images/FFWD/Gigi.jpg
+    image: ../../data/assets/FFWD/Gigi.jpg
     apple_link: 'https://music.apple.com/us/album/calypso/1485427892'
     link: 'https://www.dropbox.com/s/srix8y09ql5c4s6/Gigi.zip?dl=1'
     content: |   
@@ -385,7 +385,7 @@ albums:
   - album:
     artist: 'Bergsonist'
     title: 'Middle Ouest'
-    image: ../assets/images/FFWD/Bergsonist.png
+    image: ../../data/assets/FFWD/Bergsonist.png
     apple_link: 'https://music.apple.com/us/album/middle-ouest/1492111637'
     link: 'https://www.dropbox.com/s/rj3x3ca5xw1238k/Bergsonist.zip?dl=1'
     content: |   
@@ -393,7 +393,7 @@ albums:
   - album:
     artist: 'Nicolas Godin'
     title: 'Concrete and Glass'
-    image: ../assets/images/FFWD/Nicolas.jpg
+    image: ../../data/assets/FFWD/Nicolas.jpg
     apple_link: 'https://music.apple.com/us/album/concrete-and-glass/1487791870'
     link: 'https://www.dropbox.com/s/1uk142l1nuj5qu9/NicolasGodin.zip?dl=1'
     content: |   
@@ -401,7 +401,7 @@ albums:
   - album:
     artist: 'Racine'
     title: 'Quelque Chose Tombe'
-    image: ../assets/images/FFWD/Racine.png
+    image: ../../data/assets/FFWD/Racine.png
     apple_link: 'https://music.apple.com/us/album/quelque-chose-tombe/1490007758'
     link: 'https://www.dropbox.com/s/0nyd9do0x45754j/Racine.zip?dl=1'
     content: |  
@@ -409,7 +409,7 @@ albums:
   - album:
     artist: 'The iDEALIST'
     title: 'Anti-Fascist Dubs, Spiritual Electronics & Unconscious House Music'
-    image: ../assets/images/FFWD/Ideaslist.jpg
+    image: ../../data/assets/FFWD/Ideaslist.jpg
     apple_link: 'https://music.apple.com/us/album/anti-fascist-dubs-spiritual-electronics-unconscious/1488442384'
     link: 'https://www.dropbox.com/s/sph6v8mw7r2ji6v/TheIdealist.zip?dl=1'
     content: |  
@@ -417,7 +417,7 @@ albums:
   - album:
     artist: 'Shasta Cults'
     title: 'Shasta Cults'
-    image: ../assets/images/FFWD/Shasta.png
+    image: ../../data/assets/FFWD/Shasta.png
     apple_link: 'https://music.apple.com/us/album/shasta-cults/1486235542'
     link: 'https://www.dropbox.com/s/39949u2k9fynflg/ShastaCults.zip?dl=1'
     content: |  
@@ -425,7 +425,7 @@ albums:
   - album:
     artist: 'Gallery S'
     title: 'Gallery S'
-    image: ../assets/images/FFWD/GalleryS.jpg
+    image: ../../data/assets/FFWD/GalleryS.jpg
     apple_link: 'https://music.apple.com/us/album/gallery-s/1497266687'
     link: 'https://music.apple.com/us/album/gallery-s/1497266687'
     content: |  
@@ -433,7 +433,7 @@ albums:
   - album:
     artist: 'Aril Brikha'
     title: 'Dance of a Trillion Stars'
-    image: ../assets/images/FFWD/Aril.jpg
+    image: ../../data/assets/FFWD/Aril.jpg
     apple_link: 'https://music.apple.com/us/album/dance-of-a-trillion-stars/1484521899'
     link: 'https://www.dropbox.com/s/6rsothsga1htpxr/ArilBrikha.zip?dl=1'
     content: |  
@@ -441,7 +441,7 @@ albums:
   - album:
     artist: 'Deena Abdelwahed'
     title: 'Dhakar'
-    image: ../assets/images/FFWD/Deena.png
+    image: ../../data/assets/FFWD/Deena.png
     apple_link: 'https://music.apple.com/us/album/dhakar-ep/1487703154'
     link: 'https://www.dropbox.com/s/qihbkly1yp5a8qd/DeenaAbdelwahed.zip?dl=1'
     content: | 
@@ -449,7 +449,7 @@ albums:
   - album:
     artist: 'Against All Logic'
     title: '2017-2019'
-    image: ../assets/images/FFWD/AAL.jpg
+    image: ../../data/assets/FFWD/AAL.jpg
     apple_link: 'https://music.apple.com/us/album/2017-2019/1496655403'
     link: 'https://www.dropbox.com/s/0a3v65ad7jy2s1o/AgainstAllLogic.zip?dl=1'
     content: | 
@@ -457,7 +457,7 @@ albums:
   - album:
     artist: 'Isolée'
     title: 'Candy Apple Red'
-    image: ../assets/images/FFWD/Isolée.png
+    image: ../../data/assets/FFWD/Isolée.png
     apple_link: 'https://music.apple.com/us/album/candy-apple-red-ep/1496564869'
     link: 'https://www.dropbox.com/s/65hea60uw22s1v4/Isol%C3%A9e.zip?dl=1'
     content: | 
@@ -465,7 +465,7 @@ albums:
   - album:
     artist: 'Resili'
     title: 'Cups'
-    image: ../assets/images/FFWD/Resili.png
+    image: ../../data/assets/FFWD/Resili.png
     apple_link: 'https://music.apple.com/us/album/cups/1498094487'
     link: 'https://www.dropbox.com/s/ydqvko5km9yu3rh/Resili.zip?dl=1'
     content: | 
@@ -473,7 +473,7 @@ albums:
   - album:
     artist: 'Joey Anderson'
     title: 'Rainbow Doll'
-    image: ../assets/images/FFWD/joey.jpg
+    image: ../../data/assets/FFWD/joey.jpg
     apple_link: 'https://www.dropbox.com/s/8obt0tmqu0065mz/JoeyAnderson.zip?dl=1'
     link: 'https://www.dropbox.com/s/8obt0tmqu0065mz/JoeyAnderson.zip?dl=1'
     content: | 
@@ -481,7 +481,7 @@ albums:
   - album:
     artist: 'U'
     title: 'Lowlands'
-    image: ../assets/images/FFWD/Lowlands.jpg
+    image: ../../data/assets/FFWD/Lowlands.jpg
     apple_link: 'https://music.apple.com/us/album/lowlands-ep/1497943564'
     link: 'https://www.dropbox.com/s/tgex8jpadxch6m1/U.zip?dl=1'
     content: | 
@@ -489,7 +489,7 @@ albums:
   - album:
     artist: 'Roman Flügel'
     title: 'Garden Party'
-    image: ../assets/images/FFWD/Roman.png
+    image: ../../data/assets/FFWD/Roman.png
     apple_link: 'https://music.apple.com/us/album/garden-party-ep/1499109372'
     link: 'https://www.dropbox.com/s/gwdzsmqkdcjn5f5/RomanFl%C3%BCgel.zip?dl=1'
     content: | 
@@ -497,7 +497,7 @@ albums:
   - album:
     artist: 'Neinzer'
     title: 'Whities 025'
-    image: ../assets/images/FFWD/Neinzer.png
+    image: ../../data/assets/FFWD/Neinzer.png
     apple_link: 'https://music.apple.com/us/album/whities-025-ep/1498192586'
     link: 'https://www.dropbox.com/s/olmxk8jxy8fqzf1/Neinzer.zip?dl=1'
     content: | 
@@ -505,7 +505,7 @@ albums:
   - album:
     artist: 'Matt Karmil'
     title: 'STS371'
-    image: ../assets/images/FFWD/Karmil.jpg
+    image: ../../data/assets/FFWD/Karmil.jpg
     apple_link: 'https://music.apple.com/us/album/sts371/1494380340'
     link: 'https://www.dropbox.com/s/5zyts0ojfndzynv/STS371.zip?dl=1'
     content: | 
@@ -513,7 +513,7 @@ albums:
   - album:
     artist: 'Raime'
     title: 'If This Is A Dream I Do Not Ever Want To Wake Up'
-    image: ../assets/images/FFWD/Raime-FlatImage.jpg
+    image: ../../data/assets/FFWD/Raime-FlatImage.jpg
     apple_link: ''
     link: 'https://www.dropbox.com/s/j0zrp2xvuc5o642/Raime.zip?dl=1'
     content: |
@@ -521,7 +521,7 @@ albums:
   - album:
     artist: 'PML Beatz'
     title: 'Pedra de 800 Kg'
-    image: ../assets/images/FFWD/PML.png
+    image: ../../data/assets/FFWD/PML.png
     apple_link: 'https://music.apple.com/us/album/like-we-never-existed-ep/1495070024'
     link: 'https://www.dropbox.com/s/96lohujhz7wwy3r/PederMannerfelt.zip?dl=1'
     content: | 
@@ -529,7 +529,7 @@ albums:
   - album:
     artist: 'Peder Mannerfelt'
     title: 'Like We Never Existed'
-    image: ../assets/images/FFWD/Peder.png
+    image: ../../data/assets/FFWD/Peder.png
     apple_link: 'https://music.apple.com/us/album/like-we-never-existed-ep/1495070024'
     link: 'https://www.dropbox.com/s/96lohujhz7wwy3r/PederMannerfelt.zip?dl=1'
     content: | 
@@ -537,7 +537,7 @@ albums:
   - album:
     artist: 'Tobias.'
     title: '1972'
-    image: ../assets/images/FFWD/Tobias.jpg
+    image: ../../data/assets/FFWD/Tobias.jpg
     apple_link: 'https://music.apple.com/us/album/1972-ep/1497126545'
     link: 'https://www.dropbox.com/s/rnu9bl3b1bs49x5/tobias_.zip?dl=1'
     content: | 
@@ -545,7 +545,7 @@ albums:
   - album:
     artist: 'The Fear Ratio'
     title: 'They Cannot Be Saved'
-    image: ../assets/images/FFWD/fear.jpg
+    image: ../../data/assets/FFWD/fear.jpg
     apple_link: 'https://music.apple.com/us/album/they-cant-be-saved/1496811570'
     link: 'https://www.dropbox.com/s/z2jr28zikpad9i5/TheFearRatio.zip?dl=1'
     content: | 
@@ -553,7 +553,7 @@ albums:
   - album:
     artist: 'Leo Takami'
     title: 'Felis Catus and Silence'
-    image: ../assets/images/FFWD/Leo Takami.jpg
+    image: ../../data/assets/FFWD/Leo Takami.jpg
     apple_link: 'https://music.apple.com/us/album/felis-catus-and-silence/1489985356'
     link: 'https://www.dropbox.com/s/14p46rdgihaira0/LeoTakami.zip?dl=1'
     content: |
@@ -561,7 +561,7 @@ albums:
   - album:
     artist: 'Leafar Legov'
     title: 'Mirror'
-    image: ../assets/images/FFWD/Leafar.jpg
+    image: ../../data/assets/FFWD/Leafar.jpg
     apple_link: ''
     link: 'https://www.dropbox.com/s/ch9m6p3uygsnel0/LeafarLegov.zip?dl=1'
     content: |
@@ -569,7 +569,7 @@ albums:
   - album:
     artist: 'UMFANG'
     title: 'Riven'
-    image: ../assets/images/FFWD/Umfang.jpg
+    image: ../../data/assets/FFWD/Umfang.jpg
     apple_link: ''
     link: 'https://www.dropbox.com/s/h8jln1mdizre24o/UMFANG.zip?dl=1'
     content: |
@@ -577,7 +577,7 @@ albums:
   - album:
     artist: 'Will Guthrie'
     title: 'Nist Nah'
-    image: ../assets/images/FFWD/WillGuthrie.jpg
+    image: ../../data/assets/FFWD/WillGuthrie.jpg
     apple_link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
     link: 'https://www.dropbox.com/s/u5khzxpqbgm6lev/WillGuthrie.zip?dl=1'
     content: | 
@@ -585,7 +585,7 @@ albums:
   - album:
     artist: 'Aria Rostami and Daniel Blomquist'
     title: 'Sketch for Winter VIII: Floating Tone'
-    image: ../assets/images/FFWD/ARDB.jpg
+    image: ../../data/assets/FFWD/ARDB.jpg
     apple_link: 'https://music.apple.com/us/album/sketch-for-winter-viii-floating-tone-ep/1499930542'
     link: 'https://www.dropbox.com/s/pvns6phwvykgi4h/AriaRostamiDanielBlomquist.zip?dl=1'
     content: | 
@@ -593,7 +593,7 @@ albums:
   - album:
     artist: 'DJ Lycox'
     title: 'Kizas do Ly'
-    image: ../assets/images/FFWD/Lycox.jpg
+    image: ../../data/assets/FFWD/Lycox.jpg
     apple_link: 'https://music.apple.com/us/album/kizas-do-ly-ep/1504518929'
     link: 'https://www.dropbox.com/s/3t9hhwqe4kphhx8/DJLycox.zip?dl=1'
     content: | 
@@ -601,7 +601,7 @@ albums:
   - album:
     artist: 'Etapp Kyle'
     title: 'Nolove'
-    image: ../assets/images/FFWD/Etapp.png
+    image: ../../data/assets/FFWD/Etapp.png
     apple_link: 'https://music.apple.com/us/album/nolove-ep/1501440636'
     link: 'https://www.dropbox.com/s/qqllzh0fnsi03wq/EtappKyle.zip?dl=1'
     content: | 
@@ -609,7 +609,7 @@ albums:
   - album:
     artist: 'DJ Trystero'
     title: 'High Speed Wind'
-    image: ../assets/images/FFWD/Trys.jpg
+    image: ../../data/assets/FFWD/Trys.jpg
     apple_link: 'https://music.apple.com/us/album/high-speed-wind/1501679066'
     link: 'https://www.dropbox.com/s/nbvvkrkqh2gggw6/DJTrystero.zip?dl=1'
     content: | 
@@ -617,7 +617,7 @@ albums:
   - album:
     artist: 'Join The Future'
     title: 'Join The Future: UK Bleep & Bass 1988-1991'
-    image: ../assets/images/FFWD/Join.jpg
+    image: ../../data/assets/FFWD/Join.jpg
     apple_link: 'https://music.apple.com/us/album/join-the-future-uk-bleep-bass-1988-91/1501209487'
     link: 'https://www.dropbox.com/s/cocprs2nq8vd2to/JoinTheFuture.zip?dl=1'
     content: | 
@@ -625,7 +625,7 @@ albums:
   - album:
     artist: 'Move D and Benjamin Brunn'
     title: 'Let us Call It A Day'
-    image: ../assets/images/FFWD/ben.png
+    image: ../../data/assets/FFWD/ben.png
     apple_link: 'https://music.apple.com/us/album/lets-call-it-a-day/1496012936'
     link: 'https://www.dropbox.com/s/ygxycb67vcxzkra/MoveD%26BB.zip?dl=1'
     content: | 
@@ -633,7 +633,7 @@ albums:
   - album:
     artist: 'Maurice Fulton'
     title: 'Earth'
-    image: ../assets/images/FFWD/Maurice.png
+    image: ../../data/assets/FFWD/Maurice.png
     apple_link: 'https://music.apple.com/us/album/earth-single/1499372304'
     link: 'https://www.dropbox.com/s/iin6xh8dkr1cfmu/MauriceFulton.zip?dl=1'
     content: | 
@@ -641,7 +641,7 @@ albums:
   - album:
     artist: 'Jay Electronica'
     title: 'A Written Testimony'
-    image: ../assets/images/FFWD/Jay.jpg
+    image: ../../data/assets/FFWD/Jay.jpg
     apple_link: 'https://music.apple.com/us/album/a-written-testimony/1502677867'
     link: 'https://www.dropbox.com/s/6wap33xmyqwoftk/JayElectronica.zip?dl=1'
     content: | 
@@ -649,7 +649,7 @@ albums:
   - album:
     artist: 'Dean Blunt'
     title: 'Roaches 2012-2019'
-    image: ../assets/images/FFWD/dean.jpg
+    image: ../../data/assets/FFWD/dean.jpg
     apple_link: 'https://music.apple.com/ca/album/roaches-2012-2019/1504141771'
     link: 'https://www.dropbox.com/s/uu8cjlbqxuhk7a5/DeanBlunt.zip?dl=1'
     content: | 
@@ -657,7 +657,7 @@ albums:
   - album:
     artist: 'Swing Ting'
     title: '100 Dances'
-    image: ../assets/images/FFWD/SwingTing.jpg
+    image: ../../data/assets/FFWD/SwingTing.jpg
     apple_link: 'https://music.apple.com/us/album/100-dances/1498748029'
     link: 'https://www.dropbox.com/s/5ra6ydeodixngqf/SwingTing.zip?dl=1'
     content: | 
@@ -665,7 +665,7 @@ albums:
   - album:
     artist: 'Pantha du Prince'
     title: 'Conference of Trees'
-    image: ../assets/images/FFWD/Pantha.jpg
+    image: ../../data/assets/FFWD/Pantha.jpg
     apple_link: 'https://music.apple.com/us/album/conference-of-trees/1496246691'
     link: 'https://www.dropbox.com/s/1u1eckc6asgrq5r/PanthaduPrince.zip?dl=1'
     content: | 
@@ -673,7 +673,7 @@ albums:
   - album:
     artist: 'Patrick Holland'
     title: 'Reality Picture'
-    image: ../assets/images/FFWD/Patrick.jpg
+    image: ../../data/assets/FFWD/Patrick.jpg
     apple_link: ''
     link: 'https://www.dropbox.com/s/2pbxtcu0zk70nbs/PatrickHolland.zip?dl=1'
     content: | 
@@ -681,7 +681,7 @@ albums:
   - album:
     artist: 'Primitive World'
     title: 'The Revolt of Aprhodite'
-    image: ../assets/images/FFWD/Primitive.jpg
+    image: ../../data/assets/FFWD/Primitive.jpg
     apple_link: 'https://music.apple.com/us/album/the-revolt-of-aphrodite/1503786531'
     link: 'https://www.dropbox.com/s/cgkyt76mdofzcsc/PrimitiveWorld.zip?dl=1'
     content: | 
@@ -689,7 +689,7 @@ albums:
   - album:
     artist: 'Ratgrave'
     title: 'Rock'
-    image: ../assets/images/FFWD/Ratgrave.jpg
+    image: ../../data/assets/FFWD/Ratgrave.jpg
     apple_link: 'https://music.apple.com/us/album/rock/1496016045'
     link: 'https://www.dropbox.com/s/yyr2yfyph657eu4/Ratgrave.zip?dl=1'
     content: | 
@@ -697,7 +697,7 @@ albums:
   - album:
     artist: 'The Chi Factory'
     title: 'Travel in Peace'
-    image: ../assets/images/FFWD/Chi.jpg
+    image: ../../data/assets/FFWD/Chi.jpg
     apple_link: 'https://music.apple.com/us/album/travel-in-peace-single/1497790423'
     link: 'https://www.dropbox.com/s/7evpfcu49qjyguo/TheChiFactory.zip?dl=1'
     content: | 
@@ -705,7 +705,7 @@ albums:
   - album:
     artist: 'Slow Reels'
     title: 'Farewell Islands'
-    image: ../assets/images/FFWD/Slow.jpg
+    image: ../../data/assets/FFWD/Slow.jpg
     apple_link: 'https://music.apple.com/us/album/farewell-islands/1498776041'
     link: 'https://www.dropbox.com/s/1f8ld1f3xzgmac9/SlowReels.zip?dl=1'
     content: | 
@@ -713,7 +713,7 @@ albums:
   - album:
     artist: 'Tornado Wallace'
     title: 'Midnight Mania'
-    image: ../assets/images/FFWD/Tornado.jpg
+    image: ../../data/assets/FFWD/Tornado.jpg
     apple_link: 'https://music.apple.com/us/album/midnight-mania/1501440674'
     link: 'https://www.dropbox.com/s/knsi16ysnwy8446/TornadoWallace.zip?dl=1'
     content: | 
@@ -721,7 +721,7 @@ albums:
   - album:
     artist: 'Roger and Brian Eno'
     title: 'Mixing Colours'
-    image: ../assets/images/FFWD/Roger.jpg
+    image: ../../data/assets/FFWD/Roger.jpg
     apple_link: 'https://music.apple.com/us/album/mixing-colours/1494291232'
     link: 'https://www.dropbox.com/s/ipve24tu4zjr537/Roger.zip?dl=1'
     content: | 
@@ -729,7 +729,7 @@ albums:
   - album:
     artist: 'Nicolas Jaar'
     title: 'Cenzias'
-    image: ../assets/images/FFWD/Jaar.jpg
+    image: ../../data/assets/FFWD/Jaar.jpg
     apple_link: 'https://music.apple.com/us/album/cenizas/1503396296'
     link: 'https://www.dropbox.com/s/lb8fw5vtodcsjer/Jaar.zip?dl=1'
     content: | 
@@ -737,7 +737,7 @@ albums:
   - album:
     artist: 'NYZ'
     title: 'Old Trx [87-93]'
-    image: ../assets/images/FFWD/NYZ.png
+    image: ../../data/assets/FFWD/NYZ.png
     apple_link: 'https://music.apple.com/us/album/old-trx-87-93/1503785044'
     link: 'https://www.dropbox.com/s/1jbur4btojcibtb/NYZ.zip?dl=1'
     content: | 
@@ -745,7 +745,7 @@ albums:
   - album:
     artist: 'Hiroshi Yoshimura'
     title: 'Green'
-    image: ../assets/images/FFWD/Green.jpg
+    image: ../../data/assets/FFWD/Green.jpg
     apple_link: 'https://music.apple.com/us/album/green/1503101279'
     link: 'https://www.dropbox.com/s/uzjok9df432pyxo/HiroshiYoshimura.zip?dl=1'
     content: | 
@@ -754,7 +754,7 @@ albums:
   - album:
     artist: 'Yaeji'
     title: 'WHAT WE DREW 우리가 그려왔던'
-    image: ../assets/images/FFWD/yaeji.jpg
+    image: ../../data/assets/FFWD/yaeji.jpg
     apple_link: 'https://music.apple.com/us/album/what-we-drew-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EA%B7%B8%EB%A0%A4%EC%99%94%EB%8D%98/1499751574'
     link: 'https://www.dropbox.com/s/8gzvyghjfbp9ljf/Yaeji.zip?dl=1'
     content: | 
@@ -763,7 +763,7 @@ albums:
   - album:
     artist: 'John Carrol Kirby'
     title: 'Conflict'
-    image: ../assets/images/FFWD/Conflict.png
+    image: ../../data/assets/FFWD/Conflict.png
     apple_link: 'https://music.apple.com/us/album/conflict/1504746880'
     link: 'https://www.dropbox.com/s/yk71752oppdi5hy/JCCConflict.zip?dl=1'
     content: |
@@ -772,7 +772,7 @@ albums:
   - album:
     artist: 'Yves Tumor'
     title: 'Heaven to a Tortured Mind'
-    image: ../assets/images/FFWD/Yves.jpg
+    image: ../../data/assets/FFWD/Yves.jpg
     apple_link: 'https://music.apple.com/us/album/heaven-to-a-tortured-mind/1494929769'
     link: 'https://www.dropbox.com/s/xrec9dh16xyrawe/Yves.zip?dl=1'
     content: | 
@@ -782,7 +782,7 @@ albums:
   - album:
     artist: 'FUJI||||||||||TA'
     title: 'iki'
-    image: ../assets/images/FFWD/fujita.jpg
+    image: ../../data/assets/FFWD/fujita.jpg
     apple_link: 'https://music.apple.com/us/album/iki/1500399126'
     link: 'https://www.dropbox.com/s/7hp9puk1ewrdmfa/FUJITA.zip?dl=1'
     content: | 
@@ -791,7 +791,7 @@ albums:
   - album:
     artist: 'Jay Daniel'
     title: 'SSD'
-    image: ../assets/images/FFWD/SSD.png
+    image: ../../data/assets/FFWD/SSD.png
     apple_link: 'https://music.apple.com/us/album/ssd-ep/1497605511'
     link: 'https://www.dropbox.com/s/sks1c2b7rlpjmak/JAYSSD.zip?dl=1'
     content: |
@@ -799,7 +799,7 @@ albums:
   - album:
     artist: 'Felicia Atkinson'
     title: 'Everything Evaporate'
-    image: ../assets/images/FFWD/felicia.jpg
+    image: ../../data/assets/FFWD/felicia.jpg
     apple_link: 'https://music.apple.com/us/album/everything-evaporate/1504541111'
     link: 'https://www.dropbox.com/s/anq985536hp4tqz/Felicia.zip?dl=1'
     content: |
@@ -807,7 +807,7 @@ albums:
   - album:
     artist: 'Alabaster DePlume'
     title: 'To Cy & Lee: Instrumentals Vol. 1'
-    image: ../assets/images/FFWD/Alabaster.jpg
+    image: ../../data/assets/FFWD/Alabaster.jpg
     apple_link: 'https://music.apple.com/us/album/to-cy-lee-instrumentals-vol-1/1493218449'
     link: 'https://www.dropbox.com/s/ex9mb91uj67idre/Alabaster.zip?dl=1'
     content: |
@@ -815,7 +815,7 @@ albums:
   - album:
     artist: 'Clarice Jensen'
     title: 'The experience of repetition as death'
-    image: ../assets/images/FFWD/Clarice.jpg
+    image: ../../data/assets/FFWD/Clarice.jpg
     apple_link: 'https://music.apple.com/us/album/the-experience-of-repetition-as-death/1493462546'
     link: 'https://www.dropbox.com/s/jypa9800m95ofrr/ClariceJensen.zip?dl=1'
     content: |
@@ -823,7 +823,7 @@ albums:
   - album:
     artist: 'Cucina Povera'
     title: 'Tyyni'
-    image: ../assets/images/FFWD/Cucina.jpg
+    image: ../../data/assets/FFWD/Cucina.jpg
     apple_link: 'https://music.apple.com/us/album/tyyni/1499359181'
     link: 'https://www.dropbox.com/s/i3e7qc6lv1xpc3y/Cucina.zip?dl=1'
     content: |
@@ -831,7 +831,7 @@ albums:
   - album:
     artist: 'Conway the Machine'
     title: 'LULU'
-    image: ../assets/images/FFWD/LULU.png
+    image: ../../data/assets/FFWD/LULU.png
     apple_link: 'https://music.apple.com/us/album/lulu/1503800328'
     link: 'https://www.dropbox.com/s/v2wpjzd744qop0u/LULU.zip?dl=1'
     content: |
@@ -839,7 +839,7 @@ albums:
   - album:
     artist: 'Square Fauna'
     title: 'Meet the Fauna'
-    image: ../assets/images/FFWD/Squarefauna.jpg
+    image: ../../data/assets/FFWD/Squarefauna.jpg
     apple_link: 'https://music.apple.com/us/album/meet-the-fauna/1502292328'
     link: 'https://www.dropbox.com/s/avqfayl5ofd9n00/SquareFauna.zip?dl=1'
     content: |
@@ -847,7 +847,7 @@ albums:
   - album:
     artist: 'Military Genius'
     title: 'Deep Web'
-    image: ../assets/images/FFWD/MilitaryGenius.jpg
+    image: ../../data/assets/FFWD/MilitaryGenius.jpg
     apple_link: 'https://music.apple.com/us/album/deep-web/1496840015'
     link: 'https://www.dropbox.com/s/1tu70xihh0g83qx/MilitaryGenius.zip?dl=1'
     content: |
@@ -855,7 +855,7 @@ albums:
   - album:
     artist: 'Molchat Doma'
     title: 'S Krysh Nashikh Domov'
-    image: ../assets/images/FFWD/Molchat.jpg
+    image: ../../data/assets/FFWD/Molchat.jpg
     apple_link: 'https://music.apple.com/us/album/%D1%81-%D0%BA%D1%80%D1%8B%D1%88-%D0%BD%D0%B0%D1%88%D0%B8%D1%85-%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2/1492563818'
     link: 'https://www.dropbox.com/s/6lcida86uli8lwx/MolchatDoma.zip?dl=1'
     content: |
@@ -865,7 +865,7 @@ albums:
   - album:
     artist: 'Molchat Doma'
     title: 'Etazhi'
-    image: ../assets/images/FFWD/Etazhi.jpg
+    image: ../../data/assets/FFWD/Etazhi.jpg
     apple_link: 'https://music.apple.com/us/album/%D1%8D%D1%82%D0%B0%D0%B6%D0%B8/1492386136'
     link: 'https://www.dropbox.com/s/zp535lsj0habe00/Etazhi.zip?dl=1'
     content: 
@@ -873,25 +873,25 @@ albums:
   - album:
     artist: 'Horse Lords'
     title: 'The Common Task'
-    image: ../assets/images/FFWD/Horse.jpg
+    image: ../../data/assets/FFWD/Horse.jpg
     apple_link: 'https://music.apple.com/us/album/the-common-task/1493679131'
     link: 'https://www.dropbox.com/s/r0iv1uqpu3hwoya/HorseLords.zip?dl=1'
-    content: 
+    content: |
              Suffering quarantine alongside some of the most...*discerning* set of ears in existence presents its own set of challenges. I often find myself curating playlists to evade Sheebie's ire. When in doubt, I always reach for Baltimore's Horse Lords. I enjoy imagining it's Steve Reich's prodigal grandchildren starting a math rock band with Hawkwind's surly stepkids. 
                                                                           
   - album:
     artist: 'Autechre'
     title: 'AE_LIVE 2016/2018'
-    image: ../assets/images/FFWD/AE.jpg
+    image: ../../data/assets/FFWD/AE.jpg
     apple_link: ''
     link: 'https://www.dropbox.com/s/zed4a80ubmwz1rx/AE_LIVE.zip?dl=1'
-    content: 
+    content: |
              Sheba fucking *hates* this. 
                                                              
   - album:
     artist: 'Charles Rumback & Ryley Walker'
     title: 'Little Common Twist'
-    image: ../assets/images/FFWD/Charles.jpg
+    image: ../../data/assets/FFWD/Charles.jpg
     apple_link: 'https://music.apple.com/us/album/little-common-twist/1477880852'
     link: 'https://www.dropbox.com/s/7d0r64lp6qoce1r/CharlesRumback%26RyleyWalker.zip?dl=1'
     content: |
@@ -900,16 +900,16 @@ albums:
   - album:
     artist: 'Westside Gunn'
     title: 'Pray for Paris'
-    image: ../assets/images/FFWD/westside.jpg
+    image: ../../data/assets/FFWD/westside.jpg
     apple_link: 'https://music.apple.com/us/album/pray-for-paris/1506521703'
     link: 'https://www.dropbox.com/s/95efwsnnsz0vm5s/WESTSIDE.zip?dl=1'
-    content: 
+    content: |
           Gotta confess... Westside Gunn wore me out. Dare you to find a bigger Griselda fan, but the GxFR labelhead dropped too much shit, too soon. But *Pray for Paris* reinvigorates my utter devotion to Buffalo's greatest curator. We've got production from Alchemist, Tyler, the Creator, Daringer, and DJ Premier! Roc Marciano, Conway, Benny, Freddie Gibbs and Tyler drop unforgettable verses. Virgil Abloh crafted the cover. Despite being recorded in two days after Virgil invited him to fashion week, *Pray for Paris* might be one of Gunner's strongest yet. Get well soon, [*Fly God*](https://youtu.be/-oxXpxsqG8E?t=2015). 
                                                                                               
   - album:
     artist: 'Laurel Halo'
     title: 'Possessed'
-    image: ../assets/images/FFWD/laurel.jpg
+    image: ../../data/assets/FFWD/laurel.jpg
     apple_link: 'https://music.apple.com/us/album/possessed/1498819075'
     link: 'https://www.dropbox.com/s/0ofzsoip9h7cso6/Halo.zip?dl=1'
     content: 
@@ -917,7 +917,7 @@ albums:
   - album:
     artist: 'Pharoah Sanders'
     title: 'Live in Paris (1975)'
-    image: ../assets/images/FFWD/pharoah.jpg
+    image: ../../data/assets/FFWD/pharoah.jpg
     apple_link: 'https://music.apple.com/us/album/live-in-paris-1975/1494146179'
     link: 'https://www.dropbox.com/s/o7ct0v46tm0gr32/PharoahSanders.zip?dl=1'
     content: 
@@ -925,7 +925,7 @@ albums:
   - album:
     artist: 'Jasmine Infiniti'
     title: 'Bxtch Släp'
-    image: ../assets/images/FFWD/jasmine.jpg
+    image: ../../data/assets/FFWD/jasmine.jpg
     apple_link: 'https://music.apple.com/us/album/bxtch-sl%C3%A4p/1504375873'
     link: 'https://www.dropbox.com/s/2fxbatx0af5hh9k/JasmineInfiniti.zip?dl=1'
     content: 
@@ -933,7 +933,7 @@ albums:
   - album:
     artist: 'Ann Margaret Hogan'
     title: 'Honeysuckle Burials'
-    image: ../assets/images/FFWD/Ann.jpg
+    image: ../../data/assets/FFWD/Ann.jpg
     apple_link: 'https://music.apple.com/us/album/honeysuckle-burials/1499379283'
     link: 'https://www.dropbox.com/s/eqti2njleozae8y/AnnMargaretHogan.zip?dl=1'
     content: 
@@ -941,7 +941,7 @@ albums:
   - album:
     artist: 'Sven Wunder'
     title: 'Eastern Flowers'
-    image: ../assets/images/FFWD/sven.jpg
+    image: ../../data/assets/FFWD/sven.jpg
     apple_link: 'https://music.apple.com/us/album/eastern-flowers/1503051988'
     link: 'https://www.dropbox.com/s/hcm2ncl2udjl5nb/SvenWunder.zip?dl=1'
     content: 
@@ -949,7 +949,7 @@ albums:
   - album:
     artist: 'Maggi Payne'
     title: 'Eastern Flowers'
-    image: ../assets/images/FFWD/Maggi.jpg
+    image: ../../data/assets/FFWD/Maggi.jpg
     apple_link: 'https://music.apple.com/us/album/ahh-ahh-music-for-ed-tannenbaums-technological-feets/522356325'
     link: 'https://www.dropbox.com/s/v0d1b1sw1e182bl/MaggiPayne.zip?dl=1'
     content: 
@@ -957,7 +957,7 @@ albums:
   - album:
     artist: 'Jackie Lynn'
     title: 'Jacqueline'
-    image: ../assets/images/FFWD/jackielynn.jpg
+    image: ../../data/assets/FFWD/jackielynn.jpg
     apple_link: 'https://music.apple.com/us/album/jacqueline/1492518909'
     link: 'https://www.dropbox.com/s/yn0bu7lvf0iohjc/Jacqueline.zip?dl=1'
     content: 
@@ -965,7 +965,7 @@ albums:
   - album:
     artist: 'Menzi'
     title: 'Impazamo'
-    image: ../assets/images/FFWD/menzi.jpg
+    image: ../../data/assets/FFWD/menzi.jpg
     apple_link: 'https://music.apple.com/us/album/impazamo-ep/1503182312'
     link: 'https://www.dropbox.com/s/lgzg3shosknfa7g/Menzi.zip?dl=1'
     content: 
@@ -973,7 +973,7 @@ albums:
   - album:
     artist: 'The Heliocentrics'
     title: 'Infinity of Now'
-    image: ../assets/images/FFWD/HELIOCENTRICS.jpg
+    image: ../../data/assets/FFWD/HELIOCENTRICS.jpg
     apple_link: 'https://music.apple.com/us/album/infinity-of-now/1496866734'
     link: 'https://www.dropbox.com/s/x02r89hknzvfhkw/TheHeliocentrics.zip?dl=1'
     content: 
@@ -981,7 +981,7 @@ albums:
   - album:
     artist: 'Addison Groove'
     title: 'Fred Neutron'
-    image: ../assets/images/FFWD/addison.jpg
+    image: ../../data/assets/FFWD/addison.jpg
     apple_link: 'https://music.apple.com/us/album/fred-neutron/1502717022'
     link: 'https://www.dropbox.com/s/8h3sgre5ghunr8k/AddisonGroove.zip?dl=1'
     content: 
@@ -989,7 +989,7 @@ albums:
   - album:
     artist: 'Plone'
     title: 'Puzzlewood'
-    image: ../assets/images/FFWD/plone.jpg
+    image: ../../data/assets/FFWD/plone.jpg
     apple_link: 'https://music.apple.com/us/album/puzzlewood/1501669587'
     link: 'https://www.dropbox.com/s/b823o58hnj8mko5/Plone.zip?dl=1'
     content: 
@@ -997,10 +997,10 @@ albums:
   - album:
     artist: 'Lorenzo Senni'
     title: 'Scacco Matto'
-    image: ../assets/images/FFWD/lorenzo.jpg
+    image: ../../data/assets/FFWD/lorenzo.jpg
     apple_link: 'https://music.apple.com/us/album/scacco-matto/1494929187'
     link: 'https://www.dropbox.com/s/6aurkc148lcg82q/ScaccoMatto.zip?dl=1'
-    content: 
+    content: |
             First time Kode 9, Hyperdub's label boss, met Lorenzo Senni, he said, "You don't smoke weed." Senni was speechless. "How'd you *know*?!" he asked. Kode noted how Senni’s sound signature was so bright and midrange-y, how it lacked the slow, sunken stupor of beats smudged with sativa and resin. In fact, there were *no* beats at all. Senni admitted it was the first time someone figured out he’d grown up straight edge in the Rimini hardcore punk scene just from the sonic details of his compositions.  With *Scacco Matto*, the Italian Pointillist rave voyeur, or whatever the fuck, delivers the swan song to this particular phase of his career, and it’s his best record yet. Call it glorious overstimulation because *Scacco Matto’s* eight tracks overwhelm the senses with sugary blasts of serotonin and candied rhythms—all without a single drum hit. Despite mining the maligned palette of trance, Senni transcends the genre's treacherous sonics with a supernatural gift with melodic rhythm.  
             Unless you consume five Red Bulls a day like Senni, *Scacco Matto's* sugary arpeggios and buzzy chord stabs might overwhelm your senses. I get it. If that's the case, just promise me you'll try “Canone Infiniti”, the swirling centerpiece of *Scacco Matto*. Although the majority of Senni’s work utilizes the super-saw waves from the Roland JP-8080, a trance workhorse, “Canone Infiniti” introduces an unfamiliar Senni sound — a digi Wurlitzer circulating a 8/10 pattern that stretches into infinity. But it’s not until the top-line emerges around the 0:40 mark where the walls fall away and the floor disappears...and we’re suddenly floating. The lilting melody sweeps across the stereo field (with the perfect amount of wow and flutter!) as Senni manipulates his synth's envelope in a way that resembles palm-muted guitar strings. It’s simply the most gorgeous song on one of my favorite records of the year. 
             Decaf drinkers should avoid at all costs. 
@@ -1009,90 +1009,90 @@ albums:
   - album:
     artist: 'John Carroll Kirby'
     title: 'My Garden'
-    image: ../assets/images/FFWD/kirby.jpg
+    image: ../../data/assets/FFWD/kirby.jpg
     apple_link: 'https://music.apple.com/us/album/my-garden/1494244718'
     link: 'https://www.dropbox.com/s/pv7wqsw73t38evs/JohnCarrollKirby.zip?dl=1'
-    content: 
+    content: |
            As soon as I dropped the needle on John Carroll Kirby's Stones Throw debut, *My Garden*, Sheba damn near ruined the entire first listen. She noted (correctly) how the lead track, "Blueberry Beads", sounds *exactly* like the Charlie Brown theme song. You all, I can't unhear that shit now. I skip it every time. Quarartine listening is no joke.  The rest of *My Garden* deviates from Kirby's familiar Moog/DX7 workouts and ventures toawrds Japanese architectural ambiance. Yoshio Suzuki's [*Morning Picture*](https://music.apple.com/us/album/morning-picture/1453369285) serves as a spiritual cousin with its jazzy explorations and new agey meditations. Either you've stopped reading at this point or you're all in. Either way, ignore the cover and afford *My Garden* a cursory listen. You may just find one of the most curiously playful records of 2020. Like guru Vince Guaraldi. 
    
   - album:
     artist: 'Maxwell Sterling'
     title: 'Laced With Rumour: Loud-Speaker Of Truth'
-    image: ../assets/images/FFWD/Maxwell.jpg
+    image: ../../data/assets/FFWD/Maxwell.jpg
     apple_link: 'https://music.apple.com/us/album/laced-with-rumour-loud-speaker-of-truth/1510030826'
     link: 'https://www.dropbox.com/s/oosku8y41vsgtsb/MaxwellSterling.zip?dl=1'
-    content: 
+    content: |
           Maxwell Sterling weaves a dense tapestry of spiritual jazz and sparkling electronics with *Laced With Rumour*, an album that defies quick consumption.  Despite clocking in at a scant 45 mins., these four sprawling tracks require a few spins to reveal their intricate details and sonic secrets. Let it wash over you on the first go-around, then rinse and repeat for maximum immersion.
                                                                                                                                    
   - album:
     artist: 'KeiyaA'
     title: 'Forever, Ya Girl'
-    image: ../assets/images/FFWD/KeiyaA.jpg
+    image: ../../data/assets/FFWD/KeiyaA.jpg
     apple_link: 'https://music.apple.com/us/album/forever-ya-girl/1504554988'
     link: 'https://www.dropbox.com/s/a39tdcd0ti9osg4/KeiyaA.zip?dl=1'
-    content: 
+    content: |
            A sensorial R&B meditation on love, loss, hurt, and embracing uncertainty. In short, the perfect record for this moment. Keep this one by the bedside. 
                                                                                                          
   - album:
     artist: 'K-LONE'
     title: 'Cape Cira'
-    image: ../assets/images/FFWD/klone.jpg
+    image: ../../data/assets/FFWD/klone.jpg
     apple_link: 'https://music.apple.com/us/album/cape-cira/1500881384'
     link: 'https://www.dropbox.com/s/yfm44za9ib6tbka/KLONE.zip?dl=1'
-    content: 
+    content: |
             In an effort to escape a dreary winter, K-Lone dove into the tropics on his debut LP, *Cape Cira*, a balmy mix of dreamy UK club styles gilded with sparkling ambiance. Following up on the dancefloor destruction of 2019's [*Sine Language*](https://music.apple.com/us/album/sine-language-ep/1460859837), K-Lone's move to the equator is a savvy move given that *Cape Cira* works in essentially every setting. The summery escapism shines through on opener "Yelli" and maintains it's lit-from-within lustre up until the last note. As warmer temperatures arrive, watch *Cape Cira* become one of your frequent companions. 
                                                                                                                                                                                                                  
   - album:
     artist: 'Charles Rumback'
     title: 'June Holiday (with Jim Baker & John Tate)'
-    image: ../assets/images/FFWD/Rumback.jpg
+    image: ../../data/assets/FFWD/Rumback.jpg
     apple_link: 'https://music.apple.com/us/album/june-holiday-with-jim-baker-john-tate/1497367367'
     link: 'https://www.dropbox.com/s/v4c76mbhqgcrw18/Rumback.zip?dl=1'
-    content: 
+    content: |
             Rumback returns with his dreamy trio of bass, drums, & piano to exlpore the outer edges of improvisation, yet *June Holiday* always maintains a sense of care and thoughtfulness throughout its wide open spaces. Absolutely essential you pair it with Adam Scott's scorching visuals for ["Burning Daylight"](https://www.youtube.com/watch?v=RaXuXONFoo8&feature=emb_title) for maximum synergy. Perfect for rolling thunderstorms and twilit desert drives. 
                                                                                                                                                                                                                              
   - album:
     artist: 'The Soft Pink Truth'
     title: 'Shall We Go On Sinning So That Grace May Increase?'
-    image: ../assets/images/FFWD/pink.jpg
+    image: ../../data/assets/FFWD/pink.jpg
     apple_link: 'https://music.apple.com/us/album/shall-we-go-on-sinning-so-that-grace-may-increase/1498841164'
     link: 'https://www.dropbox.com/s/v4c76mbhqgcrw18/Rumback.zip?dl=1'
-    content: 
+    content: |
             Drew Daniel's Soft Pink Truth moniker stolen my heart for almost two decades with his take on left-field house, electro, and everything in between, but nothing he's done in Matmos or as S.P.T. could've prepared me for the revelatory *Shall We Go On Sinning So That Grace May Increase?*. What began as an emotional response to rising facism around the globe, Daniels utilized his creativity as a form of self-care and crafted his most joyous and gracious record yet. It's almost devotional in it's grace and gratitude. Truly one of the year's best.  
                                                                                                                                                                                                                                          
   - album:
     artist: 'Lindstrøm'
     title: 'Live at Henie Onstad Kunstsenter'
-    image: ../assets/images/FFWD/Lindstrom.jpg
+    image: ../../data/assets/FFWD/Lindstrom.jpg
     apple_link: 'https://music.apple.com/us/album/live-at-henie-onstad-kunstsenter/1507245587'
     link: 'https://www.dropbox.com/s/juus44kijgsui0e/Lindstrom.zip?dl=1'
-    content: 
+    content: |
             Psilocybin enthsuiasts need *Live at Henie Onstad Kunstsenter* in their journies immediately! Not gonna lie—-the last half devolvles into proggy wonkiness, but hearing Lindstrøm wield his masterful command over hardware remains a treat. The installation iteslf is also worth a [look](https://www.youtube.com/watch?v=an8Z60q9nyY&t=2s). 
                                                                                                                                                                                                                                                      
   - album:
     artist: 'Michael J. Blood'
     title: 'Introducing Michael J. Blood'
-    image: ../assets/images/FFWD/MBJ.jpg
+    image: ../../data/assets/FFWD/MBJ.jpg
     apple_link: ''
     link: 'https://www.dropbox.com/s/ymqwty6958ut7wb/MichaelJBlood.zip?dl=1'
-    content: 
+    content: |
             Most blunted gear I've heard since Actress' earliest cuts, no lie. Spread across four twenty-minute sections, Blood conjures the scene of a Manchester pirate radio tranmission fueled by an ungodly amount of glass-tipped pre-rolled's. All of it sounds like Moodymann, Theo Parrish, John T. Gast paying homage to Prince and Dilla with just some Sour Diesel and an MPC 2000. If you worship any of the aforementioned, *Introducing Michael J. Blood* is absolutely essential.  
             *No one is even reading this, but don't forget to click the album artwork to download if there isn't Apple Music link for streaming.*
                                                                                                                                                                                                                                                                  
   - album:
     artist: 'Fiona Apple'
     title: 'Fetch the Bolt Cutters'
-    image: ../assets/images/FFWD/Fiona.jpg
+    image: ../../data/assets/FFWD/Fiona.jpg
     apple_link: 'https://music.apple.com/us/album/fetch-the-bolt-cutters/1507811635'
     link: 'https://www.dropbox.com/s/mnsili5enevpjuz/FionaApple.zip?dl=1'
-    content: 
+    content: |
             All props to Sheba on this one. I confess *Fetch the Bolt Cutters* is the first Fiona Apple record I've heard, but Sheba's been jamming it non-stop and it's fantastic. Ramshackle sonics coupled with creative arrangments and expert songwriting makes *Fetch the Bolt Cutters* such a dizzying listening experience. Earns every ounce of its hype with Apple's sheer musical physicality and unvarnished humanity. 
                                                                                                                                                                                                                                                                              
   - album:
     artist: 'Ka'
     title: 'Descendants of Cain'
-    image: ../assets/images/FFWD/Ka.jpg
+    image: ../../data/assets/FFWD/Ka.jpg
     apple_link: ''
     link: 'https://www.dropbox.com/s/vchhlhlkiwmgicd/Ka.zip?dl=1'
-    content: 
+    content: |
             Between Conway's *LULU*, Westside Gunn's *Pray for Paris*, and  Ka's *Descendants of Cain*, April 2020 turned into one of the strongest months in Hip Hop since the summer of '95. For me, Ka occupies a lane all his own, where the barely-there, self-produced beats never distract from the artistry of his bewtiching lyricism. Ka's simply without equal and *Descendants of Cain* cements his status as the undisputed King of Brownswood. 

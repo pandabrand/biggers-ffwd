@@ -44,7 +44,7 @@ const AlbumIndex = ({data, pageContext}) => {
                                             <h3>{album.title}</h3>
                                         </header>
                                         <SectionBody content={album.content} />
-                                        { album.apple_link.length > 0 &&
+                                        { album.apple_link != null &&
                                             <ul className="actions">
                                                 <li><a href={album.apple_link} className="button">Apple Music</a></li>
                                             </ul>
@@ -55,7 +55,7 @@ const AlbumIndex = ({data, pageContext}) => {
                         );
                     })}
                 </section>
-                <div>
+                <div style={{color: '#000', fontSize: '1.5rem'}}>
                     {previousPagePath ? <Link to={previousPagePath}>Previous</Link> : null}
                     {nextPagePath ? <Link to={nextPagePath}>Next</Link> : null}
                 </div>
@@ -68,7 +68,7 @@ const AlbumIndex = ({data, pageContext}) => {
 export const query = graphql`
     query($skip: Int!, $limit: Int!) {
         allMarkdownRemark(
-            sort: {fields: frontmatter___published_date, order: DESC}
+            sort: {fields: frontmatter___publish_date, order: DESC}
             skip: $skip
             limit: $limit
             ) {
@@ -80,7 +80,7 @@ export const query = graphql`
                     title
                     content
                     link
-                    published_date(formatString: "Y-MM-DD")
+                    publish_date(formatString: "Y-MM-DD")
                     new_image {
                         childImageSharp {
                             fluid(maxWidth: 800, maxHeight: 800) {
