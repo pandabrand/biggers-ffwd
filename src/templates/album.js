@@ -61,9 +61,9 @@ const HomeIndex = ({data, pageContext}) => {
                         );
                     })}
                 </section>
-                <div style={{color: '#000', fontSize: '1.5rem', display: 'flex', justifyContent: 'space-between'}}>
-                    {previousPagePath ? <Link to={previousPagePath} style={{margin: '25px', display: 'flex', alignItems: 'center', fontWeight: 'bold'}} ><img src={prev} alt="" height="75px" style={{margin: '0 15px'}} />Previous</Link> : <div style={{margin: '25px', display: 'flex', alignItems: 'center', fontWeight: 'bold'}} ><img src={prev} alt="" height="75px" style={{margin: '0 15px', opacity: '0.3'}} />Previous</div>}
-                    {nextPagePath ? <Link to={nextPagePath} style={{margin: '25px', display: 'flex', alignItems: 'center', fontWeight: 'bold'}} >Next<img src={next} alt="" height="75px" style={{margin: '0 15px'}} /></Link> : <div style={{margin: '25px', display: 'flex', alignItems: 'center', fontWeight: 'bold'}} >Next<img src={next} alt="" height="75px" style={{margin: '0 15px', opacity: '0.3'}} /></div>}
+                <div className="pagination">
+                    {previousPagePath ? <Link to={previousPagePath} className="link" ><img src={prev} alt="previous" className="arrows" />Previous</Link> : <div className="text" ><img src={prev} alt="previous" className="arrows" />Previous</div>}
+                    {nextPagePath ? <Link to={nextPagePath} className="link" >Next<img src={next} alt="next" className="arrows" /></Link> : <div className="text" >Next<img src={next} alt="next" className="arrows" /></div>}
                 </div>
             </div>
 

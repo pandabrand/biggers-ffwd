@@ -1,0 +1,24 @@
+.pagination {
+  color: #000000;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+
+  .link, 
+  .text {
+    margin: 25px;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    border: none;
+  }
+
+  .arrows {
+    margin: 0 15px;
+    height: 75px;
+
+    @include breakpoint(small) {
+      height: 25px;
+    }
+  }
+}
