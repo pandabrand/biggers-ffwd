@@ -1,0 +1,18 @@
+backend:
+  name: git-gateway
+media_folder: data/assets/FFWD
+public_folder: images/assets
+publish_mode: editorial_workflow 
+collections:
+  - name: 'albums'
+    label: 'Albums'
+    folder: 'data/albums'
+    slug: "{{slug}}-{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
+    fields:
+      - { label: 'Artist', name: "artist", widget: "string" }
+      - { label: 'Title', name: "title", widget: "string" }
+      - { label: "Body", name: "content", widget: "markdown" }
+      - { label: 'Album Image', name: "new_image", widget: "image" }
+      - { label: 'Apple Link', name: "apple_link", widget: "string" }
+      - { label: 'Download link', name: "link", widget: "string" }
+      - { label: "Publish Date", name: "published_date", widget: "datetime" }
