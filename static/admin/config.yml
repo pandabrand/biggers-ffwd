@@ -7,6 +7,9 @@ collections:
     label: 'Albums'
     folder: 'data/albums'
     slug: "{{slug}}-{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
+    create: true
+    editor:
+      preview: false
     fields:
       - { label: 'Artist', name: "artist", widget: "string" }
       - { label: 'Title', name: "title", widget: "string" }
