@@ -31,6 +31,14 @@
     apple_link: ''
     link: 'https://www.dropbox.com/s/ynwjqbbds7t38it/PrettySneaky.zip?dl=1'
     content: |
+                       
+  - album:
+    artist: 'Guedra Guedra'
+    title:  'Son of Sun'
+    image: ../assets/images/FFWD/Guedra.jpg
+    apple_link: 'https://music.apple.com/us/album/son-of-sun-ep/1499839933'
+    link: 'https://www.dropbox.com/s/2w6dko61qrcj6q4/Guedra.zip?dl=1'
+    content: |
     
   - album:
     artist: 'Jessy Lanza'
@@ -149,7 +157,7 @@
     title:  'Silvester'
     image: ../assets/images/FFWD/Bratten.jpg
     apple_link: 'https://music.apple.com/us/album/silvester/1515389473'
-    link: ''
+    link: 'https://www.dropbox.com/s/m7rv00f7ifqddqf/Silvester.zip?dl=1'
     content: |
           
   - album:
