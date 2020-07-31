@@ -2,7 +2,6 @@ backend:
   name: git-gateway
 media_folder: data/assets/FFWD
 public_folder: images/assets
-publish_mode: editorial_workflow 
 collections:
   - name: 'albums'
     label: 'Albums'
