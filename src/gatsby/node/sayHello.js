@@ -42,24 +42,5 @@ module.exports = ({ app }) => {
     } catch (error) {
       console.error(error)
     }
-    // Git.Repository.open(pathToRepo).then(function(repo) {
-    //   console.log('repo: ', repo)
-    //   Git.Blame.file(repo, yaml_file_path, '-p').then(function(blame) {
-    //     YAML.parseFile(yaml_file_path, ((yaml_object) => {
-    //       yaml_object.albums.forEach(album => {
-    //         let lineno = album.getLineNumber()
-    //         console.log('line number: ', lineno)
-    //         let hunk = blame.getHunkByLine(lineno)
-    //         let commitId = hunk.finalCommitId()
-    //         console.log('album line commit: ', commitId.toString().substring(0, 8));
-    //         Git.Commit.lookup(repo, commitId).then(function(commit) {
-    //           console.log('commit time: ', commit.date())
-    //           album_array += album.title + ', ' + commit.date
-    //         })
-    //       })
-    //       res.send(album_array)
-    //     }))
-    //   })
-    // })
   })
 }
